@@ -1,0 +1,11 @@
+{{- $title := .Title -}}
+{{- if not .Params.title -}}
+{{- $base := path.Base .File.Dir -}}
+{{- if eq $base "." }}{{ $base = path.Base (path.Dir .File.Dir) }}{{ end -}}
+{{- $matches := findRE `^U\+([0-9A-Fa-f]{4,6})$` $base -}}
+{{- if gt (len $matches) 0 -}}
+{{- $hex := substr $base 2 -}}
+{{- $title = printf "&#x%s; (%s)" $hex $base -}}
+{{- end -}}
+{{- end -}}
+{{- return $title -}}

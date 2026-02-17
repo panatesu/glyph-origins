@@ -1,0 +1,15 @@
+<div id="radical-list">
+  {{ $glyphs := where site.RegularPages "Type" "glyphs" }}
+  {{ range seq 215 }}
+  {{ $name := string . }}
+  {{ $path := printf "/radicals/%s" $name }}
+  {{ with site.GetPage $path }}
+  {{ $myGlyphs := where $glyphs "Params.radical" $name }}
+  {{ if gt (len $myGlyphs) 0 }}
+  <a href="{{ .RelPermalink }}">{{ $name }} {{ .Title }}</a>
+  {{ else }}
+  <span>{{ $name }} {{ .Title }}</span>
+  {{ end }}
+  {{ end }}
+  {{ end }}
+</div>

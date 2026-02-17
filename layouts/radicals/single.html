@@ -1,0 +1,29 @@
+{{ define "title" }}
+{{- partial "smart_title.html" . | safeHTML }} | {{ .Site.Title }}
+{{ end }}
+
+{{ define "main" }}
+<content>
+    <h1>{{ partial "smart_title.html" . | safeHTML }}</h1>
+
+    {{ .Content }}
+
+    {{ $radId := .File.BaseFileName }}
+    {{ $glyphs := where site.RegularPages "Type" "glyphs" }}
+    {{ $childPages := where $glyphs "Params.radical" $radId }}
+
+    {{ range $childPages.ByWeight }}
+    <article style="margin-bottom: 2rem;">
+        <h2 id="{{ path.Base .File.Dir }}">
+            {{ partial "smart_title.html" . | safeHTML }}
+        </h2>
+
+        <div>
+            {{ .Content }}
+        </div>
+
+    </article>
+    <hr>
+    {{ end }}
+</content>
+{{ end }}
