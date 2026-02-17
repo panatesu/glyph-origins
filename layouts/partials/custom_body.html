@@ -1,1 +1,6 @@
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('{{ .Site.BaseURL }}sw.js');
+    }
+</script>
 <link href="{{ .Site.BaseURL }}fonts.css" rel="stylesheet">

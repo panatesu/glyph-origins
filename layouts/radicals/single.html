@@ -1,10 +1,10 @@
 {{ define "title" }}
-{{- partial "smart_title.html" . | safeHTML }} | {{ .Site.Title }}
+{{ .Title }} ({{ .Weight }}) | {{ .Site.Title }}
 {{ end }}
 
 {{ define "main" }}
 <content>
-    <h1>{{ partial "smart_title.html" . | safeHTML }}</h1>
+    <h1>Radical {{ .Title }} ({{ .Weight }})</h1>
 
     {{ .Content }}
 
