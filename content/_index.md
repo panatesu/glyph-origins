@@ -3,9 +3,9 @@ title = "Home"
 weight = 1
 +++
 
-# [Abbreviations & Symbols]({{ .Site.BaseURL }}abbreviations)
+# [Abbreviations & Symbols](abbreviations)
 
-# [Reconstruction(s) used]({{ .Site.BaseURL }}reconstructions)
+# [Reconstruction(s) used](reconstructions)
 
 # Intro to Palaeography:
 
