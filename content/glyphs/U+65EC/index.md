@@ -1,9 +1,8 @@
-+++
-radical = "72"
++++radical = "72"
 weight = 2
 +++
 
-![](https://i.postimg.cc/vH7y3NCF/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/vH7y3NCF/image.png" >}}
 
 {旬} \*sN.qʷi\[n\] "ten days"
 

@@ -1,9 +1,8 @@
-+++
-radical = "64"
++++radical = "64"
 weight = 1
 +++
 
-![](https://i.postimg.cc/L6Jpk0T5/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/L6Jpk0T5/image.png" >}}
 
 {才} \*\[dz\]ˁə "talent"
 

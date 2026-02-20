@@ -1,9 +1,8 @@
-+++
-radical = "44"
++++radical = "44"
 weight = 3
 +++
 
-![](https://i.postimg.cc/RF045nCj/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/RF045nCj/image.png" >}}
 
 {履} \*\[r\]ijʔ "to put on shoes"
 

@@ -1,9 +1,8 @@
-+++
-radical = "102"
++++radical = "102"
 weight = 1
 +++
 
-![](https://i.postimg.cc/FRZ3TgCx/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/FRZ3TgCx/image.png" >}}
 
 {由} \*l\[u\] "from"
 

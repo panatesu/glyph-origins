@@ -1,9 +1,8 @@
-+++
-radical = "85"
++++radical = "85"
 weight = 1
 +++
 
-![](https://i.postimg.cc/qvPx590L/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/qvPx590L/image.png" >}}
 
 {蛷} \*\[ɡ\]u "centipede" ♪→ {求} \*\[ɡ\]u "to seek"
 

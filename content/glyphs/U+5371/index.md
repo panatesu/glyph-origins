@@ -1,9 +1,8 @@
-+++
-radical = "26"
++++radical = "26"
 weight = 3
 +++
 
-![](https://i.postimg.cc/Dy4cQQbR/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/Dy4cQQbR/image.png" >}}
 
 {跪} \*\[g\](r)ojʔ "to kneel" ♪→ {危} \*\[ŋ\](r)\[o\]j "dangerous"
 

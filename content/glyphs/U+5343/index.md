@@ -1,9 +1,8 @@
-+++
-radical = "24"
++++radical = "24"
 weight = 1
 +++
 
-![](https://i.postimg.cc/wTtgqB4v/imag-U-5343e.png)
+{{< glyph-table-img path="https://i.postimg.cc/wTtgqB4v/imag-U-5343e.png" >}}
 
 {一千} \*ʔit (C)Vs.nˤiŋ "one thousand" → {千} \*(C)Vs.nˤiŋ "thousand"
 

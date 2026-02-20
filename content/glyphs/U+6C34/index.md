@@ -1,9 +1,8 @@
-+++
-radical = "85"
++++radical = "85"
 weight = 0
 +++
 
-![](https://i.postimg.cc/fR8h7fND/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/fR8h7fND/image.png" >}}
 
 {水} \*s.turʔ "water"
 

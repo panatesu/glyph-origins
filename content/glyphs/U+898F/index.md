@@ -1,9 +1,8 @@
-+++
-radical = "147"
++++radical = "147"
 weight = 1
 +++
 
-![](https://i.postimg.cc/ZnRbx7ms/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/ZnRbx7ms/image.png" >}}
 
 {規} \*kʷe "compass"
 

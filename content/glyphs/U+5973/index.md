@@ -1,9 +1,8 @@
-+++
-radical = "38"
++++radical = "38"
 weight = 0
 +++
 
-![](https://i.postimg.cc/k52PCxjM/U-5973.png)
+{{< glyph-table-img path="https://i.postimg.cc/k52PCxjM/U-5973.png" >}}
 
 ?{如} \*na "to obey" ♪→ {女} \*nraʔ "woman" & {母} \*mˤəʔ "mother"
 

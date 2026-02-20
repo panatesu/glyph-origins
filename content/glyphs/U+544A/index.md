@@ -1,11 +1,10 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 8
 +++
 
 #### 告¹
 
-![](https://i.postimg.cc/441FM1bf/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/441FM1bf/image.png" >}}
 
 {告} \*kˤuks "to report"
 

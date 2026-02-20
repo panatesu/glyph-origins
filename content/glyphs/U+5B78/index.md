@@ -1,9 +1,8 @@
-+++
-radical = "39"
++++radical = "39"
 weight = 6
 +++
 
-![](https://i.postimg.cc/VNpJXTnK/U-5B78.png)
+{{< glyph-table-img path="https://i.postimg.cc/VNpJXTnK/U-5B78.png" >}}
 
 {學} \*m.kˤruk "to study"
 
@@ -17,7 +16,7 @@ Initially the word {學} was written with various combinations of 宀
 学 - Shortening based on the cursive form. Modern simplified form in
 China and Japan.
 
-![](https://i.postimg.cc/fywDdj2H/U-5B66.png)
+{{< glyph-table-img path="https://i.postimg.cc/fywDdj2H/U-5B66.png" >}}
 
 Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
 Characters from A to Z (325)

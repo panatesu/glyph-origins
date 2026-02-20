@@ -1,9 +1,8 @@
-+++
-radical = "9"
++++radical = "9"
 weight = 1
 +++
 
-![](https://i.postimg.cc/RFhB3w8r/U-4ECB.png)
+{{< glyph-table-img path="https://i.postimg.cc/RFhB3w8r/U-4ECB.png" >}}
 
 ?{疥} \*C.kˤr\[e\]\[p\]s "scabies" ♪→ {介} \*kˤr\[e\]ps "aid"
 

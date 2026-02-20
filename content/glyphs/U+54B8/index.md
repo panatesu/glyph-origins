@@ -1,9 +1,8 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 10
 +++
 
-![](https://i.postimg.cc/rFwcYs4n/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/rFwcYs4n/image.png" >}}
 
 {咸} \*\[ɡ\]ˤr\[ə\]mʔ "to kill" ♪→ {咸} \*\[ɡ\]ˤr\[ə\]m "all"
 

@@ -1,9 +1,8 @@
-+++
-radical = "57"
++++radical = "57"
 weight = 1
 +++
 
-![](https://i.postimg.cc/mDCB4mWj/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/mDCB4mWj/image.png" >}}
 
 {弘} \*wˤəŋ "grand"
 

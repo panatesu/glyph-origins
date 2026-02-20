@@ -1,9 +1,8 @@
-+++
-radical = "64"
++++radical = "64"
 weight = 0
 +++
 
-![](https://i.postimg.cc/dVJrDJwW/U-624B.png)
+{{< glyph-table-img path="https://i.postimg.cc/dVJrDJwW/U-624B.png" >}}
 
 ?{手} \*C̥.luʔ "hand" / ?{莠} \*\[l\]uʔ "foxtail millet" ♪→ {手} \*C̥.luʔ
 "hand"

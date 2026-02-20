@@ -1,9 +1,8 @@
-+++
-radical = "56"
++++radical = "56"
 weight = 0
 +++
 
-![](https://i.postimg.cc/Bn4rPq99/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/Bn4rPq99/image.png" >}}
 
 {杙} \*lək "wooden peg" ♪→ {弋} \*lək "arrow with a string"
 

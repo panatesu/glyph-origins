@@ -1,9 +1,8 @@
-+++
-radical = "62"
++++radical = "62"
 weight = 2
 +++
 
-![](https://i.postimg.cc/zB67Ckyg/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/zB67Ckyg/image.png" >}}
 
 {戚} \*\[tsʰ\]ˤiwk "relatives"
 

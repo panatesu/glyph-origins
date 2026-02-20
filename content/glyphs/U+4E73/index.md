@@ -1,9 +1,8 @@
-+++
-radical = "5"
++++radical = "5"
 weight = 2
 +++
 
-![](https://i.postimg.cc/NG4sNPs1/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/NG4sNPs1/image.png" >}}
 
 {乳} \*noʔ "to breastfeed"
 

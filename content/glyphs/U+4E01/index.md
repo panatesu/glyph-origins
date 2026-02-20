@@ -1,10 +1,9 @@
 +++
 weight = 11
-
 radical = "1"
 +++
 
-![](image.png)
+{{< glyph-table-img path="image.png" >}}
 
 {頂} \*tˤeŋʔ "head" ♪→ {丁} \*tˤeŋ "*ding* (4th heavenly stem)"
 

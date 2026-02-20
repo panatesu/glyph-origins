@@ -1,9 +1,10 @@
-+++
-radical = "86"
++++radical = "86"
 weight = 2
 +++
 
-![](https://i.postimg.cc/C1gHMd6M/xiong-(U-718A).png)
+<div class="glyph-table">
+<img src="https://i.postimg.cc/C1gHMd6M/xiong-(U-718A" />
+</div>.png)
 
 {熊} \*\[t.w\]əm "bear" or {熊(熊)} \*\[t.w\]əm "flaming" ♪→ {熊}
 \*\[t.w\]əm "bear"

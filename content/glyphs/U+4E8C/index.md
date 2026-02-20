@@ -1,9 +1,8 @@
-+++
-radical = "7"
++++radical = "7"
 weight = 0
 +++
 
-![](https://i.postimg.cc/RFV2XTHj/U-4E8C.png)
+{{< glyph-table-img path="https://i.postimg.cc/RFV2XTHj/U-4E8C.png" >}}
 
 {二} \*nis "two"
 

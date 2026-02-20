@@ -1,9 +1,8 @@
-+++
-radical = "96"
++++radical = "96"
 weight = 2
 +++
 
-![](https://i.postimg.cc/tTym1kVJ/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/tTym1kVJ/image.png" >}}
 
 {瑟} \*\[s.m\]ri\[t\] "*se* (musical instrument)"
 

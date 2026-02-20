@@ -1,9 +1,8 @@
-+++
-radical = "5"
++++radical = "5"
 weight = 1
 +++
 
-![](https://i.postimg.cc/Bbhq7XGB/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/Bbhq7XGB/image.png" >}}
 
 {也} \*lajʔ "to be"
 

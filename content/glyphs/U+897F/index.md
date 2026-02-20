@@ -1,9 +1,8 @@
-+++
-radical = "146"
++++radical = "146"
 weight = 0
 +++
 
-![](https://i.postimg.cc/ncb4krLt/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/ncb4krLt/image.png" >}}
 
 ?{西} \*s.nˤər "west"
 

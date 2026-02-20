@@ -1,9 +1,8 @@
-+++
-radical = "102"
++++radical = "102"
 weight = 2
 +++
 
-![](https://i.postimg.cc/Bvp4ZS3N/U-7537.png)
+{{< glyph-table-img path="https://i.postimg.cc/Bvp4ZS3N/U-7537.png" >}}
 
 ?{任} \*nəm "(physical) burden" ♪→ {男} \*nˤəm "baron; man"
 

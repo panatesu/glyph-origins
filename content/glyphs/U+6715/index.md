@@ -1,9 +1,8 @@
-+++
-radical = "74"
++++radical = "74"
 weight = 1
 +++
 
-![](https://i.postimg.cc/9fdjqYzc/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/9fdjqYzc/image.png" >}}
 
 {䑣} \*l̥rəm "to go (about a boat)" ♪→ {朕} \*lrəmʔ "I, me"
 

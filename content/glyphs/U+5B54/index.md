@@ -1,9 +1,8 @@
-+++
-radical = "39"
++++radical = "39"
 weight = 1
 +++
 
-![](https://i.postimg.cc/tRhZ95XT/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/tRhZ95XT/image.png" >}}
 
 {㝅} \*\[k\]ˤoks "to breastfeed" ♪→ {孔} \*\[k\]ʰˤoŋʔ "hole"
 

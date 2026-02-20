@@ -1,9 +1,8 @@
-+++
-radical = "176"
++++radical = "176"
 weight = 0
 +++
 
-![](https://i.postimg.cc/nLv31dvK/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/nLv31dvK/image.png" >}}
 
 {面} \*C.me\[n\]s "face"
 

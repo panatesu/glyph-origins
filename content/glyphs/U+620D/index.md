@@ -1,9 +1,8 @@
-+++
-radical = "62"
++++radical = "62"
 weight = 1
 +++
 
-![](https://i.postimg.cc/X7HJQDjv/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/X7HJQDjv/image.png" >}}
 
 {戍} \*\[n̥\]os "to guard the border"
 

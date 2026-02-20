@@ -1,9 +1,8 @@
-+++
-radical = "50"
++++radical = "50"
 weight = 0
 +++
 
-![](https://i.postimg.cc/Jh5gS3Mv/U-5E1D.png)
+{{< glyph-table-img path="https://i.postimg.cc/Jh5gS3Mv/U-5E1D.png" >}}
 
 ?{禘} \*tˤeks "*di* sacrifice" ♪→ {帝} \*tˤeks "highest god; emperor"
 

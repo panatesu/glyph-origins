@@ -1,9 +1,8 @@
-+++
-radical = "92"
++++radical = "92"
 weight = 0
 +++
 
-![](https://i.postimg.cc/zG3xMZ0Z/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/zG3xMZ0Z/image.png" >}}
 
 {牙} \*ŋrˤa "tooth"
 

@@ -1,9 +1,8 @@
-+++
-radical = "140"
++++radical = "140"
 weight = 2
 +++
 
-![](https://i.postimg.cc/PJQDf4Qp/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/PJQDf4Qp/image.png" >}}
 
 {(菩)薩} (*bu)sat* "bodhisattva"
 

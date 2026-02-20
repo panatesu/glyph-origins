@@ -1,9 +1,8 @@
-+++
-radical = "78"
++++radical = "78"
 weight = 1
 +++
 
-![](https://i.postimg.cc/7PmrDJJS/U-6B7B.png)
+{{< glyph-table-img path="https://i.postimg.cc/7PmrDJJS/U-6B7B.png" >}}
 
 {死} \*sijʔ "to die" (& {葬} \*tsˤaŋs "to bury")
 

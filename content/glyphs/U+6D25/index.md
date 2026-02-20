@@ -1,9 +1,8 @@
-+++
-radical = "85"
++++radical = "85"
 weight = 2
 +++
 
-![](https://i.postimg.cc/YqHLQkLM/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/YqHLQkLM/image.png" >}}
 
 {津} \*\[ts\]i\[n\] "ford"
 

@@ -1,9 +1,8 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 5
 +++
 
-![](https://i.postimg.cc/2yqBkF6w/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/2yqBkF6w/image.png" >}}
 
 ?{胡} \*\[ɡ\]ˤa "dewlap" ♪→ {吳} \*ŋʷˤa "Wu (state)"
 

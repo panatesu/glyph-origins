@@ -1,0 +1,8 @@
+{{- $path := .Get "path" -}}
+{{- $url := $path -}}
+{{- if not (or (hasPrefix $path "http://") (hasPrefix $path "https://")) -}}
+{{- $url = urls.JoinPath .Site.BaseURL .Page.Path $path -}}
+{{- end -}}
+<div class="glyph-table">
+    <img src="{{ $url }}" />
+</div>

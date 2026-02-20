@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'SimSun-Ext';
+    src: local('SimSun'), local('宋体'), local('Songti SC'), local('PMingLiU');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range:
+        /* Complete Coverage Blocks */
+        U+02E80-02EFF,
+        /* CJK Radicals Supplement */
+        U+02F00-02FDF,
+        /* Kangxi Radicals */
+        U+02FF0-02FFF,
+        /* Ideographic Description Characters */
+        U+03000-0303F,
+        /* CJK Symbols and Punctuation */
+        U+03040-0309F,
+        /* Hiragana */
+        U+030A0-030FF,
+        /* Katakana */
+        U+03100-0312F,
+        /* Bopomofo */
+        U+03190-0319F,
+        /* Kanbun */
+        U+031A0-031BF,
+        /* Bopomofo Extended */
+        U+031C0-031EF,
+        /* CJK Strokes */
+        U+031F0-031FF,
+        /* Katakana Phonetic Extensions */
+        U+03400-04DBF,
+        /* CJK Unified Ideographs Extension A */
+        U+04DC0-04DFF,
+        /* Yijing Hexagram Symbols */
+        U+04E00-09FFF,
+        /* CJK Unified Ideographs */
+        U+0F900-0FAFF,
+        /* CJK Compatibility Ideographs */
+        U+0FE00-0FE0F,
+        /* Variation Selectors */
+        U+0FE10-0FE1F,
+        /* Vertical Forms */
+        U+0FE30-0FE4F,
+        /* CJK Compatibility Forms */
+        U+0FE50-0FE6F,
+        /* Small Form Variants */
+        U+0FFF0-0FFFF,
+        /* Specials */
+        U+1B000-1B0FF,
+        /* Kana Supplement */
+        U+1B100-1B12F,
+        /* Kana Extended-A */
+        U+1B130-1B16F,
+        /* Small Kana Extension */
+        U+1D300-1D35F,
+        /* Tai Xuan Jing Symbols */
+        U+1D360-1D37F,
+        /* Counting Rod Numerals */
+        U+1F200-1F2FF,
+        /* Enclosed Ideographic Supplement */
+        U+2B740-2B81F,
+        /* CJK Unified Ideographs Extension D */
+        U+2EBF0-2EE5F,
+        /* CJK Unified Ideographs Extension I */
+        U+2F800-2FA1F,
+        /* CJK Compatibility Ideographs Supplement */
+        U+E0100-E01EF,
+        /* Variation Selectors Supplement */
+        /* Partial Coverage Blocks */
+        U+00F00-00FFF,
+        /* Tibetan */
+        U+01800-018AF,
+        /* Mongolian */
+        U+03200-032FF,
+        /* Enclosed CJK Letters and Months */
+        U+03300-033FF,
+        /* CJK Compatibility */
+        U+0E000-0F8FF,
+        /* Private Use Area */
+        U+0FF00-0FFEF,
+        /* Halfwidth and Fullwidth Forms */
+        U+16FE0-16FFF,
+        /* Ideographic Symbols and Punctuation */
+        U+1FA00-1FA6F,
+        /* Chess Symbols */
+        U+20000-2A6DF,
+        /* CJK Unified Ideographs Extension B */
+        U+2A700-2B73F,
+        /* CJK Unified Ideographs Extension C */
+        U+2B820-2CEAF,
+        /* CJK Unified Ideographs Extension E */
+        U+2CEB0-2EBEF,
+        /* CJK Unified Ideographs Extension F */
+        U+30000-3134F,
+        /* CJK Unified Ideographs Extension G */
+        U+31350-323AF
+        /* CJK Unified Ideographs Extension H */
+    ;
+}
+
+article.glyph-entry {
+    margin-bottom: 2rem;
+
+    &>h2>a {
+        color: var(--heading-color);
+    }
+}
+
+
+div.glyph-table {
+    overflow-x: auto;
+
+    &>* {
+        margin: 0 auto;
+    }
+
+    & table {
+        border-collapse: separate;
+        width: auto;
+    }
+
+    & table,
+    & th,
+    & td {
+        border: 1px solid black;
+    }
+
+    & th,
+    & td {
+        text-align: center;
+        vertical-align: middle;
+    }
+
+    /* First row */
+    & th {
+        font-style: italic;
+        font-weight: normal;
+        line-height: 1.2;
+        font-family: "Times New Roman", serif;
+        font-size: 1rem;
+    }
+
+    /* Last row */
+    & tr:last-child td {
+        white-space: pre;
+        font-family: "BabelStone", "SimSun-Ext", "SimSun", serif;
+        font-style: normal;
+        font-size: 0.88rem;
+        line-height: 1.2;
+    }
+
+    /* Image row */
+    & tr:first-child td {
+        height: 5em;
+    }
+
+    & td img {
+        display: block;
+        margin: 0 auto;
+        max-height: 5em;
+        max-width: 5em;
+    }
+}
+
+/* CSS for image tables */
+div.glyph-table>img {
+    display: block;
+    max-width: unset;
+    height: calc(157 / 16 * 1em);
+}
+
+#radical-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(8em, 1fr));
+    gap: 10px;
+}
+
+#radical-list>a,
+#radical-list>span {
+    font-size: 1.5em;
+}

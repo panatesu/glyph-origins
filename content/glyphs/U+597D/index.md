@@ -1,11 +1,10 @@
-+++
-radical = "38"
++++radical = "38"
 weight = 1
 +++
 
 #### 好¹
 
-![](https://i.postimg.cc/d3D1Y86W/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/d3D1Y86W/image.png" >}}
 
 ?{抱} \*\[m.p\]ˤuʔ "to embrace" ♪→ {好} \*\[n̥\]ˤuʔ "good"
 

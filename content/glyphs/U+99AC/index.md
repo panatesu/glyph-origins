@@ -1,9 +1,8 @@
-+++
-radical = "187"
++++radical = "187"
 weight = 0
 +++
 
-![](https://i.postimg.cc/NfrK1TS0/U-99AC.png)
+{{< glyph-table-img path="https://i.postimg.cc/NfrK1TS0/U-99AC.png" >}}
 
 {馬} \*mˤraʔ "horse"
 
@@ -16,7 +15,7 @@ Depiction of a horse.
 马 - Shortening based on the cursive form. Modern simplified form in
 China.
 
-![](https://i.postimg.cc/RVfcvjMG/U-9A6C.png)
+{{< glyph-table-img path="https://i.postimg.cc/RVfcvjMG/U-9A6C.png" >}}
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
   Characters from A to Z (212)

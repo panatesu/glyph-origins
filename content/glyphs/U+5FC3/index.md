@@ -1,9 +1,8 @@
-+++
-radical = "61"
++++radical = "61"
 weight = 0
 +++
 
-![](https://i.postimg.cc/4NqMWLZP/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/4NqMWLZP/image.png" >}}
 
 {心} \*səm "heart"
 

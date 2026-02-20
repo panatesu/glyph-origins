@@ -1,9 +1,8 @@
-+++
-radical = "44"
++++radical = "44"
 weight = 0
 +++
 
-![](https://i.postimg.cc/KvXc4fZ4/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/KvXc4fZ4/image.png" >}}
 
 {尾} \*\[m\]әjʔ "tail"
 

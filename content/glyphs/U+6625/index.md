@@ -1,9 +1,8 @@
-+++
-radical = "72"
++++radical = "72"
 weight = 4
 +++
 
-![](https://i.postimg.cc/g0RczVfS/U-6625.png)
+{{< glyph-table-img path="https://i.postimg.cc/g0RczVfS/U-6625.png" >}}
 
 {春} \*tʰu\[r\] "spring"
 

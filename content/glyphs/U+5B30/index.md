@@ -1,9 +1,8 @@
-+++
-radical = "38"
++++radical = "38"
 weight = 2
 +++
 
-![](https://i.postimg.cc/50zJqnPj/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/50zJqnPj/image.png" >}}
 
 {嬰} \*ʔeŋ "necklace" ♪→ {嬰} \*ʔeŋ "baby"
 

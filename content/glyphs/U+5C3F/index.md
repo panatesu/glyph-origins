@@ -1,9 +1,8 @@
-+++
-radical = "44"
++++radical = "44"
 weight = 1
 +++
 
-![](https://i.postimg.cc/T27MMSnM/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/T27MMSnM/image.png" >}}
 
 {尿/溺} \*kə.nˤewks "to urinate"
 

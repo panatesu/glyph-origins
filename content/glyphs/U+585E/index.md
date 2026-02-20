@@ -1,9 +1,8 @@
-+++
-radical = "32"
++++radical = "32"
 weight = 3
 +++
 
-![](https://i.postimg.cc/tRwLX34g/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/tRwLX34g/image.png" >}}
 
 {塞} \*\[s\]ˤək "to block up" or {塞} \*\[s\]ˤəks "fortress"
 

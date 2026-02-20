@@ -1,10 +1,9 @@
 +++
 weight = 21
-
 radical = "1"
 +++
 
-![](U-4E0B.png)
+{{< glyph-table-img path="U-4E0B.png" >}}
 
 {下} \*ɡrˤaʔ "down"
 

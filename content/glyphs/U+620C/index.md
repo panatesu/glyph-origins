@@ -1,9 +1,8 @@
-+++
-radical = "62"
++++radical = "62"
 weight = 0
 +++
 
-![](https://i.postimg.cc/qqVYHk1d/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/qqVYHk1d/image.png" >}}
 
 {戌} \*\[s.m\]i\[t\] "*type of a battle axe*" ♪→ {戌} \*s.mi\[t\] "*xu*
 (11th eartly branch)"

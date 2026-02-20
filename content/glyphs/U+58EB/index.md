@@ -1,9 +1,8 @@
-+++
-radical = "33"
++++radical = "33"
 weight = 0
 +++
 
-![](https://i.postimg.cc/CM7CNkd2/U-58EB.png)
+{{< glyph-table-img path="https://i.postimg.cc/CM7CNkd2/U-58EB.png" >}}
 
 {士} \*\[dz\]rəʔ "knight" & {王} \*waŋ "king"
 

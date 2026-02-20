@@ -1,9 +1,8 @@
-+++
-radical = "40"
++++radical = "40"
 weight = 1
 +++
 
-![](https://i.postimg.cc/yNj5XwHF/U-5BB6.png)
+{{< glyph-table-img path="https://i.postimg.cc/yNj5XwHF/U-5BB6.png" >}}
 
 {家} \*kˤra "home"
 

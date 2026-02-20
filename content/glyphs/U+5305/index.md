@@ -1,9 +1,8 @@
-+++
-radical = "20"
++++radical = "20"
 weight = 0
 +++
 
-![](https://i.postimg.cc/7LS7tD1g/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/7LS7tD1g/image.png" >}}
 
 {抱} \*\[m.p\]ˤuʔ "to embrace" ♪→ {包} \*pˤru "to wrap"
 

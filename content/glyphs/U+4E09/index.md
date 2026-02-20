@@ -1,10 +1,9 @@
 +++
 weight = 19
-
 radical = "1"
 +++
 
-![](U-4E09.png)
+{{< glyph-table-img path="U-4E09.png" >}}
 
 {三} \*sˤum "three"
 

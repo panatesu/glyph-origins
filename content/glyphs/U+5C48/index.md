@@ -1,9 +1,8 @@
-+++
-radical = "44"
++++radical = "44"
 weight = 2
 +++
 
-![](https://i.postimg.cc/L5Xt1v9C/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/L5Xt1v9C/image.png" >}}
 
 {屈} \*Nə.\[kʰ\]ut "short (tail)" ♪→ {屈} \*\[kʰ\]ut "to bend"
 

@@ -1,5 +1,4 @@
-+++
-radical = "215"
++++radical = "215"
 weight = 0
 +++
 
@@ -7,7 +6,7 @@ weight = 0
 
 #### 〇²
 
-![](https://i.postimg.cc/XJmFDzTh/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/XJmFDzTh/image.png" >}}
 
 {圓} \*\[w\]ran "round" & {環} \*C.\[w\]ˤren "round object"
 

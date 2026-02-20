@@ -1,9 +1,8 @@
-+++
-radical = "63"
++++radical = "63"
 weight = 0
 +++
 
-![](https://i.postimg.cc/26qZrR2s/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/26qZrR2s/image.png" >}}
 
 ?{所(所)} \*\[ŋ̥\]raʔ(\[ŋ̥\]raʔ) "chop-chop" ♪→ {所} \*\[ŋ̥\]raʔ "place"
 

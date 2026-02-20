@@ -1,9 +1,8 @@
-+++
-radical = "96"
++++radical = "96"
 weight = 0
 +++
 
-![](https://i.postimg.cc/TPBNTmn0/U-7389.png)
+{{< glyph-table-img path="https://i.postimg.cc/TPBNTmn0/U-7389.png" >}}
 
 {玉} \*ŋ(r)ok "jade"
 

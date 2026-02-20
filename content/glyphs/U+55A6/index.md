@@ -1,9 +1,8 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 12
 +++
 
-![](https://i.postimg.cc/NG9TWGw8/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/NG9TWGw8/image.png" >}}
 
 {喦/讘} \*nep "talkative"
 

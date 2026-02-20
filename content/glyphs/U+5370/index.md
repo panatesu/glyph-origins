@@ -1,9 +1,8 @@
-+++
-radical = "26"
++++radical = "26"
 weight = 2
 +++
 
-![](https://i.postimg.cc/tJXky7RN/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/tJXky7RN/image.png" >}}
 
 {抑} \*ʔik "to press down" ♪→ {印} \*\[ʔ\]iŋs "seal"
 

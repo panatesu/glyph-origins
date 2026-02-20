@@ -1,9 +1,8 @@
-+++
-radical = "74"
++++radical = "74"
 weight = 0
 +++
 
-![](https://i.postimg.cc/jjp4jHHG/U-6708.png)
+{{< glyph-table-img path="https://i.postimg.cc/jjp4jHHG/U-6708.png" >}}
 
 {夕} \*s.lak "night" & {月} \*ŋʷat "moon"
 

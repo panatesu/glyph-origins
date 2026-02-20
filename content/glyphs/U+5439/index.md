@@ -1,5 +1,4 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 6
 +++
 
@@ -24,7 +23,7 @@ bestow")).
 
 #### 吹³
 
-![](https://i.postimg.cc/k4JPRT9M/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/k4JPRT9M/image.png" >}}
 
 {足} \*\[ts\]ok "to fulfill"
 

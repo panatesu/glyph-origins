@@ -1,9 +1,8 @@
-+++
-radical = "61"
++++radical = "61"
 weight = 2
 +++
 
-![](https://i.postimg.cc/0y2JzMzy/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/0y2JzMzy/image.png" >}}
 
 {聰} \*tsʰˤoŋ "clever" ♪→ {悤(悤)} \*tsʰoŋ(tsʰoŋ) "quickly"
 

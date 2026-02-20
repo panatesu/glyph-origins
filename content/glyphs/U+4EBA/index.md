@@ -1,9 +1,8 @@
-+++
-radical = "9"
++++radical = "9"
 weight = 0
 +++
 
-![](https://i.postimg.cc/hjFD3ySR/U-4EBA.png)
+{{< glyph-table-img path="https://i.postimg.cc/hjFD3ySR/U-4EBA.png" >}}
 
 {人} \*niŋ "person"
 

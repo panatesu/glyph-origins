@@ -1,9 +1,8 @@
-+++
-radical = "26"
++++radical = "26"
 weight = 6
 +++
 
-![](https://i.postimg.cc/02qdV5HW/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/02qdV5HW/image.png" >}}
 
 ?{卻} \*\[k\]ʰak "to retreat"
 

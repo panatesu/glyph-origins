@@ -1,9 +1,8 @@
-+++
-radical = "162"
++++radical = "162"
 weight = 0
 +++
 
-![](https://i.postimg.cc/vT31FKXk/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/vT31FKXk/image.png" >}}
 
 {道} \*\[kə.l\]ˤuʔ "way"
 

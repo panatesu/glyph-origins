@@ -1,9 +1,8 @@
-+++
-radical = "51"
++++radical = "51"
 weight = 0
 +++
 
-![](https://i.postimg.cc/htJSDcZX/U-5374.png)
+{{< glyph-table-img path="https://i.postimg.cc/htJSDcZX/U-5374.png" >}}
 
 {年} \*C.nˤiŋ "harvest"
 

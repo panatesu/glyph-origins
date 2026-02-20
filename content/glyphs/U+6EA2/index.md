@@ -1,9 +1,8 @@
-+++
-radical = "85"
++++radical = "85"
 weight = 3
 +++
 
-![](https://i.postimg.cc/DytRyjSC/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/DytRyjSC/image.png" >}}
 
 {溢} \*lik "to overflow"
 

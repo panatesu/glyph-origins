@@ -1,9 +1,8 @@
-+++
-radical = "33"
++++radical = "33"
 weight = 2
 +++
 
-![](https://i.postimg.cc/KcRCtkg8/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/KcRCtkg8/image.png" >}}
 
 {噎} \*qˤi\[k\] "to choke" ♪→ {一/壹} \*ʔit "one"
 
@@ -17,7 +16,7 @@ mouth for {噎}). Later ♪吉 \*KIT was added.
 壱 - Shortening based on the cursive form. Modern simplified form in
 Japan.
 
-![](https://i.postimg.cc/28HqMtST/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/28HqMtST/image.png" >}}
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
   Characters from A to Z (339)

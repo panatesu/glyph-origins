@@ -1,9 +1,8 @@
-+++
-radical = "9"
++++radical = "9"
 weight = 3
 +++
 
-![](https://i.postimg.cc/QNF3ryTr/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/QNF3ryTr/image.png" >}}
 
 {保} \*pˤuʔ "to protect"
 

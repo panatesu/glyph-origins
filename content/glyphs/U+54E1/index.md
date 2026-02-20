@@ -1,9 +1,8 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 11
 +++
 
-![](https://i.postimg.cc/pVSn24cB/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/pVSn24cB/image.png" >}}
 
 {圓} \*\[w\]ran "round" ♪→ {員} \*\[w\]ran "member"
 

@@ -1,9 +1,8 @@
-+++
-radical = "103"
++++radical = "103"
 weight = 0
 +++
 
-![](https://i.postimg.cc/J0THfhQN/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/J0THfhQN/image.png" >}}
 
 ?{㘈} \*\[ŋ\](r)ək "smart child" ♪→ {疑} \*\[ŋ\](r)ə "to doubt"
 

@@ -1,9 +1,8 @@
-+++
-radical = "93"
++++radical = "93"
 weight = 0
 +++
 
-![](https://i.postimg.cc/GmJ0pXX8/U-725B.png)
+{{< glyph-table-img path="https://i.postimg.cc/GmJ0pXX8/U-725B.png" >}}
 
 {牛}\*ŋʷə "cow"
 

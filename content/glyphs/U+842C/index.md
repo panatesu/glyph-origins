@@ -1,9 +1,8 @@
-+++
-radical = "114"
++++radical = "114"
 weight = 0
 +++
 
-![](https://i.postimg.cc/T2tDSDGy/U-842C.png)
+{{< glyph-table-img path="https://i.postimg.cc/T2tDSDGy/U-842C.png" >}}
 
 {一萬} \*ʔit tV.ma\[n\]s "one myriad" → {萬} \*tV.ma\[n\]s "myriad"
 
@@ -21,6 +20,6 @@ the morpheme {萬} itself.
 万 - Shortening based on the early cursive form. Modern simplified form
 in China and Japan.
 
-![](https://i.postimg.cc/Gt7FFMbR/U-4E07.png)
+{{< glyph-table-img path="https://i.postimg.cc/Gt7FFMbR/U-4E07.png" >}}
 
 - 李洪財 2021 - 俗字演變與探源舉例二則

@@ -9,13 +9,14 @@
     {{ .Content }}
 
     {{ $radId := .File.BaseFileName }}
-    {{ $glyphs := where site.RegularPages "Type" "glyphs" }}
+    {{ $glyphs := where site.Pages "Type" "glyphs" }}
     {{ $childPages := where $glyphs "Params.radical" $radId }}
 
     {{ range $childPages.ByWeight }}
-    <article style="margin-bottom: 2rem;">
-        <h2 id="{{ path.Base .File.Dir }}">
-            {{ partial "smart_title.html" . | safeHTML }}
+    <article class="glyph-entry">
+        {{ $id := path.Base .File.Dir }}
+        <h2 id="{{ $id }}">
+            <a href="#{{ $id }}">{{ partial "smart_title.html" . | safeHTML }}</a>
         </h2>
 
         <div>

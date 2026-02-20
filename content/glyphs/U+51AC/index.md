@@ -1,9 +1,8 @@
-+++
-radical = "15"
++++radical = "15"
 weight = 0
 +++
 
-![](https://i.postimg.cc/B6H04rgT/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/B6H04rgT/image.png" >}}
 
 {冬} \*tˤuŋ "winter"
 

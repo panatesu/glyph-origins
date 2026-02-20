@@ -1,9 +1,8 @@
-+++
-radical = "47"
++++radical = "47"
 weight = 1
 +++
 
-![](https://i.postimg.cc/hj4trtXN/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/hj4trtXN/image.png" >}}
 
 ?{腦} \*nˤ\[u\]ʔ "brain"
 

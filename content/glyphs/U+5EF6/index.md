@@ -1,9 +1,8 @@
-+++
-radical = "54"
++++radical = "54"
 weight = 0
 +++
 
-![](https://i.postimg.cc/4nk0G8dp/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/4nk0G8dp/image.png" >}}
 
 {延} \*la\[n\] "to extend"
 

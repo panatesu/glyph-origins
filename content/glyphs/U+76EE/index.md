@@ -1,9 +1,8 @@
-+++
-radical = "109"
++++radical = "109"
 weight = 0
 +++
 
-![](https://i.postimg.cc/T3k26j6h/U-76EE.png)
+{{< glyph-table-img path="https://i.postimg.cc/T3k26j6h/U-76EE.png" >}}
 
 {目} \*C.mək "eye"
 

@@ -1,9 +1,8 @@
-+++
-radical = "93"
++++radical = "93"
 weight = 1
 +++
 
-![](https://i.postimg.cc/zGqDN79q/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/zGqDN79q/image.png" >}}
 
 {牟} \*mu "moo"
 

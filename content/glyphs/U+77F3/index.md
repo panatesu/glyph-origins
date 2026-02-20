@@ -1,9 +1,8 @@
-+++
-radical = "112"
++++radical = "112"
 weight = 0
 +++
 
-![](https://i.postimg.cc/nLhjc3bf/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/nLhjc3bf/image.png" >}}
 
 {石} \*dak "stone"
 

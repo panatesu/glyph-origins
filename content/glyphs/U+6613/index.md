@@ -1,9 +1,8 @@
-+++
-radical = "72"
++++radical = "72"
 weight = 3
 +++
 
-![](https://i.postimg.cc/XYYRLznN/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/XYYRLznN/image.png" >}}
 
 {賜} \*s.leks "to bestow" ♪→ {易} \*lek "to change"
 

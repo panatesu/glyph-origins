@@ -1,11 +1,10 @@
-+++
-radical = "40"
++++radical = "40"
 weight = 0
 +++
 
 #### 安¹
 
-![](https://i.postimg.cc/ZK2KKHL0/U-5B89.png)
+{{< glyph-table-img path="https://i.postimg.cc/ZK2KKHL0/U-5B89.png" >}}
 
 {安} \*ʔˤan "to sit"
 

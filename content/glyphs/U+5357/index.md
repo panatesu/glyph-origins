@@ -1,9 +1,8 @@
-+++
-radical = "24"
++++radical = "24"
 weight = 2
 +++
 
-![](https://i.postimg.cc/ZqjX3rX1/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/ZqjX3rX1/image.png" >}}
 
 ?{醓} \*\[n̥ˤ\]\[ə\]mʔ "bride of pickled mincemeat" ♪→ {南} \*nˤ\[ə\]m
 "south"

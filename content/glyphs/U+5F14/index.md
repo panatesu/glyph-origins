@@ -1,9 +1,8 @@
-+++
-radical = "57"
++++radical = "57"
 weight = 0
 +++
 
-![](https://i.postimg.cc/tRKz4sYq/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/tRKz4sYq/image.png" >}}
 
 ?{毒} \*\[d\]ˤuk "poison" ♪→ {弔} \*tˤ\[i\]wk "to reach"
 

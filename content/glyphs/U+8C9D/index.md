@@ -1,5 +1,4 @@
-+++
-radical = "154"
++++radical = "154"
 weight = 0
 +++
 

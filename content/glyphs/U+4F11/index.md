@@ -1,9 +1,8 @@
-+++
-radical = "9"
++++radical = "9"
 weight = 2
 +++
 
-![](https://i.postimg.cc/C19Gf5XP/U-4F11.png)
+{{< glyph-table-img path="https://i.postimg.cc/C19Gf5XP/U-4F11.png" >}}
 
 {庥} \*\[n̥\]u "tree shade" / (♪→) {休} \*\[n̥\]u "to rest"
 

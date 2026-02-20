@@ -1,9 +1,8 @@
-+++
-radical = "39"
++++radical = "39"
 weight = 4
 +++
 
-![](https://i.postimg.cc/fbdh0gt7/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/fbdh0gt7/image.png" >}}
 
 {在} \*\[dz\]ˤəʔ "to exist" → {存} \*\[dz\]ˤə\[n\] "to exist"
 

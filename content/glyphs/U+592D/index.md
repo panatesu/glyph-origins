@@ -1,9 +1,8 @@
-+++
-radical = "37"
++++radical = "37"
 weight = 3
 +++
 
-![](https://i.postimg.cc/DmV231Rw/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/DmV231Rw/image.png" >}}
 
 {腰} \*ʔew "waist" ♪→ {夭} \*ʔ(r)auʔ "to die young"
 

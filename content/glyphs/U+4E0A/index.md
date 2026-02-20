@@ -1,10 +1,9 @@
 +++
 weight = 20
-
 radical = "1"
 +++
 
-![](U-4E0A.png)
+{{< glyph-table-img path="U-4E0A.png" >}}
 
 {上} \*daŋs "up"
 

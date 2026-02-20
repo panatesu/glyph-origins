@@ -1,9 +1,8 @@
-+++
-radical = "10"
++++radical = "10"
 weight = 2
 +++
 
-![](https://i.postimg.cc/Vvb6JkHK/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/Vvb6JkHK/image.png" >}}
 
 {兕} \*s.liʔ "*Bubalus mephistopheles* (short-horned water buffalo)"
 

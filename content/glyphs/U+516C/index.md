@@ -1,9 +1,8 @@
-+++
-radical = "12"
++++radical = "12"
 weight = 1
 +++
 
-![](https://i.postimg.cc/PJ4ZJs8t/U-516C.png)
+{{< glyph-table-img path="https://i.postimg.cc/PJ4ZJs8t/U-516C.png" >}}
 
 {罋/甕/瓮} \*ʔ.lˤoŋ "earthen jar" ♪→ {公} \*k.lˤoŋ "public"
 

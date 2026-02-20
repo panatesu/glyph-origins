@@ -1,9 +1,8 @@
-+++
-radical = "3"
++++radical = "3"
 weight = 1
 +++
 
-![](https://i.postimg.cc/ZKVfwTw2/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/ZKVfwTw2/image.png" >}}
 
 {之} \*tə "to go"
 

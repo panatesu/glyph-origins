@@ -1,9 +1,8 @@
-+++
-radical = "77"
++++radical = "77"
 weight = 0
 +++
 
-![](https://i.postimg.cc/qvcLhJb7/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/qvcLhJb7/image.png" >}}
 
 {征} \*teŋ "to go on a punitive expedition" ♪→ {正} \*teŋs "correct"
 

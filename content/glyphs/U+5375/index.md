@@ -1,9 +1,8 @@
-+++
-radical = "26"
++++radical = "26"
 weight = 5
 +++
 
-![](https://i.postimg.cc/MGgFWxWJ/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/MGgFWxWJ/image.png" >}}
 
 {卵} \*k.rˤorʔ "testicles"
 

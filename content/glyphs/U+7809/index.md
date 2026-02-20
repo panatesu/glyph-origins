@@ -1,9 +1,8 @@
-+++
-radical = "112"
++++radical = "112"
 weight = 1
 +++
 
-![](https://i.postimg.cc/TPfvm3hD/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/TPfvm3hD/image.png" >}}
 
 {砉} \*qʷʰˤek "*crackling sound*"
 

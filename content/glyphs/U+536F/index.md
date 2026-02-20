@@ -1,9 +1,8 @@
-+++
-radical = "26"
++++radical = "26"
 weight = 1
 +++
 
-![](https://i.postimg.cc/8z4jFcvY/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/8z4jFcvY/image.png" >}}
 
 ?{瘤} \*ru "swelling" ♪→ {卯} \*mˤruʔ "*mao* (4th earthly branch)"
 

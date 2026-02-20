@@ -1,9 +1,8 @@
-+++
-radical = "39"
++++radical = "39"
 weight = 2
 +++
 
-![](https://i.postimg.cc/YSzbV1JK/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/YSzbV1JK/image.png" >}}
 
 {孕} \*l\[i\]ŋs "to be pregnant"
 

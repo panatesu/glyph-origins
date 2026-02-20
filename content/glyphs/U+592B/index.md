@@ -1,9 +1,8 @@
-+++
-radical = "37"
++++radical = "37"
 weight = 2
 +++
 
-![](https://i.postimg.cc/pTmcQz7D/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/pTmcQz7D/image.png" >}}
 
 {夫} \*p(r)a "adult man" & {大} \*lˤats "big"
 

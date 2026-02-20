@@ -1,9 +1,8 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 0
 +++
 
-![](https://i.postimg.cc/SRTpqJfp/U-53E3.png)
+{{< glyph-table-img path="https://i.postimg.cc/SRTpqJfp/U-53E3.png" >}}
 
 {口} \*kʰˤ(r)oʔ "mouth"
 

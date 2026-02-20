@@ -1,9 +1,8 @@
-+++
-radical = "57"
++++radical = "57"
 weight = 3
 +++
 
-![](https://i.postimg.cc/DzMjYVtL/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/DzMjYVtL/image.png" >}}
 
 {弱} \*newk "weak"
 

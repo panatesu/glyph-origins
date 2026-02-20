@@ -1,9 +1,8 @@
-+++
-radical = "57"
++++radical = "57"
 weight = 2
 +++
 
-![](https://i.postimg.cc/KY9gLv1H/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/KY9gLv1H/image.png" >}}
 
 {弦} \*ɡˤin "bowstring"
 

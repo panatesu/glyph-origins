@@ -1,9 +1,8 @@
-+++
-radical = "157"
++++radical = "157"
 weight = 0
 +++
 
-![](https://i.postimg.cc/N0vN5LYL/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/N0vN5LYL/image.png" >}}
 
 {足} \*\[ts\]ok "to fulfill" / {足} \*\[ts\]ok "foot"
 

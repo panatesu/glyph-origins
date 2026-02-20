@@ -1,6 +1,5 @@
 +++
 weight = 48
-
 radical = "1"
 +++
 

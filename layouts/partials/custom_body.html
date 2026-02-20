@@ -1,6 +1,8 @@
+{{ $sw := resources.Get "sw.js" | resources.Minify }}
+{{ $css := resources.Get "fonts.css" | resources.Minify }}
 <script>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('{{ .Site.BaseURL }}sw.js');
+        navigator.serviceWorker.register('{{ $sw.Permalink }}');
     }
 </script>
-<link href="{{ .Site.BaseURL }}fonts.css" rel="stylesheet">
+<link href="{{ $css.Permalink }}" rel="stylesheet" fetchpriority="low">

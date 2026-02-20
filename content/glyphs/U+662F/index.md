@@ -1,9 +1,8 @@
-+++
-radical = "72"
++++radical = "72"
 weight = 5
 +++
 
-![](https://i.postimg.cc/sgJLF4Rk/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/sgJLF4Rk/image.png" >}}
 
 {鞮} \*tˤe "leather shoes" ♪→ {是} \*\[d\]eʔ "this"
 

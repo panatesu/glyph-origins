@@ -1,9 +1,8 @@
-+++
-radical = "80"
++++radical = "80"
 weight = 0
 +++
 
-![](https://i.postimg.cc/LsZ3H1CT/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/LsZ3H1CT/image.png" >}}
 
 {毋} \*m\[o\] "do not"
 

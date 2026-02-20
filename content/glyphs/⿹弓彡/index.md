@@ -4,7 +4,7 @@ radical = "57"
 weight = 4
 +++
 
-![](https://i.postimg.cc/pXc2CrsF/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/pXc2CrsF/image.png" >}}
 
 {尿/溺} \*kə.nˤewks "to urinate"
 

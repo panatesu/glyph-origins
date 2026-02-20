@@ -1,5 +1,4 @@
-+++
-radical = "78"
++++radical = "78"
 weight = 0
 +++
 
@@ -9,7 +8,7 @@ See 死.
 
 #### 歹²
 
-![](https://i.postimg.cc/1tWHMvw4/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/1tWHMvw4/image.png" >}}
 
 {歹} *꜂taj* "bad"
 

@@ -1,9 +1,8 @@
-+++
-radical = "31"
++++radical = "31"
 weight = 0
 +++
 
-![](https://i.postimg.cc/JnHvdnCJ/U-56DB.png)
+{{< glyph-table-img path="https://i.postimg.cc/JnHvdnCJ/U-56DB.png" >}}
 
 {呬} \*l̥ri\[j\]s "breath" or {泗} \*s.li\[j\]s "nasal mucus" ♪→ {四}
 \*s.li\[j\]s "four"

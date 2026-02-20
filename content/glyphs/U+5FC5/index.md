@@ -1,9 +1,8 @@
-+++
-radical = "61"
++++radical = "61"
 weight = 1
 +++
 
-![](https://i.postimg.cc/gk1chtqp/U-5FC5.png)
+{{< glyph-table-img path="https://i.postimg.cc/gk1chtqp/U-5FC5.png" >}}
 
 {柲} \*prit "handle" ♪→ {必} \*pit "certainly"
 

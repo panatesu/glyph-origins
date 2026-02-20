@@ -1,10 +1,9 @@
 +++
 weight = 30
-
 radical = "1"
 +++
 
-![](image(1).png)
+{{< glyph-table-img path="image(1).png" >}}
 
 {俎} \*tsraʔ "cutting board" ♪→ {且} \*tsʰaʔ "also"
 

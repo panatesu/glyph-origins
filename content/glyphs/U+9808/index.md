@@ -1,9 +1,8 @@
-+++
-radical = "181"
++++radical = "181"
 weight = 0
 +++
 
-![](https://i.postimg.cc/8cDQHJJL/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/8cDQHJJL/image.png" >}}
 
 {鬚} \*C\[s.n\]o "beard" ♪→ {須/䇓} \*\[s.n\]o "to wait"
 

@@ -1,9 +1,8 @@
-+++
-radical = "41"
++++radical = "41"
 weight = 0
 +++
 
-![](https://i.postimg.cc/xCSsD3dq/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/xCSsD3dq/image.png" >}}
 
 ?{熨} \*ʔut "iron" ♪→ {尉} \*ʔuts "officer"
 

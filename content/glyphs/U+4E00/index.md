@@ -1,13 +1,16 @@
 +++
 weight = 10
-
 radical = "1"
 +++
 
-| Shang (Shi) | Late W.Zhou | Chunqiu (Jin) | Qin        | W.Han      | E.Han      | W.Jin      | Nanbei (N.Wei) | Tang       |
-| :---:       | :---:       | :---:         | :---:      | :---:      | :---:      | :---:      | :---:          | :---:      |
+<div class="glyph-table">
+
+| Shang<br>(Shi) | Late W.Zhou | Chunqiu<br>(Jin) | Qin        | W.Han      | E.Han      | W.Jin      | Nanbei<br>(N.Wei) | Tang       |
+| -----       | -----       | -----         | -----      | -----      | -----      | -----      | -----          | -----      |
 | ![](1.png)  | ![](2.png)  | ![](3.png)    | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) | ![](8.png)     | ![](9.png) |
 | 合20616     | 近出345     | 溫縣T1K1:2279 | 睡.效51    | 北.老6     | 乙瑛碑     | 郭槐柩記   | 元壽安墓誌     | 五經文字   |
+
+</div>
 
 {一} \*ʔit "one"
 

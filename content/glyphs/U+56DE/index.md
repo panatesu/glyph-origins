@@ -1,9 +1,8 @@
-+++
-radical = "31"
++++radical = "31"
 weight = 1
 +++
 
-![](https://i.postimg.cc/LXtRrqWw/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/LXtRrqWw/image.png" >}}
 
 {圍} \*\[w\]əj "to encircle" ♪→ {回} \*\[w\]ˤəj "to turn round"
 

@@ -1,9 +1,8 @@
-+++
-radical = "26"
++++radical = "26"
 weight = 0
 +++
 
-![](https://i.postimg.cc/K86CDqHg/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/K86CDqHg/image.png" >}}
 
 {仰} \*C.ŋaŋʔ "to raise the head" ♪→ {卬} \*ŋˤaŋ "I, me"
 

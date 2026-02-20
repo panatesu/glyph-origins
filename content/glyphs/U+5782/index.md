@@ -1,9 +1,8 @@
-+++
-radical = "32"
++++radical = "32"
 weight = 2
 +++
 
-![](https://i.postimg.cc/J0MHJD1y/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/J0MHJD1y/image.png" >}}
 
 {陲} \*\[d\]o\[j\] "frontier" ♪→ {垂} \*\[d\]o\[j\] "to hang down"
 

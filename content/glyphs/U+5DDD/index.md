@@ -1,9 +1,8 @@
-+++
-radical = "47"
++++radical = "47"
 weight = 0
 +++
 
-![](https://i.postimg.cc/nh181tR6/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/nh181tR6/image.png" >}}
 
 {川} \*(C)Vt.lu\[r\] "river"
 

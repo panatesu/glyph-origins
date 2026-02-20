@@ -1,9 +1,8 @@
-+++
-radical = "21"
++++radical = "21"
 weight = 0
 +++
 
-![](https://i.postimg.cc/Y9hg2Rpt/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/Y9hg2Rpt/image.png" >}}
 
 {背} \*m.pˤəks "turn the back on" ♪→ {北} \*pˤək "north"
 

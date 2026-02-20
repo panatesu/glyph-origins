@@ -1,9 +1,8 @@
-+++
-radical = "30"
++++radical = "30"
 weight = 2
 +++
 
-![](https://i.postimg.cc/tg3K2K8Q/image.png)
+{{< glyph-table-img path="https://i.postimg.cc/tg3K2K8Q/image.png" >}}
 
 {吊/弔} \*tˤ\[e\]wks "to hang"
 
