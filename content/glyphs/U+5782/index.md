@@ -3,12 +3,17 @@ radical = "32"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/J0MHJD1y/image.png" >}}
+<div class="glyph-table">
+
+| Nanbei<br>(N.Wei) | Nanbei<br>(N.Wei) | Tang | Ming |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) |
+| 慈慶墓誌<br>[𡸁] | 鄭黑墓誌 | 五經文字 | 字彙 |
+
+</div>
 
 {陲} \*\[d\]o\[j\] "frontier" ♪→ {垂} \*\[d\]o\[j\] "to hang down"
 
-Initially the word {垂} was written as 𡸁 \*TOJ (缶 *JAR* + ♪𠂹 \*TOJ
-for {䍋/甀} \*\[d\]ro\[j\]s "small-mouthed jar"). The modern glyph comes
-from replacing the bottom element with 土 *EARTH* for the word {陲}.
+♪[𡸁](https://panatesu.github.io/glyph-origins/radicals/46/#U%2b21E01) \*TOJ with the lower part replaced with [土](https://panatesu.github.io/glyph-origins/radicals/32/#U%2b571F) *EARTH*. 
 
 - 李學勤 (ed.) 2012 - 字源 (1195)
