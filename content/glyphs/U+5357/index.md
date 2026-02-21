@@ -15,7 +15,7 @@ weight = 1
 ?{醓} \*\[n̥ˤ\]\[ə\]mʔ "bride of pickled mincemeat" ♪→ {南} \*nˤ\[ə\]m
 "south"
 
-Depiction of a cylindric vessel (同) with a blade of grass (屮) on top.
+Depiction of a cylindric vessel ([同](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b540C)) with a blade of grass ([屮](https://panatesu.github.io/glyph-origins/radicals/45/#U%2b5C6E)) on top.
 
 - 黃博 2020 - 甲骨文“南”及相關字補說
 
