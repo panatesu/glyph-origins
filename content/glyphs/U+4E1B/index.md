@@ -7,7 +7,7 @@ radical = "1"
 
 {叢} *cóng* "to gather"
 
-♪从 *CONG* + differentiative stroke. Created for simplifying 叢 in
+♪[从](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4ECE) *CONG* + differentiative stroke. Created for simplifying [叢](https://panatesu.github.io/glyph-origins/radicals/29/#U%2b53E2) in
 China.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
@@ -15,4 +15,4 @@ China.
 
 #### 丛²
 
-See 丘.
+See [丘](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E18).

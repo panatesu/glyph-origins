@@ -7,9 +7,8 @@ radical = "1"
 
 \*{丂} \*kʰouᴮ "the appearance of air which is to be released"
 
-Shortened form of 考. It and its usage was created for *Shuowen Jiezi*
-to explain its form and appearance in glyphs such as 号 "to yell" or 兮
-"*exclamatory particle*".
+Shortened form of [考](https://panatesu.github.io/glyph-origins/radicals/125/#U%2b8003). It and its usage was created for *Shuowen Jiezi*
+to explain its form and appearance in glyphs such as [号](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53F7) "to yell" or [兮](https://panatesu.github.io/glyph-origins/radicals/12/#U%2b516E) "*exclamatory particle*".
 
 #### 丂²
 
@@ -34,4 +33,4 @@ Depiction of a cane.
 
 #### 丂⁴
 
-See 于.
+See [于](https://panatesu.github.io/glyph-origins/radicals/7/#U%2b4E8E).

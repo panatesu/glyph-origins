@@ -14,4 +14,4 @@ Unknown.
 
 #### 丏² 
 
-See 丐.
+See [丐](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E10).

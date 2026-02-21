@@ -7,8 +7,8 @@ radical = "1"
 
 Depiction of a hand with bent fingers.
 
+- 楊澤生 2022 - 論甲骨文的「收」字及相關問題
+
 **Forms:**
 
 丒 - Alternative form.
-
-- 楊澤生 2022 - 論甲骨文的「收」字及相關問題
