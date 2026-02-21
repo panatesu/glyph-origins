@@ -50,3 +50,6 @@ topolects, other (S)EA languages etc. Some of the resources utilized:
   &amp; Baxter W.H. 2025 - OC voiceless sonorants: a second look</a>
 
 etc...
+
+Also, I refrained from explicitly showing morphology. Instead, affixes like *-s, *m- etc. are written without hyphens.
+ 
