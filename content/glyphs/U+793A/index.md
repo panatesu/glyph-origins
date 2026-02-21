@@ -1,5 +1,6 @@
-+++radical = "113"
-weight = 0
++++
+radical = "113"
+weight = 30
 +++
 
 #### 示¹

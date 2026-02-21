@@ -1,5 +1,6 @@
-+++radical = "30"
-weight = 1
++++
+radical = "30"
+weight = 30
 +++
 
 {右} \*wəʔ "right"

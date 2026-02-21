@@ -1,5 +1,6 @@
-+++radical = "120"
-weight = 0
++++
+radical = "120"
+weight = 30
 +++
 
 #### 糸¹

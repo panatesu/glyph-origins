@@ -1,5 +1,6 @@
-+++radical = "75"
-weight = 2
++++
+radical = "75"
+weight = 30
 +++
 
 {葉} \*lap "leaves"

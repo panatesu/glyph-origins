@@ -1,5 +1,6 @@
-+++radical = "39"
-weight = 5
++++
+radical = "39"
+weight = 30
 +++
 
 See 學.

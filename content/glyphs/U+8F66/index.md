@@ -1,5 +1,6 @@
-+++radical = "159"
-weight = 1
++++
+radical = "159"
+weight = 30
 +++
 
 See 車.

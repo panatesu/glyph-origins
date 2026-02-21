@@ -1,5 +1,6 @@
-+++radical = "75"
-weight = 3
++++
+radical = "75"
+weight = 30
 +++
 
 {校} \*kˤr\[a\]ws "shackles" ♪→ {校} \*ɡˤr\[a\]ws "school"

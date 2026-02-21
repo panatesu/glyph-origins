@@ -1,5 +1,6 @@
-+++radical = "13"
-weight = 0
++++
+radical = "13"
+weight = 30
 +++
 
 See 圓.

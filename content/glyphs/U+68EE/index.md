@@ -1,5 +1,6 @@
-+++radical = "75"
-weight = 4
++++
+radical = "75"
+weight = 30
 +++
 
 ?{林}\*rəm "grove; forest" / (♪→) {森} \*s.rəm "forest"

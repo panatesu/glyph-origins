@@ -1,5 +1,6 @@
-+++radical = "128"
-weight = 0
++++
+radical = "128"
+weight = 30
 +++
 
 {耳} \*C.nəʔ "ear"

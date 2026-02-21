@@ -1,5 +1,6 @@
-+++radical = "40"
-weight = 0
++++
+radical = "40"
+weight = 30
 +++
 
 #### 安¹

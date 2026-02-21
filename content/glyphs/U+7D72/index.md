@@ -1,5 +1,6 @@
-+++radical = "120"
-weight = 1
++++
+radical = "120"
+weight = 30
 +++
 
 {絲} \*sə "thread"

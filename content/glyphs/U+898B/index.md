@@ -1,5 +1,6 @@
-+++radical = "147"
-weight = 0
++++
+radical = "147"
+weight = 30
 +++
 
 {見} \*kˤens "to see"

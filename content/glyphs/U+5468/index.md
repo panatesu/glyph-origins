@@ -1,5 +1,6 @@
-+++radical = "30"
-weight = 9
++++
+radical = "30"
+weight = 30
 +++
 
 ?{琱/彫} \*tˤiw "engrave (on jade)" ♪→ {周} \*tiw "Zhou"

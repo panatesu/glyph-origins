@@ -1,5 +1,6 @@
-+++radical = "110"
-weight = 0
++++
+radical = "110"
+weight = 30
 +++
 
 {矛} \*m(r)u "spear" & {矜} \*k.riŋ "spear handle"

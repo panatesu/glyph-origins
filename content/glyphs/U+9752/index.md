@@ -1,5 +1,6 @@
-+++radical = "174"
-weight = 0
++++
+radical = "174"
+weight = 30
 +++
 
 {青} \*\[tsʰ\]ˤeŋ "green; blue"

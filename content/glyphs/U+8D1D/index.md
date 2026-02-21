@@ -1,5 +1,6 @@
-+++radical = "154"
-weight = 1
++++
+radical = "154"
+weight = 30
 +++
 
 See 貝.

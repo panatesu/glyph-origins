@@ -1,5 +1,6 @@
-+++radical = "29"
-weight = 0
++++
+radical = "29"
+weight = 29
 +++
 
 {掘} \*\[ɡ\]ut "to dig" ♪→ {喟/㕟} *kʰwɛjH* "sigh" & {阱} \*dzeŋʔ "pit"

@@ -1,5 +1,6 @@
-+++radical = "93"
-weight = 2
++++
+radical = "93"
+weight = 30
 +++
 
 {牽} \*\[k\]ʰˤi\[ŋ\] "to pull"

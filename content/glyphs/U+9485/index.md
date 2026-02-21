@@ -1,5 +1,6 @@
-+++radical = "167"
-weight = 1
++++
+radical = "167"
+weight = 30
 +++
 
 See 金.

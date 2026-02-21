@@ -1,5 +1,6 @@
-+++radical = "113"
-weight = 1
++++
+radical = "113"
+weight = 30
 +++
 
 {祝} \*tuk "prayer"

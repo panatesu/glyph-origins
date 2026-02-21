@@ -1,5 +1,6 @@
-+++radical = "169"
-weight = 0
++++
+radical = "169"
+weight = 30
 +++
 
 {啟/開/闙} \*kʰˤ\[e\]ʔ "to open" → {闓} \*\[kʰ\]ˤəiʔ "to open"

@@ -1,5 +1,6 @@
-+++radical = "39"
-weight = 0
++++
+radical = "39"
+weight = 30
 +++
 
 #### 子¹

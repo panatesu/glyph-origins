@@ -1,6 +1,6 @@
 +++
 radical = "7"
-weight = 1
+weight = 30
 +++
 
 {互} \*\[m.q\]ˤas "mutual"

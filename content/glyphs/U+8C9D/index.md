@@ -1,5 +1,6 @@
-+++radical = "154"
-weight = 0
++++
+radical = "154"
+weight = 30
 +++
 
 {貝} \*pˤats "cowrie shell"

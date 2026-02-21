@@ -1,5 +1,6 @@
-+++radical = "24"
-weight = 0
++++
+radical = "24"
+weight = 30
 +++
 
 {十} \*\[ɡ\]ip "ten"

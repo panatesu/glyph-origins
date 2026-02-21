@@ -1,5 +1,6 @@
-+++radical = "19"
-weight = 0
++++
+radical = "19"
+weight = 30
 +++
 
 {梩} \*rə "plow" ♪→ {力} \*rək "power"

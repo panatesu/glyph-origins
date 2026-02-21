@@ -1,5 +1,6 @@
-+++radical = "30"
-weight = 6
++++
+radical = "30"
+weight = 30
 +++
 
 #### 吹¹

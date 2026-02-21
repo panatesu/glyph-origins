@@ -1,5 +1,6 @@
-+++radical = "102"
-weight = 0
++++
+radical = "102"
+weight = 30
 +++
 
 {田} \*lˤiŋ "field"

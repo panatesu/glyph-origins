@@ -1,5 +1,6 @@
-+++radical = "84"
-weight = 0
++++
+radical = "84"
+weight = 30
 +++
 
 ?{氣} \*C.qʰə\[t\]s "air"

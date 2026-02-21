@@ -1,5 +1,5 @@
 +++
-weight = 61
+weight = 28
 radical = "1"
 +++
 

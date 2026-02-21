@@ -1,5 +1,6 @@
-+++radical = "84"
-weight = 1
++++
+radical = "84"
+weight = 30
 +++
 
 See 氣.

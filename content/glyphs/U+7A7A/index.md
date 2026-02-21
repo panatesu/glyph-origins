@@ -1,5 +1,6 @@
-+++radical = "116"
-weight = 0
++++
+radical = "116"
+weight = 30
 +++
 
 {空} \*kʰˤoŋ "hollow"

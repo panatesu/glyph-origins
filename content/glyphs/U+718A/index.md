@@ -1,5 +1,6 @@
-+++radical = "86"
-weight = 2
++++
+radical = "86"
+weight = 30
 +++
 
 <div class="glyph-table">

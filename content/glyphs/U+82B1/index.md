@@ -1,5 +1,6 @@
-+++radical = "140"
-weight = 0
++++
+radical = "140"
+weight = 30
 +++
 
 {花} \*ɣuaᶜ "flower"

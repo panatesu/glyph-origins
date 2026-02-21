@@ -1,5 +1,6 @@
-+++radical = "38"
-weight = 0
++++
+radical = "38"
+weight = 30
 +++
 
 {{< glyph-table-img path="https://i.postimg.cc/k52PCxjM/U-5973.png" >}}

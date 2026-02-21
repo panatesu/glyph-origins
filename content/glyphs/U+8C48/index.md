@@ -1,5 +1,6 @@
-+++radical = "151"
-weight = 0
++++
+radical = "151"
+weight = 30
 +++
 
 ?{凱} \*C.\[q\]ʰˤəjʔ "triumphal music" ♪→ {豈} \*C.\[q\]ʰəjʔ "how"

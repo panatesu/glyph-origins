@@ -1,5 +1,6 @@
-+++radical = "155"
-weight = 0
++++
+radical = "155"
+weight = 30
 +++
 
 ?{赤} \*\[t.qʰ\](r)ak "red"

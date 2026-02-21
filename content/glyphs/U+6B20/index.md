@@ -1,5 +1,6 @@
-+++radical = "76"
-weight = 0
++++
+radical = "76"
+weight = 30
 +++
 
 {欠} \*kʰams "to yawn"

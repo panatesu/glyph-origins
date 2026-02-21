@@ -1,5 +1,6 @@
-+++radical = "42"
-weight = 0
++++
+radical = "42"
+weight = 30
 +++
 
 {小} \*sewʔ "small" & {少} \*s.tewʔ "few" & {杪/藐} \*mewʔ "small"

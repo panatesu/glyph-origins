@@ -1,5 +1,6 @@
-+++radical = "72"
-weight = 1
++++
+radical = "72"
+weight = 30
 +++
 
 ?{早} \*Nə.tsˤuʔ "early"

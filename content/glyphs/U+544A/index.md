@@ -1,5 +1,6 @@
-+++radical = "30"
-weight = 8
++++
+radical = "30"
+weight = 30
 +++
 
 #### 告¹

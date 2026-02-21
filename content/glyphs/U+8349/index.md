@@ -1,5 +1,6 @@
-+++radical = "140"
-weight = 1
++++
+radical = "140"
+weight = 30
 +++
 
 {草} \*\[tsʰ\]ˤuʔ "grass"

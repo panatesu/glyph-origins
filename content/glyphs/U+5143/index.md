@@ -1,5 +1,6 @@
-+++radical = "10"
-weight = 1
++++
+radical = "10"
+weight = 30
 +++
 
 {元} \*\[ŋ\]o\[r\] "head"

@@ -1,5 +1,6 @@
-+++radical = "180"
-weight = 0
++++
+radical = "180"
+weight = 30
 +++
 
 {音} \*\[q\](r)əm "sound"

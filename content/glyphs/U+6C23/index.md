@@ -1,5 +1,6 @@
-+++radical = "84"
-weight = 2
++++
+radical = "84"
+weight = 30
 +++
 
 {餼} \*qʰ(r)ə\[t\]s "to present grain" ♪→ {氣} \*C.qʰə\[t\]s "air"

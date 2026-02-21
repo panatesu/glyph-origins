@@ -1,5 +1,6 @@
-+++radical = "37"
-weight = 1
++++
+radical = "37"
+weight = 30
 +++
 
 {天} \*l̥ˤi\[n\] "head"

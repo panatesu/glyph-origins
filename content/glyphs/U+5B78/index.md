@@ -1,5 +1,6 @@
-+++radical = "39"
-weight = 6
++++
+radical = "39"
+weight = 30
 +++
 
 {{< glyph-table-img path="https://i.postimg.cc/VNpJXTnK/U-5B78.png" >}}
@@ -20,5 +21,3 @@ China and Japan.
 
 Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
 Characters from A to Z (325)
-
-  

@@ -1,5 +1,6 @@
-+++radical = "26"
-weight = 4
++++
+radical = "26"
+weight = 30
 +++
 
 See 却.

@@ -1,5 +1,6 @@
-+++radical = "17"
-weight = 0
++++
+radical = "17"
+weight = 30
 +++
 
 {出} \*t.kʰut "to go out"

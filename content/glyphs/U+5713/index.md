@@ -1,5 +1,6 @@
-+++radical = "31"
-weight = 3
++++
+radical = "31"
+weight = 30
 +++
 
 {圓} \*\[w\]ran "round"

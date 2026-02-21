@@ -1,5 +1,6 @@
-+++radical = "38"
-weight = 1
++++
+radical = "38"
+weight = 30
 +++
 
 #### 好¹
