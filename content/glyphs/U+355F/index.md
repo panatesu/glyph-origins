@@ -5,8 +5,7 @@ weight = 2
 
 {掘} \*\[ɡ\]ut "to dig" ♪→ {喟/㕟} *kʰwɛjH* "sigh" & {阱} \*dzeŋʔ "pit"
 
-Differentiated form of 𠭘 (depiction of a hand with a shovel digging a
-pit). Later only the \*KUT usage survives.
+Differentiated form of [𠭘](https://panatesu.github.io/glyph-origins/radicals/29/#U%2b20B58) (depiction of a hand with a shovel digging a pit). Later only the \*KUT usage survives.
 
 - 鄔可晶 2013 - 說金文“䝳”及相關之字
 - 王子楊 2019 - 釋甲骨文中的“阱”字
