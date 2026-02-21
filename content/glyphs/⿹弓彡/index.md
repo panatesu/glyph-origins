@@ -1,7 +1,7 @@
 +++
 title = "⿹弓彡"
 radical = "57"
-weight = 4
+weight = 0
 +++
 
 <div class="glyph-table">
