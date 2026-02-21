@@ -5,7 +5,7 @@ weight = 3
 
 ?{螽} \*tuŋ "locust" / ?{終} \*tuŋ "end" / ?{冬} \*tˤuŋ "winter"
 
-Unknown. Probably a shortened form of 𫜝 \*TUŊ (depiction of a locust
+Unknown. Probably a shortened form of [𫜝](https://panatesu.github.io/glyph-origins/radicals/205/#U%2b2B71D) \*TUŊ (depiction of a locust
 for {螽} \*tuŋ "locust"). The modern form is based on a *liding* of the
 transmitted ancient form.
 

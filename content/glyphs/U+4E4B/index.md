@@ -14,7 +14,7 @@ weight = 1
 
 {之} \*tə "to go"
 
-Either depiction of a foot (止) going from a starting point or ♪止
+Either depiction of a foot ([止](https://panatesu.github.io/glyph-origins/radicals/77/#U%2b6B62)) going from a starting point or ♪[止](https://panatesu.github.io/glyph-origins/radicals/77/#U%2b6B62)
 \*TƏ + differentiative line.
 
 - 黃德寬 (ed.) 2007 - 古文字譜系疏證 (99-101)
