@@ -3,7 +3,14 @@ radical = "10"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/Vvb6JkHK/image.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Bin) | Shang<br>(Wuming) | Chunqiu<br>(Jin) | Zhanguo<br>(Chu) | Zhanguo<br>(Chu) | Zhanguo<br>(Chu) | Zhanguo<br>(Qi) | W.Han | E.Han | Nanbei<br>(E.Wei) | Nanbei<br>(E.Wei) | Tang |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) | ![](8.png) | ![](9.png) | ![](10.png) | ![](11.png) | ![](12.png) |
+| 合10407正 | 合28401 | 侯馬67:39 | 包48 | 包18 | 仰32 | 璽彙153 | 北.老35 | 孔宙碑 | 劉懿墓誌 | 元悰墓誌 | 五經文字 |
+
+</div>
 
 {兕} \*s.liʔ "*Bubalus mephistopheles* (short-horned water buffalo)"
 
