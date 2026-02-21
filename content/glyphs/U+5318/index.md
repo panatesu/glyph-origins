@@ -3,7 +3,14 @@ radical = "21"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/cJgpNqVt/image.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Bin) | Shang<br>(Wuming) | Middle<br>W.Zhou | Zhanguo<br>(Chu) | Qin | E.Han | Ming |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) |
+| 合6304 | 合30298 | 集2831 | 郭.六德32 | 里耶8-860 | 日本說文 | 字彙 |
+
+</div>
 
 ? ♪→ {腦} \*nˤ\[u\]ʔ "brain"
 
