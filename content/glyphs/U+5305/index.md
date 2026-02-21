@@ -3,7 +3,14 @@ radical = "20"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/7LS7tD1g/image.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Shi-Bin) | Shang<br>(Bin) | Shang<br>(Wuming) | Early<br>W.Zhou | Qin | E.Han | Nanbei<br>(N.Qi) | Ming |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) | ![](8.png) |
+| 英1854 | 合16429 | 合26986 | 銘圖9820<br>[玸] | 睡.答61 | 熹經517 | 高淯墓誌 | 賜經之碑 |
+
+</div>
 
 {抱} \*\[m.p\]ˤuʔ "to embrace" ♪→ {包} \*pˤru "to wrap"
 
