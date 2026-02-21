@@ -6,7 +6,14 @@ weight = 0
 
 #### 〇²
 
-{{< glyph-table-img path="https://i.postimg.cc/XJmFDzTh/image.png" >}}
+<div class="glyph-table">
+
+| Shang | Shang<br>(Shi) | Early<br>(W.Zhou) |
+| ----- | ----- | ----- |
+| ![](2-1.png) | ![](2-2.png) | ![](2-3.png) |
+| 集1065 | 合20592<br>[員] | 集5861<br>[員] |
+
+</div>
 
 {圓} \*\[w\]ran "round" & {環} \*C.\[w\]ˤren "round object"
 

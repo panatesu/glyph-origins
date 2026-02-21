@@ -4,7 +4,14 @@ radical = "57"
 weight = 4
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/pXc2CrsF/image.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Bin) | Shang<br>(Bin) | Chunqiu<br>(Chu) | Qin | Qin |
+| ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) |
+| 合137正 | 合557 | 集261.2<br>[弱] | 珍秦99<br>[弱] | 珍展139<br>[弱] |
+
+</div>
 
 {尿/溺} \*kə.nˤewks "to urinate"
 
