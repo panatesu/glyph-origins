@@ -3,4 +3,4 @@ weight = 88
 radical = "1"
 +++
 
-See 並.
+See [並](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E26).

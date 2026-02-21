@@ -14,4 +14,4 @@ explain its form.
 
 #### 㐁²
 
-See 西.
+See [西](https://panatesu.github.io/glyph-origins/radicals/146/#U%2b897F).

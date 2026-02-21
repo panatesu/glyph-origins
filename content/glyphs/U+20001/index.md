@@ -5,7 +5,7 @@ radical = "1"
 
 #### 𠀁¹
 
-See 七.
+See [七](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E03).
 
 #### 𠀁²
 
