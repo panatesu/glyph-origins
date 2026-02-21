@@ -1,5 +1,5 @@
 +++
-weight = 33
+weight = 1
 radical = "1"
 +++
 

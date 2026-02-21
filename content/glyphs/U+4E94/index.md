@@ -1,5 +1,6 @@
-+++radical = "7"
-weight = 2
++++
+radical = "7"
+weight = 1
 +++
 
 {五} \*C.ŋˤaʔ "five"

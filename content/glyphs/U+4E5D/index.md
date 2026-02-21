@@ -1,5 +1,6 @@
-+++radical = "5"
-weight = 0
++++
+radical = "5"
+weight = 1
 +++
 
 {肘} \*t.kruʔ "elbow" ♪→ {九} \*kuʔ "nine"
