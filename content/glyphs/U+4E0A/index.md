@@ -3,7 +3,14 @@ weight = 20
 radical = "1"
 +++
 
-{{< glyph-table-img path="U-4E0A.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Shi) | Shang<br>(Bin) | Late<br>W.Zhou | Chunqiu<br>(Jin) | Zhanguo<br>(Qin) | W.Han | E.Han | Nanbei<br>(N.Wei) |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) | ![](8.png) |
+| 合20024 | 合7428 | 集260.2 | 侯馬92:38<br>[𫵁] | 集證21 | 北.老205 | 五.行359 | 南0147X |
+
+</div>
 
 {上} \*daŋs "up"
 
