@@ -7,6 +7,8 @@ weight = 1
 
 [囗](https://panatesu.github.io/glyph-origins/radicals/31/#U%2b56D7) *ENCIRCLE* + ♪[員](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b54E1) \*\[W\]AN.
 
+- 李學勤 (ed.) 2012 - 字源 (558-559)
+
 **Forms:**
 
 圆 - Shortening based on the analogical 貝 \> 贝. Modern simplified form in China.
