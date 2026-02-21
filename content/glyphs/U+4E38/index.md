@@ -3,7 +3,14 @@ radical = "3"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/cHVmgTcv/image.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Shi-Bin) | Shang<br>(Bin) | Early<br>W.Zhou | Qin | Han | Tang |
+| ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) |
+| 合14295 | 合14294 | 集10308 | 關321 | 河西.醫(1)7 | 開石.毛詩16 |
+
+</div>
 
 {宛} \*ʔʷa\[r\]ʔ "crooked" ♪→ {丸} \*\[w\]ˤar "round"
 
