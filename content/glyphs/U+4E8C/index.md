@@ -3,7 +3,14 @@ radical = "7"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/RFV2XTHj/U-4E8C.png" >}}
+<div class="glyph-table">
+
+| Shang<br>(Shu) | Middle<br>W.Zhou | Zhanguo<br>(Qin) | Qin | W.Han | E.Han | Nanbei<br>(N.Wei) |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) |
+| 合19883 | 集4240 | 新收1078 | 睡.日乙45 | 北.老86 | 五.行85 | 元壽安墓誌 |
+
+</div>
 
 {二} \*nis "two"
 
