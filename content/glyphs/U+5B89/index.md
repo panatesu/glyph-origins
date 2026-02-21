@@ -1,6 +1,6 @@
 +++
 radical = "40"
-weight = 30
+weight = 1
 +++
 
 #### 安¹

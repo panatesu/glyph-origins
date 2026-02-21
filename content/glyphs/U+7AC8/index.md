@@ -1,6 +1,6 @@
 +++
 radical = "116"
-weight = 30
+weight = 1
 +++
 
 {竈} \*tsˤuks "stove"

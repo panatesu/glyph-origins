@@ -1,6 +1,6 @@
 +++
 radical = "42"
-weight = 30
+weight = 1
 +++
 
 {小} \*sewʔ "small" & {少} \*s.tewʔ "few" & {杪/藐} \*mewʔ "small"

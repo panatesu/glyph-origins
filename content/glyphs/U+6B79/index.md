@@ -1,6 +1,6 @@
 +++
 radical = "78"
-weight = 30
+weight = 1
 +++
 
 #### 歹¹

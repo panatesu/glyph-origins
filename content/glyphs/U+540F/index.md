@@ -1,6 +1,6 @@
 +++
 radical = "30"
-weight = 30
+weight = 1
 +++
 
 {史} \*s-rəʔ "historian" & {吏} \*\[r\]əʔ-s "government official"

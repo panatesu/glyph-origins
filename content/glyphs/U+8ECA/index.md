@@ -1,6 +1,6 @@
 +++
 radical = "159"
-weight = 30
+weight = 1
 +++
 
 {車} \*\[kʰ\]ra "chariot"

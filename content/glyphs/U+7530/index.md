@@ -1,6 +1,6 @@
 +++
 radical = "102"
-weight = 30
+weight = 1
 +++
 
 {田} \*lˤiŋ "field"

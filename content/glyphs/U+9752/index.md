@@ -1,6 +1,6 @@
 +++
 radical = "174"
-weight = 30
+weight = 1
 +++
 
 {青} \*\[tsʰ\]ˤeŋ "green; blue"

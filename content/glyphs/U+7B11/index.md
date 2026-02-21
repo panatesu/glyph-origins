@@ -1,6 +1,6 @@
 +++
 radical = "118"
-weight = 30
+weight = 1
 +++
 
 ?{笑} \*\[s.l\]aws "to laugh"

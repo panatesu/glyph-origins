@@ -1,6 +1,6 @@
 +++
 radical = "180"
-weight = 30
+weight = 1
 +++
 
 {音} \*\[q\](r)əm "sound"

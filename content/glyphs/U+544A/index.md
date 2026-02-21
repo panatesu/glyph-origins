@@ -1,6 +1,6 @@
 +++
 radical = "30"
-weight = 30
+weight = 1
 +++
 
 #### 告¹

@@ -1,6 +1,6 @@
 +++
 radical = "58"
-weight = 29
+weight = 2
 +++
 
 ?{肆} \*s.l\[i\]\[k\]s "*si* sacrifice" ♪→ \*{㣇} \*lˤiks "long-haired

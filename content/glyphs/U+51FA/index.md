@@ -1,6 +1,6 @@
 +++
 radical = "17"
-weight = 30
+weight = 1
 +++
 
 {出} \*t.kʰut "to go out"

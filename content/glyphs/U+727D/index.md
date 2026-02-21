@@ -1,6 +1,6 @@
 +++
 radical = "93"
-weight = 30
+weight = 1
 +++
 
 {牽} \*\[k\]ʰˤi\[ŋ\] "to pull"

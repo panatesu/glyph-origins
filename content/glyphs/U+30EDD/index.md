@@ -1,6 +1,6 @@
 +++
 radical = "162"
-weight = 23
+weight = 8
 +++
 
 See 𰻞.

@@ -1,6 +1,6 @@
 +++
 radical = "7"
-weight = 30
+weight = 1
 +++
 
 {五} \*C.ŋˤaʔ "five"

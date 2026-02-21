@@ -1,6 +1,6 @@
 +++
 radical = "75"
-weight = 30
+weight = 1
 +++
 
 {木} \*C.mˤok "tree" & {生} \*sreŋ "to grow"

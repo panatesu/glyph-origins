@@ -1,6 +1,6 @@
 +++
 radical = "12"
-weight = 30
+weight = 1
 +++
 
 {六} \*k.ruk "six"

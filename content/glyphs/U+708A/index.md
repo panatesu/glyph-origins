@@ -1,6 +1,6 @@
 +++
 radical = "86"
-weight = 30
+weight = 1
 +++
 
 {炊} \*\[tʰ\]o\[r\] "to cook"

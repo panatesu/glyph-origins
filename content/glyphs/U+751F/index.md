@@ -1,6 +1,6 @@
 +++
 radical = "100"
-weight = 30
+weight = 1
 +++
 
 {生} \*sreŋ "to grow"

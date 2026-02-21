@@ -1,6 +1,6 @@
 +++
 radical = "30"
-weight = 30
+weight = 1
 +++
 
 {鑪/鋁} \*rˤa "*type of metal*" ♪→ {呂} \*\[r\]aʔ "six *yin* tones"

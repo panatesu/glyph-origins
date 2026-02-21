@@ -1,6 +1,6 @@
 +++
 radical = "48"
-weight = 30
+weight = 1
 +++
 
 {左} \*tsˤa\[j\]ʔ "left"

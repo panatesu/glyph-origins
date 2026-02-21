@@ -1,6 +1,6 @@
 +++
 radical = "72"
-weight = 30
+weight = 1
 +++
 
 {日} \*k.nik "sun"

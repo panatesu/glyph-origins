@@ -1,6 +1,6 @@
 +++
 radical = "39"
-weight = 30
+weight = 1
 +++
 
 {字} \*mə.dzəs "to foster"

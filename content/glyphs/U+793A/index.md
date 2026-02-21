@@ -1,6 +1,6 @@
 +++
 radical = "113"
-weight = 30
+weight = 1
 +++
 
 #### 示¹

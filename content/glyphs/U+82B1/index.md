@@ -1,6 +1,6 @@
 +++
 radical = "140"
-weight = 30
+weight = 1
 +++
 
 {花} \*ɣuaᶜ "flower"

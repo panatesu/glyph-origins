@@ -1,6 +1,6 @@
 +++
 radical = "32"
-weight = 30
+weight = 1
 +++
 
 {坎} \*kʰˤəmʔ "pit"

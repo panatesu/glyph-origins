@@ -1,6 +1,6 @@
 +++
 radical = "80"
-weight = 30
+weight = 1
 +++
 
 {母} \*mˤəʔ "mother" & {女} \*nraʔ "woman"

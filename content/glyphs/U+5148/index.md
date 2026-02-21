@@ -1,6 +1,6 @@
 +++
 radical = "10"
-weight = 30
+weight = 1
 +++
 
 {先} \*sˤər "first; ahead" or {先} \*sˤərs "to guide"

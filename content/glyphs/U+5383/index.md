@@ -1,6 +1,6 @@
 +++
 radical = "27"
-weight = 30
+weight = 1
 +++
 
 #### 厃¹

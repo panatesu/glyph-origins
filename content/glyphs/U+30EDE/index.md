@@ -1,6 +1,6 @@
 +++
 radical = "162"
-weight = 23
+weight = 8
 +++
 
 {兵} *bīng* “soldier” ♪→ {𰻞(𰻞麵)} *biáng*(*biáng miàn*) “*biangbiang*

@@ -1,6 +1,6 @@
 +++
 radical = "116"
-weight = 30
+weight = 1
 +++
 
 {空} \*kʰˤoŋ "hollow"

@@ -1,6 +1,6 @@
 +++
 radical = "24"
-weight = 30
+weight = 1
 +++
 
 {十} \*\[ɡ\]ip "ten"

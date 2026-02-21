@@ -1,6 +1,6 @@
 +++
 radical = "32"
-weight = 30
+weight = 1
 +++
 
 {{< glyph-table-img path="https://i.postimg.cc/W4ZVv50S/image.png" >}}

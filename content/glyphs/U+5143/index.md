@@ -1,6 +1,6 @@
 +++
 radical = "10"
-weight = 30
+weight = 1
 +++
 
 {元} \*\[ŋ\]o\[r\] "head"

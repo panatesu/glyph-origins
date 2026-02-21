@@ -1,6 +1,6 @@
 +++
 radical = "147"
-weight = 30
+weight = 1
 +++
 
 See 見.

@@ -1,6 +1,6 @@
 +++
 radical = "3"
-weight = 28
+weight = 3
 +++
 
 ?{螽} \*tuŋ "locust" / ?{終} \*tuŋ "end" / ?{冬} \*tˤuŋ "winter"

@@ -1,6 +1,6 @@
 +++
 radical = "12"
-weight = 30
+weight = 1
 +++
 
 ?{別} \*pret "to separate" ♪→ {八} \*pˤret "eight"
