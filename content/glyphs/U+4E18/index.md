@@ -11,8 +11,7 @@ Depiction of two mountain peaks.
 
 **Forms:**
 
-丠 丛 𠀌 㐀 业 𠀜 - Copy of the small seal script form from *Shuowen
-Jiezi*.
+丠 丛 𠀌 㐀 业 𠀜 - Copy of the small seal script form from *Shuowen Jiezi*.
 
 𠀈 - Alternative form.
 
