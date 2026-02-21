@@ -3,12 +3,18 @@ radical = "31"
 weight = 1
 +++
 
-{{< glyph-table-img path="https://i.postimg.cc/JnHvdnCJ/U-56DB.png" >}}
+<div class="glyph-table">
 
-{呬} \*l̥ri\[j\]s "breath" or {泗} \*s.li\[j\]s "nasal mucus" ♪→ {四}
-\*s.li\[j\]s "four"
+| Shang | Shang<br>(Bin) | Early<br>W.Zhou | Chunqiu<br>(Jin) | Chunqiu<br>(Chu) | Zhanguo<br>(Jin) | Zhanguo<br>(Qin) | Qin | E.Han | Nanbei<br>(N.Wei) |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| ![](1.png) | ![](2.png) | ![](3.png) | ![](4.png) | ![](5.png) | ![](6.png) | ![](7.png) | ![](8.png) | ![](9.png) | ![](10.png) |
+| 集1225 | 合2354臼 | 集3862 | 集236 | 新收519 | 集2609 | 秦陶1610 | 集證143.168 | 乙瑛碑 | 南0091X |
 
-Depiction of a nose with air or nasal mucus coming out of it.
+</div>
+
+{呬} \*l̥ri\[j\]s "breath" or {泗} \*s.li\[j\]s "nasal mucus" ♪→ {四} \*s.li\[j\]s "four"
+
+Depiction of a nose ([自](https://panatesu.github.io/glyph-origins/radicals/132/#U%2b81EA)) with air or nasal mucus coming out of it.
 
 - 劉洪濤 2018 - 釋“四”
 - 劉洪濤 2019 - 形體特點對古文字考釋重要性研究 (173-183)
