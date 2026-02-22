@@ -12,6 +12,6 @@ Depiction of a person with an accent on his head.
 
 **Forms:**
 
-𠀘 𠀡 - Copy of a transmitted ancient form.
+[𠀘](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20018) [𠀡](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20021) - Copy of a transmitted ancient form.
 
-𠀑 - Copy of a transmitted ancient form. One of the Wu Zetian characters.
+[𠀑](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20011) - Copy of a transmitted ancient form. One of the Wu Zetian characters.
