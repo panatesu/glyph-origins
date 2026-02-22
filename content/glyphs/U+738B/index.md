@@ -7,7 +7,7 @@ weight = 1
 
 {王} \*waŋ "king" & {士} \*\[dz\]rəʔ "knight"
 
-士 + differentiating dot. Initially it was used for both words {王} and
+士 + differentiative dot. Initially it was used for both words {王} and
 {士}. Later it began to be used only for {王}.
 
 - 林澐 1965 - 說王

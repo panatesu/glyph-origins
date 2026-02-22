@@ -14,7 +14,7 @@ weight = 1
 
 {夕} \*sV.lak "night" & {月} \*ŋʷat "moon"
 
-[夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) + differentiating dot. Initially [夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) was used for both words {月} and {夕}. Later 月 appeared and began to be used for {夕}. Later it began to be used for {月}.
+[夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) + differentiative dot. Initially [夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) was used for both words {月} and {夕}. Later 月 appeared and began to be used for {夕}. Later it began to be used for {月}.
 
 - 陳劍 2007 - 甲骨金文考釋論集・殷墟卜辭的分期分類對甲骨文字考釋的重要性
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (548-549)

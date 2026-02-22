@@ -20,4 +20,4 @@ Either [歺](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B7A) *SH
 
 **Forms:**
 
-[歹](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B79) - Shortened form used in compound characters as a semantic.
+[歹](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B79) - Shortening used in compound glyphs as a semantic.
