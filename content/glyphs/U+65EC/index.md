@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{旬} \*\[sVN.qʷ\]i\[n\] "ten days"
+{旬} \*\[sN.qʷ\]i\[n\] "ten days"
 
 [日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5) *DAY* + ♪[〾勹](https://panatesu.github.io/glyph-origins/radicals/215/#%E3%80%BE%E5%8B%B9) \*QʷIN  (\> 勹).
 
