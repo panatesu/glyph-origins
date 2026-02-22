@@ -18,5 +18,3 @@ Unknown. Either [火](https://panatesu.github.io/glyph-origins/radicals/86/#U%2b
 
 - 大西克也 2003 - 試論上博楚簡《緇衣》中的“厃”字及相關諸字
 - 布之道 2022 - 廣韻形聲考
-
-  
