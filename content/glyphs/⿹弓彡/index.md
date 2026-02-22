@@ -1,6 +1,6 @@
 +++
 title = "⿹弓彡"
-radical = "57"
+radical = "215"
 weight = 0
 +++
 
