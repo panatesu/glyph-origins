@@ -21,4 +21,4 @@ weight = 1
 
 **Forms:**
 
-却 - Alternative form with 𧮫 \> 去. Standard form in Japan and PRC.
+[却](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5374) - Alternative form with 𧮫 \> 去. Standard form in Japan and PRC.

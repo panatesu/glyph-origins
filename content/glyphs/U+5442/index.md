@@ -12,4 +12,4 @@ Depiction of two metal ingots.
 
 **Forms:**
 
-吕 - Alternative form. Standard form in PRC.
+[吕](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5415) - Alternative form. Standard form in PRC.

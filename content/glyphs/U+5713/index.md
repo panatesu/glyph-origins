@@ -11,9 +11,9 @@ weight = 1
 
 **Forms:**
 
-圆 - Shortening based on the analogical 貝 \> 贝. Modern simplified form in China.
+[圆](https://panatesu.github.io/glyph-origins/radicals/31/#U%2b5706) - Shortening based on the analogical 貝 \> 贝. Modern simplified form in China.
 
-円 - Shortening based on the replacement of 員 with 丿. Modern simplified form in Japan.
+[円](https://panatesu.github.io/glyph-origins/radicals/13/#U%2b5186) - Shortening based on the replacement of 員 with 丿. Modern simplified form in Japan.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (360-361)
 
