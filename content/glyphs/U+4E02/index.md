@@ -30,7 +30,3 @@ Depiction of a cane.
 - 陳劍 2018 - 以一些例子談談甲骨文字考釋可注意的問題
 - 王帥 2018 - 甲骨文“丂”、“昜”新解
 - 李春桃 2020 - 甲骨文中“丂”字新釋
-
-#### 丂⁴
-
-See [于](https://panatesu.github.io/glyph-origins/radicals/7/#U%2b4E8E).

@@ -11,4 +11,4 @@ Shortened form of [枼](https://panatesu.github.io/glyph-origins/radicals/75/#U%
 
 **Forms:**
 
-𠀍 丗 - Alternative form.
+[𠀍](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b2000D) [丗](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E17) - Alternative form.

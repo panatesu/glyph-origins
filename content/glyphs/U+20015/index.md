@@ -3,4 +3,4 @@ weight = 3
 radical = "1"
 +++
 
-See [亙](https://panatesu.github.io/glyph-origins/radicals/7/#U%2b4E99).
+Alternative form of [亙](https://panatesu.github.io/glyph-origins/radicals/7/#U%2b4E99).

@@ -3,4 +3,4 @@ weight = 3
 radical = "1"
 +++
 
-See [衰](https://panatesu.github.io/glyph-origins/radicals/145/#U%2b8870).
+Bottom part of [𠌺](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b2033A) created for describing characters in some classical dictionaries.

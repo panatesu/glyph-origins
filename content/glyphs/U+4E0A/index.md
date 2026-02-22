@@ -21,4 +21,4 @@ added.
 
 **Forms:**
 
-丄 - Copy of the small seal script form from *Shuowen Jiezi*.
+[丄](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E04) - Copy of the small seal script form from *Shuowen Jiezi*.

@@ -12,4 +12,4 @@ Probably rotated depiction of hair.
 
 **Forms:**
 
-𠀚 - Copy of the small seal script form from *Shuowen Jiezi*.
+[𠀚](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b2001A) - Copy of the small seal script form from *Shuowen Jiezi*.

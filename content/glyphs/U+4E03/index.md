@@ -13,4 +13,4 @@ Unknown. Likely an early arbitrary sign.
 
 **Forms:**
 
-𠀁 - Copy of the small seal script form from *Shuowen Jiezi*.
+[𠀁](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20001) - Copy of the small seal script form from *Shuowen Jiezi*.

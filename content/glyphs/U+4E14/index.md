@@ -21,4 +21,4 @@ Depiction of a cutting board.
 
 **Forms:**
 
-𠀇 𠀃 - Transmitted ancient form. Also, shortened form.
+[𠀇](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20007) [𠀃](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20003) - Transmitted ancient form. Also, shortened form.

@@ -9,4 +9,4 @@ radical = "1"
 
 **Forms:**
 
-丏 - Alternative form.
+[丏](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E0F) - Alternative form.

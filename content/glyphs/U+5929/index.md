@@ -9,3 +9,9 @@ Depiction of a person with an accent on his head.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (40-41)
 - 林志強 & al. (ed.) 2017 - 《文源》評注 (353)
+
+**Forms:**
+
+𠀘 𠀡 - Copy of a transmitted ancient form.
+
+𠀑 - Copy of a transmitted ancient form. One of the Wu Zetian characters.

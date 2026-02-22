@@ -3,4 +3,4 @@ weight = 1
 radical = "1"
 +++
 
-See [丢](https://panatesu.github.io/glyph-origins/radicals/4/#U%2b4E22).
+Alternative form of [丢](https://panatesu.github.io/glyph-origins/radicals/4/#U%2b4E22).

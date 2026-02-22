@@ -11,4 +11,4 @@ Depiction of a hand with bent fingers.
 
 **Forms:**
 
-丒 - Alternative form.
+[丒](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E12) - Alternative form.

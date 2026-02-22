@@ -12,4 +12,4 @@ Unknown. Probably depiction of a hand with a cane.
 
 **Forms:**
 
-𠀋 - Addition of a decorative dot.
+[𠀋](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b2000B) - Addition of a decorative dot.

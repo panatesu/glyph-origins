@@ -11,7 +11,7 @@ Two 糸¹.
 
 **Forms:**
 
-丝 - Shortening based on the cursive form. Modern simplified form in
+[丝](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E1D) - Shortening based on the cursive form. Modern simplified form in
 China.
 
 糸 - Shortening. Modern simplified form in Japan.
