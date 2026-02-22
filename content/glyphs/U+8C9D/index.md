@@ -11,8 +11,4 @@ Depiction of a cowrie shell.
 
 **Forms:**
 
-贝 - Shortening based on the cursive form. Modern simplified form in
-China.
-
-- Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
-  Characters from A to Z (42)
+[贝](https://panatesu.github.io/glyph-origins/radicals/154/#U%2b8D1D) - Shortening based on the cursive form. Modern simplified form in China.
