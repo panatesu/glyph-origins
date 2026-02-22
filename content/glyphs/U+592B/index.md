@@ -14,7 +14,7 @@ weight = 1
 
 {夫} \*p(r)a "adult man" & {大} \*lˤats "big"
 
-[大](https://panatesu.github.io/glyph-origins/radicals/37/#U%2b5927) + differentiative line. Initially 夫 was used for both words {大} and {夫}. Later 夫 began to be used only for {大}.
+[大](https://panatesu.github.io/glyph-origins/radicals/37/#U%2b5927) + differentiative line. Initially 夫 was used for both words {大} and {夫}. Later 夫 began to be used only for {夫}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (782)
 - 姚孝遂 1989 - 再論古漢字的性質
