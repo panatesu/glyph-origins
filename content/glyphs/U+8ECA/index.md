@@ -11,8 +11,5 @@ Depiction of a chariot.
 
 **Forms:**
 
-车 - Shortening based on the cursive form. Modern simplified form in
+[车](https://panatesu.github.io/glyph-origins/radicals/159/#U%2b8F66) - Shortening based on the cursive form. Modern simplified form in
 China.
-
-- Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese
-  Characters from A to Z (53)
