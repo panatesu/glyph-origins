@@ -22,6 +22,8 @@ borrowed to write the word Y
 **\[X\]** (on pictures) = either some separate glyph X, or some compound
 glyph X from which an element was taken for a picture
 
+**X\*** = character usually transcribed as X, but its true nature is uncertain
+
 # Source Abbreviations
 
 ## Bones & Plastrons
