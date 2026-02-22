@@ -14,7 +14,7 @@ weight = 1
 
 {月} \*ŋʷat "moon" & {夕} \*sə.lak "night"
 
-Depiction of a crescent moon. Initially was used for both words {月} and {夕}. After the glyph 月 was created, 夕 began to be used for {月}. Later it began to be used for {夕}.
+Depiction of a crescent moon. Initially was used for both words {月} and {夕}. After the glyph [月](https://panatesu.github.io/glyph-origins/radicals/74/#U%2b6708) was created, 夕 began to be used for {月}. Later it began to be used for {夕}.
 
 - 陳劍 2007 - 甲骨金文考釋論集・殷墟卜辭的分期分類對甲骨文字考釋的重要性
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (554)
