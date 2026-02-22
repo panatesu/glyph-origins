@@ -20,4 +20,4 @@ From a Hongmen society secret Taoist talisman-like symbol composed of [戀](http
 
 **Forms:**
 
-𰻞 - Shortening by analogy with 馬 \> 马 and 長 \> 长.
+[𰻞](https://panatesu.github.io/glyph-origins/radicals/162/#U%2b30EDD) - Shortening by analogy with 馬 \> 马 and 長 \> 长.
