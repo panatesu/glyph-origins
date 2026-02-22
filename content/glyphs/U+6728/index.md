@@ -3,10 +3,9 @@ radical = "75"
 weight = 1
 +++
 
-{木} \*C.mˤok "tree" & {生} \*sreŋ "to grow"
+{木} \*CV.mˤok "tree" & {生} \*sreŋ "to grow"
 
-Depiction of a tree. Initially it was used for both words {木} and {生}.
-Later it began to be used only for {木}.
+Depiction of a tree. Initially it was used for both words {木} and {生}. Later it began to be used only for {木}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (484)
 - 裘錫圭 1988 - 釋“木月”“林月”
