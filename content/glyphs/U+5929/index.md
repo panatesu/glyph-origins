@@ -3,7 +3,7 @@ radical = "37"
 weight = 1
 +++
 
-{天} \*l̥ˤi\[n\] "head"
+{天} \*C̥.lˤi\[n\] "head"
 
 Depiction of a person with an accent on his head.
 
