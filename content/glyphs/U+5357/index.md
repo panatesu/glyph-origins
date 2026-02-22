@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-?{醓} \*\[n̥ˤ\]\[ə\]mʔ "bride of pickled mincemeat" ♪→ {南} \*nˤ\[ə\]m
+?{醓} \*\[C̥.nˤ\]\[ə\]mʔ "bride of pickled mincemeat" ♪→ {南} \*nˤ\[ə\]m
 "south"
 
 Depiction of a cylindric vessel ([同](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b540C)) with a blade of grass ([屮](https://panatesu.github.io/glyph-origins/radicals/45/#U%2b5C6E)) on top.

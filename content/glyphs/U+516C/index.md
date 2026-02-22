@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{罋/甕/瓮} \*ʔ.lˤoŋ "earthen jar" ♪→ {公} \*k.lˤoŋ "public"
+{罋/甕/瓮} \*[ʔV.l]ˤoŋ "earthen jar" ♪→ {公} \*kV.lˤoŋ "public"
 
 Depiction of an earthen jar.
 

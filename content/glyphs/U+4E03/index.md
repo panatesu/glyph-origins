@@ -3,7 +3,7 @@ weight = 1
 radical = "1"
 +++
 
-{七} \*s.n̥i\[t\] "seven"
+{七} \*(C)Vs.ni\[t\] "seven"
 
 Unknown. Likely an early arbitrary sign.
 

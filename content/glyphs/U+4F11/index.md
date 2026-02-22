@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{庥} \*\[n̥\]u "tree shade" / (♪→) {休} \*\[n̥\]u "to rest"
+{庥} \*\[C̥.n\]u "tree shade" / (♪→) {休} \*\[C̥.n\]u "to rest"
 
 Depiction of a person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)) in a tree shade ([𥝌](https://panatesu.github.io/glyph-origins/radicals/115/#U%2b2574C) \> 木).
 

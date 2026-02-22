@@ -3,7 +3,7 @@ weight = 1
 radical = "1"
 +++
 
-{世} \*l̥aps "generation"
+{世} \*C̥.laps "generation"
 
 Shortened form of [枼](https://panatesu.github.io/glyph-origins/radicals/75/#U%2b67BC).
 

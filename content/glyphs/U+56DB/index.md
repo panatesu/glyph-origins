@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{呬} \*l̥ri\[j\]s "breath" or {泗} \*s.li\[j\]s "nasal mucus" ♪→ {四} \*s.li\[j\]s "four"
+{呬} \*C̥.lri\[j\]s "breath" or {泗} \*sV.li\[j\]s "nasal mucus" ♪→ {四} \*sV.li\[j\]s "four"
 
 Depiction of a nose ([自](https://panatesu.github.io/glyph-origins/radicals/132/#U%2b81EA)) with air or nasal mucus coming out of it.
 

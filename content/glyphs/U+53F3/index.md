@@ -3,7 +3,7 @@ radical = "30"
 weight = 1
 +++
 
-{右} \*wəʔ "right"
+{右} \*\[w\]əʔ "right"
 
 Initially the word {右} was written as [又](https://panatesu.github.io/glyph-origins/radicals/29/#U%2b53C8) (depiction of a right hand). Later differentiative element 口 was added.
 

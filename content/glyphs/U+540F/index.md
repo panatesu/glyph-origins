@@ -3,7 +3,7 @@ radical = "30"
 weight = 1
 +++
 
-{史} \*s-rəʔ "historian" & {吏} \*\[r\]əʔ-s "government official"
+{史} \*sV.rəʔ "historian" & {吏} \*\[r\]əs "government official"
 
 [史](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53F2) + differentiating lines. Initially it was used for both words {史} and {吏}. Later it began to be used only for {吏}.
 

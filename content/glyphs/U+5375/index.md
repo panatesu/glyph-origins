@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{卵} \*k.rˤorʔ "testicles"
+{卵} \*kV.rˤorʔ "testicles"
 
 Depiction of male genitals.
 

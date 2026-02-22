@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{兕} \*s.liʔ "*Bubalus mephistopheles* (short-horned water buffalo)"
+{兕} \*sV.liʔ "*Bubalus mephistopheles* (short-horned water buffalo)"
 
 Depiction of a water buffalo.
 

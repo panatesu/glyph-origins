@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{仰} \*C.ŋaŋʔ "to raise the head" ♪→ {卬} \*ŋˤaŋ "I, me"
+{仰} \*CV.ŋaŋʔ "to raise the head" ♪→ {卬} \*ŋˤaŋ "I, me"
 
 Depiction of a kneeling person ([卩](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5369)) whose head is being lifted up by a
 hand.
