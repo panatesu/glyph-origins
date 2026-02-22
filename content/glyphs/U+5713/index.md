@@ -11,6 +11,6 @@ weight = 1
 
 **Forms:**
 
-[圆](https://panatesu.github.io/glyph-origins/radicals/31/#U%2b5706) - Shortening following the pattern of 貝 \> 贝. Modern simplified form in China.
+[圆](https://panatesu.github.io/glyph-origins/radicals/31/#U%2b5706) - Shortening by analogy with 貝 \> 贝. Modern simplified form in China.
 
 [円](https://panatesu.github.io/glyph-origins/radicals/13/#U%2b5186) - Shortening based on the replacement of 員 with 丿. Modern simplified form in Japan.
