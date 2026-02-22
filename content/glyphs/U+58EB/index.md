@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{士} \*\[dz\]rəʔ "knight" & {王} \*waŋ "king"
+{士} \*\[dz\]rəʔ "knight" & {王} \*\[w\]aŋ "king"
 
 Depiction of a downward-facing axe blade as a symbol of power. Initially it was used for both words {王} and {士}. Later it began to be used only for {士}.
 
