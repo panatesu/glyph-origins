@@ -14,7 +14,7 @@ weight = 1
 
 {一萬} \*ʔit tV.ma\[r\]s "one myriad" → {萬} \*tV.ma\[r\]s "myriad"
 
-Initially the word {萬} was written phonetically with a glyph created for the word {蠆} \*məC̥.rˤa\[t\]s "scorpion" (depiction of a scorpion) (cf. its usage as ♪萬 \*RAT in e.g. [厲](https://panatesu.github.io/glyph-origins/radicals/27/#U%2b53B2) for {礪} \*rats "whetstone"). The glyph [一](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E00) "one" was added to represent the compound {一萬}, giving the ligature 萬. Later this ligature began to be used for the morpheme {萬} itself.
+Initially the word {萬} was written phonetically with a glyph created for the word {蠆} \*məC̥.rˤats "scorpion" (depiction of a scorpion) (cf. its usage as ♪萬 \*RAT in e.g. [厲](https://panatesu.github.io/glyph-origins/radicals/27/#U%2b53B2) for {礪} \*\[r\]ats "whetstone"). The glyph [一](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E00) "one" was added to represent the compound {一萬}, giving the ligature 萬. Later this ligature began to be used for the morpheme {萬} itself.
 
 - 張秉權 1975 - 甲骨文中所見的「數」
 
