@@ -14,7 +14,7 @@ weight = 1
 
 {戚} \*\[tsʰ\]ˤiwk "relatives"
 
-[人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) *PERSON* + ♪[𢦫](https://panatesu.github.io/glyph-origins/radicals/62/#U%2b229AB) \*TSIWK.
+[人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) *PERSON* + ♪[𢦫](https://panatesu.github.io/glyph-origins/radicals/62/#U%2b229AB) \*TSIWK (depiction of a battle axe with serrations for {鏚} \*[tsʰ]ˤiwk “battle axe”).
 
 - 林澐 1989 - 說戚、我
 - 陳劍 2007 - 說殷墟甲骨文中的“玉戚”
