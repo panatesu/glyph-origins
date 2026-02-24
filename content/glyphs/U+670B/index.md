@@ -34,7 +34,7 @@ weight = 1
 
 {朋} \*[b]ˤəŋ "*peng* (unit of shell money)"
 
-Depiction of a bundle of cowrie shells. The modern form is based on an early assumption that this character is the same as 朋¹.
+Depiction of a bundle of cowrie shells. The modern form is based on an early assumption that this glyph is the same as 朋¹.
 
 - 黃文傑 2000 - 說朋
 - 李家浩 2013 - 《說文》篆文有漢代小学家簒改和虛造的字形
