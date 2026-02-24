@@ -1,8 +1,11 @@
-{{ $sw := resources.Get "sw.js" | resources.Minify }}
-{{ $css := resources.Get "fonts.css" | resources.Minify }}
+{{ with resources.Get "sw.template.js" }}
+{{ with resources.ExecuteAsTemplate "sw.js" $ . }}
 <script>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('{{ $sw.Permalink }}');
+        navigator.serviceWorker.register('{{ .RelPermalink }}');
     }
 </script>
-<link href="{{ $css.Permalink }}" rel="stylesheet" fetchpriority="low">
+{{ end }}
+{{ end }}
+{{ $css := resources.Get "fonts.css" | resources.Minify }}
+<link href="{{ $css.RelPermalink }}" rel="stylesheet" fetchpriority="low">

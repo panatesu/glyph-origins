@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'SimSun-Ext';
-    src: local('SimSun'), local('宋体'), local('Songti SC'), local('PMingLiU');
+    src: local('SimSun'), local('SimSun-ExtB'), local('宋体'), local('Songti SC'), local('PMingLiU');
     font-weight: normal;
     font-style: normal;
     unicode-range:
@@ -95,6 +95,10 @@
         U+31350-323AF
         /* CJK Unified Ideographs Extension H */
     ;
+}
+
+div.glyph-search {
+    display: inline-block;
 }
 
 article.glyph-entry {

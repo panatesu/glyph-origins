@@ -1,0 +1,15 @@
+{{- $data := dict -}}
+{{- $url := .Site.BaseURL -}}
+{{- range where .Site.RegularPages "Section" "glyphs" -}}
+  {{- $base := path.Base .File.Dir -}}
+  {{- $rad := default "" .Params.radical -}}
+  {{- $key := $base -}}
+
+  {{- if gt (len (findRE `^U\+([0-9A-Fa-f]{4,6})$` $base)) 0 -}}
+    {{- $key = htmlUnescape (printf "&#x%s;" (substr $base 2)) -}}
+  {{- end -}}
+
+  {{- $item := dict "base" $base "radical" $rad -}}
+  {{- $data = merge $data (dict $key $item) -}}
+{{- end -}}
+{{- $data | jsonify -}}

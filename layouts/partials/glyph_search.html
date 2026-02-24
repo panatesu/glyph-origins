@@ -1,0 +1,45 @@
+<div class="glyph-search">
+    <form>
+        <input type="text" placeholder="字" required size="1" maxlength="1" disabled>
+        <button type="submit" disabled>Go</button>
+    </form>
+</div>
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const forms = document.querySelectorAll(".glyph-search");
+        let glyphData = null;
+        fetch('{{ .Site.BaseURL }}index.json')
+            .then(response => response.json())
+            .then(data => {
+                glyphData = data;
+                forms.forEach(form => {
+                    const input = form.querySelector("input");
+                    const button = form.querySelector("button");
+                    input.disabled = false;
+                    button.disabled = false;
+                    input.addEventListener("input", (e) => { input.setCustomValidity(""); });
+                });
+            })
+            .catch(err => console.error("Failed to load glyph data", err));
+
+        forms.forEach(form => {
+            const input = form.querySelector("input");
+            form.addEventListener("submit", function (e) {
+                e.preventDefault();
+                const char = input.value.trim();
+                if (!char) return;
+
+                const targetChar = char.charAt(0);
+                const { base, radical } = glyphData[targetChar] || {};
+
+                if (base) {
+                    window.location.href = `{{ .Site.BaseURL }}radicals/${radical}/#${base}`;
+                } else {
+                    input.setCustomValidity(`Glyph '${targetChar}' has not yet been described.`);
+                    input.reportValidity();
+                }
+            });
+        });
+    });
+</script>
