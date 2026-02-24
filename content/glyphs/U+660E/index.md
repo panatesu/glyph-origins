@@ -14,6 +14,6 @@ weight = 1
 
 {明} \*mraŋ "bright"
 
-[月](https://panatesu.github.io/glyph-origins/radicals/74/#U%2b6708) *MOON* + ♪[囧](https://panatesu.github.io/glyph-origins/radicals/31/#U%2b56E7) \*MRAŊ (> 目 > 日).
+[月](https://panatesu.github.io/glyph-origins/radicals/74/#U%2b6708)/[夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) *MOON* + ♪[囧](https://panatesu.github.io/glyph-origins/radicals/31/#U%2b56E7) \*MRAŊ (> 目 > 日).
 
 - 蘇建洲 2019 - 《清華大學藏戰國竹簡(捌)》字詞考釋十則
