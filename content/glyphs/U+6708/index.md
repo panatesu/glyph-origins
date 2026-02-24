@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{夕} \*sV.lak "night" & {月} \*ŋʷat "moon"
+{夕} \*sə.lak "night" & {月} \*ŋʷat "moon"
 
 [夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) + differentiative dot. Initially [夕](https://panatesu.github.io/glyph-origins/radicals/36/#U%2b5915) was used for both words {月} and {夕}. Later 月 appeared and began to be used for {夕}. Later it began to be used for {月}.
 
