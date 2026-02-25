@@ -14,7 +14,7 @@ weight = 1
 
 {掩} \*\[q\]ramʔ "to make a surprise attack"　♪→ {敢} \*\[k\]ˤamʔ "to dare"
 
-Depiction of a pig ([豕](https://panatesu.github.io/glyph-origins/radicals/152/#U%2b8C55)) being cathed by a net ([𰅱](https://panatesu.github.io/glyph-origins/radicals/24/#U%2b30171)) in a hand ([又](https://panatesu.github.io/glyph-origins/radicals/29/#U%2b53C8)).
+Depiction of a pig ([豕](https://panatesu.github.io/glyph-origins/radicals/152/#U%2b8C55)) being catched by a net ([𰅱](https://panatesu.github.io/glyph-origins/radicals/24/#U%2b30171)) in a hand ([又](https://panatesu.github.io/glyph-origins/radicals/29/#U%2b53C8)).
 
 - 丁驌 1985 - 讀契記
 - 陳絜 2006 - 說“敢”
