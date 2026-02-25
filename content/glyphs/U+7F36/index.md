@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{缶} \*p(r)uʔ "earthen pot for storing alcohol"
+{缶} \*p(r)uʔ "*fou* vessel"
 
 ♪[午](https://panatesu.github.io/glyph-origins/radicals/24/#U%2b5348)² \*PU (depiction of a drumstick for {枹/桴} \*\[b\](r)u "drumstick") + differentiative 口.
 
