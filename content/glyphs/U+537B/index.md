@@ -14,7 +14,7 @@ weight = 1
 
 ?{卻} \*\[k\]ʰak "to retreat"
 
-[卩](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5369) *KNEEL* + ♪[𧮫](https://panatesu.github.io/glyph-origins/radicals/150/#U%2b27BAB) \*KAK (depiction of intertwined threads + differentiative element 口 for {綌} \*\[k\]ʰrak "coarse hemp cloth").
+[卩](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5369) *KNEEL* + ♪[𧮫](https://panatesu.github.io/glyph-origins/radicals/150/#U%2b27BAB) \*KAK (depiction of intertwined threads + differentiative 口 for {綌} \*\[k\]ʰrak "coarse hemp cloth").
 
 - 林澐 1990 - 新版《金文編》正文部分釋字商榷
 - 程燕 2018 - “𧮫”字探源——兼釋“𧮫”之相關字

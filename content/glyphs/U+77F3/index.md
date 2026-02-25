@@ -14,6 +14,6 @@ weight = 1
 
 {石} \*dak "stone"
 
-Initially the word {石} was written as [厂](https://panatesu.github.io/glyph-origins/radicals/27/#U%2b5382)² (depiction of a stone chime). Later differentiative element 口 was added.
+Initially the word {石} was written as [厂](https://panatesu.github.io/glyph-origins/radicals/27/#U%2b5382)² (depiction of a stone chime). Later differentiative 口 was added.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (727)

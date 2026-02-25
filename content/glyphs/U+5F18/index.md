@@ -14,6 +14,6 @@ weight = 1
 
 {弘} \*\[w\]ˤəŋ "grand"
 
-♪[弓](https://panatesu.github.io/glyph-origins/radicals/57/#U%2b5F13) \*\[W\]ƏŊ + differentiative element 口.
+♪[弓](https://panatesu.github.io/glyph-origins/radicals/57/#U%2b5F13) \*\[W\]ƏŊ + differentiative 口.
 
 - 裘錫圭 1982 - 甲骨文字考釋(續)・釋“弘”“強”

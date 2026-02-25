@@ -14,6 +14,6 @@ weight = 1
 
 {咸} \*\[ɡ\]ˤr\[ə\]mʔ "to kill" ♪→ {咸} \*\[ɡ\]ˤr\[ə\]m "all"
 
-[戌](https://panatesu.github.io/glyph-origins/radicals/62/#U%2b620C) *BATTLE AXE* + differentiative element 口.
+[戌](https://panatesu.github.io/glyph-origins/radicals/62/#U%2b620C) *BATTLE AXE* + differentiative 口.
 
 - 林志強 & al. (ed.) 2017 - 《文源》評注 (421)
