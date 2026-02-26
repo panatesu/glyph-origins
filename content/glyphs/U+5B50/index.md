@@ -14,7 +14,7 @@ Depiction of a child with one hand pointing up and one down. Got mixed with 子�
 
 #### 子²
 
-{巳} \*\[sə.l\]əʔ "*si* (6th earthly branch)"
+?{胎} \*C̥.lˤə "fetus" ♪→ {巳} \*\[sə.l\]əʔ "*si* (6th earthly branch)"
 
 Differentiated form of 子 \*TSƏ with both hands pointing up. Got mixed with 子¹ very early.
 
