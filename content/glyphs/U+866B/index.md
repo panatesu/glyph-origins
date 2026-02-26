@@ -5,7 +5,7 @@ weight = 1
 
 #### 虫¹
 
-{虺} \*\[r̥\]u\[j\]ʔ "small snake"
+{虺} \*\[C̥.r\]u\[j\]ʔ "small snake"
 
 Depiction of a small snake.
 
