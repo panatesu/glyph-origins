@@ -3,7 +3,7 @@ radical = "116"
 weight = 1
 +++
 
-{空} \*kʰˤoŋ "hollow"
+{空} \*kʰˤoŋʔ "cave"
 
 [穴](https://panatesu.github.io/glyph-origins/radicals/116/#U%2b7A74) *HOLE* + ♪[工](https://panatesu.github.io/glyph-origins/radicals/48/#U%2b5DE5) \*KOŊ.
 
