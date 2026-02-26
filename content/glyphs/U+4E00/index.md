@@ -12,7 +12,7 @@ radical = "1"
 
 </div>
 
-{一} \*ʔit "one"
+{一} \*ʔi\[t\] "one"
 
 Depiction of a single line.
 

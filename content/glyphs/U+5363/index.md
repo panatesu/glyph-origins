@@ -12,8 +12,8 @@ weight = 1
 
 </div>
 
-{卣} \*lu(ʔ) "*you* vessel"
+{卣} \*lu(ʔ) "*you* vessel" & {瓜} \*kʷˤra "gourd"
 
-[瓜](https://panatesu.github.io/glyph-origins/radicals/97/#U%2b74DC) + differentiative dot. Initially [瓜](https://panatesu.github.io/glyph-origins/radicals/97/#U%2b74DC) was used for both words {瓜} \*kʷˤra “gourd” and {卣}.
+[瓜](https://panatesu.github.io/glyph-origins/radicals/97/#U%2b74DC) + differentiative dot. Initially it was used for both words {卣} and {瓜}. Later it began to be used only for {卣}.
 
 - 陳劍 2020 - 釋“瓜”
