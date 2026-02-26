@@ -14,6 +14,6 @@ weight = 1
 
 {曰} \*\[w\]at “to say”
 
-Depiction of a mouth ([口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3)) with a dot/line over it, representing the sound coming from it.
+Depiction of a mouth ([口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3)) with a line over it, representing the sound coming from it.
 
 - 季旭昇 2014 - 說文新證 [2nd ed.] (386-387)
