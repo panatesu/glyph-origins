@@ -12,8 +12,8 @@ weight = 1
 
 </div>
 
-{犬} \*\[k\]ʷʰˤ\[e\]\[n\]ʔ "dog"
+{犬} \*\[k\]ʷʰˤ\[e\]\[n\]ʔ "dog" & {狺} \*ŋ(r)ə\[n\] "bark"
 
-Depiction of a dog.
+Depiction of a dog. Initially it was used for both words {犬} and {狺}. Later it began to be used only for {犬}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (750)

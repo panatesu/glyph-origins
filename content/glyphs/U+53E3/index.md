@@ -12,8 +12,8 @@ weight = 1
 
 </div>
 
-{口} \*kʰˤ(r)oʔ "mouth"
+{口} \*kʰˤ(r)oʔ "mouth" & {曰} \*\[w\]at "to say"
 
-Depiction of a mouth.
+Depiction of a mouth. Initially it was used for both words {口} and {曰}. Later it began to be used only for {口}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (96)
