@@ -14,6 +14,6 @@ weight = 1
 
 {羋} \*meʔ "baa *(the bleating of a sheep)*"
 
-Sheep ([羊](https://panatesu.github.io/glyph-origins/radicals/123/#U%2b7F8A)) with a dot/line over it, representing the sound coming from it.
+Depiction of a sheep ([羊](https://panatesu.github.io/glyph-origins/radicals/123/#U%2b7F8A)) with a dot/line over it, representing the sound coming from it.
 
 - 李學勤 (ed.) 2012 - 字源 (317)

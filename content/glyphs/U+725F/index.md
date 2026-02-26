@@ -14,6 +14,6 @@ weight = 1
 
 {牟} \*mu "moo"
 
-Cow ([牛](https://panatesu.github.io/glyph-origins/radicals/93/#U%2b725B)) with a dot/line over it, representing the sound coming from it.
+Depiction of a cow ([牛](https://panatesu.github.io/glyph-origins/radicals/93/#U%2b725B)) with a dot/line over it, representing the sound coming from it.
 
 - 黃德寬 (ed.) 2007 - 古文字譜系疏證 (735)
