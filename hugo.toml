@@ -77,7 +77,7 @@ block = true
 [[menu.main]]
 name = 'Kangxi Radicals'
 url = '/#kangxi-radicals'
-weight = 4
+weight = 10
 
 [caches]
 [caches.images]

@@ -1,7 +1,7 @@
 +++
 title = "Reconstruction(s) used"
 menu = "main"
-weight = 3
+weight = 2
 +++
 
 The system presented here is a compromise between several reconstructions. The main one being:

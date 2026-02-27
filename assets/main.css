@@ -97,6 +97,11 @@
     ;
 }
 
+figure img {
+    display: block;
+    margin: 0 auto;
+}
+
 div.glyph-search {
     display: inline-block;
 }
