@@ -27,8 +27,8 @@ Huge thanks to [LangCat](https://langcat.substack.com/p/how-to-expose-false-etym
 The history of Chinese script is typically divided into two periods: early writing and modern writing. You can see it in the picture below.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image.png"
+  src="img/image.png"
+  link="img/image.png"
 >}}
 
 The study of early Chinese writing, without which any talk of correct etymology is unthinkable, is dedicated to the study of the characters of the ancient period.
@@ -55,8 +55,8 @@ The study of ancient Chinese characters is divided into four main areas:
 Before the Qin’s wars of unification in the late 3rd century BC there were many very diverse regional variants of different characters that were developed in separate kingdoms (more on that in a bit).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbceeadc-3217-4ed9-a0f1-f2d966ed69b4_807x617.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbceeadc-3217-4ed9-a0f1-f2d966ed69b4_807x617.jpeg"
+  src="img/fbceeadc-3217-4ed9-a0f1-f2d966ed69b4_807x617.jpg"
+  link="img/fbceeadc-3217-4ed9-a0f1-f2d966ed69b4_807x617.jpg"
 >}}
 
 After unification, all characters began to be written only as they were written in the Qin kingdom. At the same time, book burning (mostly of Confucian books) was carried out, which destroyed a vast amount of pre-Qin-era literature.
@@ -70,8 +70,8 @@ It turned out that those canonical books were different from those transmitted o
 Xu Shen (許慎) didn’t like that when interpreting the canon people tended to use contemporary (to them) construction of characters and definitions of words so at the start of the 2nd century he wrote the ‘Shuowen Jiezi’ (說文解字). Unfortunately, we don’t have the original dictionary, but it was transmitted through handwritten copies for centuries.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-3.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-3.png"
+  src="img/image-3.png"
+  link="img/image-3.png"
 >}}
 
 It contains more than 10,000 characters, each of which has a Qin dynasty seal form that is used to explain the construction, origin and meaning of the character. It also presents some ‘ancient script’ (古文) forms, based on the forms of the Warring States period, as well as ‘Zhou script’ (籀文) forms, based on the transmitted forms of the ‘Shizhoupian’ (史籀篇) dictionary from the Western Zhou era.
@@ -87,15 +87,15 @@ At the end of the 3rd century a new source for ancient characters was discovered
 By the end of the 10th century Guo Zhongshu (郭忠恕) compiled all the Warring States characters that were known at the time and released the dictionary ‘Hanjian’ (汗簡).
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-4.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-4.png"
+  src="img/image-4.png"
+  link="img/image-4.png"
 >}}
 
 In the 11th century Xia Song (夏竦) compiled even more characters and released them in the dictionary ‘Guwen Si Shengyun’ (古文四聲韻).
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-5.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-5.png"
+  src="img/image-5.png"
+  link="img/image-5.png"
 >}}
 
 After that, the study of the Warring States scripts came to a long standstill, during which all of the original texts were lost, complete with the contents, editorial work, etc. Today we don’t have any of the material the scholars of the time had. Since the characters of other kingdoms were not directly related to the Qin seal forms, nobody was particularly interested in them.
@@ -105,15 +105,15 @@ After that, the study of the Warring States scripts came to a long standstill, d
 During the Song dynasty the study of the texts written on bronze vessels and stones became very fashionable. Many specialized books and dictionaries on the topic were written at the time, for example the ‘Kaogutu’ (考古圖) by Lu Dalin (呂大臨).
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-6.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-6.png"
+  src="img/image-6.png"
+  link="img/image-6.png"
 >}}
 
 During Yuan and Ming this kind of research stopped, but was revived during the Qing as an additional tool for the exegesis of the canonical texts. Dictionaries get released that contain characters from all sorts of seals, coins, ceramics, etc. Many of them are supposed to be additions to the Shuowen Jiezi, for example the ‘Shuowen Guzhou Bu’ (說文古籀補) written by Wu Dacheng, that includes many auxiliary forms from bronze inscriptions.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25890613-d7b5-42fa-91fe-0f94347ddcba_807x630.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F25890613-d7b5-42fa-91fe-0f94347ddcba_807x630.jpeg"
+  src="img/25890613-d7b5-42fa-91fe-0f94347ddcba_807x630.jpg"
+  link="img/25890613-d7b5-42fa-91fe-0f94347ddcba_807x630.jpg"
 >}}
 
 ### The Discovery of Oracle Bone Script and the Contemporary State of Affairs
@@ -121,8 +121,8 @@ During Yuan and Ming this kind of research stopped, but was revived during the Q
 At the end of the 19th century the inscriptions on turtle shells and bones from the time of the Shang dynasty were discovered. In 1903 Lui E (劉鶚) released the compilation ‘Tieyun Canggui’ (鐵雲藏龜) which widely popularized the find.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5c5e528-172d-4633-96c6-f507d9732c28_318x476.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe5c5e528-172d-4633-96c6-f507d9732c28_318x476.jpeg"
+  src="img/e5c5e528-172d-4633-96c6-f507d9732c28_318x476.jpg"
+  link="img/e5c5e528-172d-4633-96c6-f507d9732c28_318x476.jpg"
 >}}
 
 These texts were studied by such famous scholars as Luo Zhenyu (羅振玉), Wang Guowei (王國維), Guo Moruo (郭沫若) and many others.
@@ -142,8 +142,8 @@ A Chinese character is a symbol that records a Chinese word in a way accessible 
 Often, people say that a Chinese character has pronunciation, meaning and form. In reality, they have ***only form***, while sound and meaning are something inherent to the words that they record.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3fb4cfa-3cbb-439e-91a3-41522a92d868_692x410.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3fb4cfa-3cbb-439e-91a3-41522a92d868_692x410.png"
+  src="img/c3fb4cfa-3cbb-439e-91a3-41522a92d868_692x410.png"
+  link="img/c3fb4cfa-3cbb-439e-91a3-41522a92d868_692x410.png"
 >}}
 
 Now, let’s break down how Chinese characters make it possible to visualise words (Here we will talk about how exactly they record words, not about the origin of the characters).
@@ -159,8 +159,8 @@ In reality, Chinese characters are way more diverse than these six categories im
 A character is considered a semantogram when it visualises only the meaning of the word it transcribes, ignoring its pronunciation.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6eaa6ed3-d221-494d-86c2-5740f52fc79f_692x410.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6eaa6ed3-d221-494d-86c2-5740f52fc79f_692x410.png"
+  src="img/6eaa6ed3-d221-494d-86c2-5740f52fc79f_692x410.png"
+  link="img/6eaa6ed3-d221-494d-86c2-5740f52fc79f_692x410.png"
 >}}
 
 When a character directly depicts the object denoted by the word the character represents, then it is a pictogram (not the same thing as the ‘pictograms’ from the ‘six categories’). For example, because the word {⁠人⁠} means ‘person’ it is written using a picture of a human. (Curly brackets are used to denote the word itself. For example, ‘{⁠人⁠}’ means ‘the word pronounced rén that means ‘person’, which today is usually written down as 人’).
@@ -168,22 +168,22 @@ When a character directly depicts the object denoted by the word the character r
 There are quite many pictograms. They usually depict people, body parts, plants, celestial bodies, natural phenomena, animals, buildings, tools, features of landscape, etc. It is one of the oldest types of characters, and almost no new ones have been created since Western Zhou.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-7.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-7.png"
+  src="img/image-7.png"
+  link="img/image-7.png"
 >}}
 
 There are also abstract pictograms, this is when a character depicts some abstract concept. They also tend to belong to the oldest stratum of the system, but some have been coined at every stage of its evolution (cf. for example the comparatively late 凸 ‘convex’ or 丫 ‘bifurcation’).
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-8.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-8.png"
+  src="img/image-8.png"
+  link="img/image-8.png"
 >}}
 
 Emphasizing pictograms, well, emphasize something to denote a different meaning. This category mostly contains body parts and actions connected with them. They are very old too, and pretty much no new ones have been coined since the times of early writing.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2023/04/image.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2023/04/image.png"
+  src="img/image.png"
+  link="img/image.png"
 >}}
 
 The types that we’ve described so far contain characters that are considered basic. This means that they cannot be broken down into smaller parts. But there are also complex characters.
@@ -191,29 +191,29 @@ The types that we’ve described so far contain characters that are considered b
 For example the word {⁠獲⁠} ‘to catch (prey)’ is written with the character made up of the bird (隹) and the hand (又).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c9ecf90-bffa-4e33-b51b-181053ea623e_332x380.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6c9ecf90-bffa-4e33-b51b-181053ea623e_332x380.jpeg"
+  src="img/6c9ecf90-bffa-4e33-b51b-181053ea623e_332x380.jpg"
+  link="img/6c9ecf90-bffa-4e33-b51b-181053ea623e_332x380.jpg"
 >}}
 
 But it still cannot be broken down into two elements because it depicts the act of catching a bird with a hand. The hand is depicted as an instrument with which the bird is being caught, you can’t just describe it as ‘bird + hand’, because it is composed of graphical elements, rather than semantic ones (more on that later). This is why it can be called a complex pictogram. There are pretty much no new coinings since the end of the early writing period, except for a few (閂 ‘latch’ or 灭 ‘to extinguish’).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8cf35759-115b-4b50-b6ea-b67de8e417e2_807x335.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8cf35759-115b-4b50-b6ea-b67de8e417e2_807x335.png"
+  src="img/8cf35759-115b-4b50-b6ea-b67de8e417e2_807x335.jpg"
+  link="img/8cf35759-115b-4b50-b6ea-b67de8e417e2_807x335.jpg"
 >}}
 
 From pictograms we move on to a different type of semantograms. Indicators contain highlighting elements like circles, dots or lines that point to some specific part denoting what the character means. These are also pretty old.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2023/12/image.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2023/12/image.png"
+  src="img/image.png"
+  link="img/image.png"
 >}}
 
 Finally we move on to compound semantograms. These contain two or more semantic elements (two or more semantics) that mean something by themselves, with the compound characters combining their meanings. These are quite rare in early writing but become more and more frequent later on (especially in Japan and Korea).
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-9.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-9.png"
+  src="img/image-9.png"
+  link="img/image-9.png"
 >}}
 
 Of course, there are some characters that occupy an unclear niche. They can either be complex pictograms or compound semantograms. This problem won’t be discussed here.
@@ -223,8 +223,8 @@ Of course, there are some characters that occupy an unclear niche. They can eith
 Say, we have the word {⁠錡⁠} that means ‘spiked axe’ and is written with the corresponding pictogram. We also have the word {⁠我⁠} that means ‘I’ but for which it’s a bit difficult to come up with any specific character. Since the words {⁠錡⁠} and {⁠我⁠} sound similar we can simply take the character from {⁠錡⁠} and use it to phonetically write {⁠我⁠}. (An important thing to note is that we’re talking about the ancient readings of these words. Today, they’re really quite different. We won’t discuss the reconstruction of Old Chinese in this article however).
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-10.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-10.png"
+  src="img/image-10.png"
+  link="img/image-10.png"
 >}}
 
 One of the reasons for the emergence of this practice is plain difficulty in visualizing certain words, for example the ones denoting abstract concepts. Perhaps another reason is the fact that some people can mistakenly connect two etymologically unrelated words based on their pronunciation. In contemporary context, an example could be the superstitions based on the similar pronunciation of {⁠四⁠} ‘four’ and {⁠死⁠} ‘death’.
@@ -236,8 +236,8 @@ Phonograms are compound characters that contain a phonetic element (a phonetic).
 For example, you could write the word {⁠道⁠} ‘road’ using the characters composed of the semantic 行 ‘road’ and the phonetics 首 or 舀. The characters 首 and 舀 transcribe the words {⁠首⁠} ‘head’ and {⁠搯⁠} ‘to pull out’. This means that their definitions have nothing to do with the word {⁠道⁠} ‘road’ (unlike the semantic 行) but their pronunciation is similar.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F191c8e77-2a0b-4091-86c7-3181e6b6fd9e_766x342.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F191c8e77-2a0b-4091-86c7-3181e6b6fd9e_766x342.png"
+  src="img/191c8e77-2a0b-4091-86c7-3181e6b6fd9e_766x342.jpg"
+  link="img/191c8e77-2a0b-4091-86c7-3181e6b6fd9e_766x342.jpg"
 >}}
 
 Phonograms are a very convenient way of coining new characters from the semantograms and rebuses you already have. When they appeared the amount of Chinese characters simply exploded. Almost all characters currently in use (more than 90% of them) belong to this category.
@@ -245,29 +245,29 @@ Phonograms are a very convenient way of coining new characters from the semantog
 Many words have synonyms with similar meanings that are nevertheless minutely different. For example there are a bunch of words that mean ‘road’: {⁠行⁠}, {⁠道⁠}, {⁠路⁠}, {⁠途⁠}, {⁠徑⁠}, etc. Transcribing them only using semantograms might be a bit of a bother. On the other hand, the readers might have trouble understanding which of these words was being meant if they’re all transcribed using one character.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07628d93-771c-4a4d-a52a-12ecf72ec12f_499x158.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F07628d93-771c-4a4d-a52a-12ecf72ec12f_499x158.jpeg"
+  src="img/07628d93-771c-4a4d-a52a-12ecf72ec12f_499x158.jpg"
+  link="img/07628d93-771c-4a4d-a52a-12ecf72ec12f_499x158.jpg"
 >}}
 
 Phonograms solve this problem, letting us easily transcribe all of these words by adding a phonetic element to the semantic one.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2023/05/image.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2023/05/image.png"
+  src="img/image.png"
+  link="img/image.png"
 >}}
 
 An additional phonetic is often added to a semantogram to make the pronunciation clearer. For example, the word {⁠鷄⁠} ‘rooster’ started out simply as a picture of a rooster. Later on it acquired the phonetic 奚 that sounded like the word {⁠鷄⁠}. Even later, the picture of a rooster was replaced with a generic bird 鳥 because the phonetic made it redundant.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26362e8a-a4a1-4574-a65b-904c7e4ca2a5_506x134.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F26362e8a-a4a1-4574-a65b-904c7e4ca2a5_506x134.jpeg"
+  src="img/26362e8a-a4a1-4574-a65b-904c7e4ca2a5_506x134.jpg"
+  link="img/26362e8a-a4a1-4574-a65b-904c7e4ca2a5_506x134.jpg"
 >}}
 
 A phonetic can be appended to any type of character.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4ad4056-1a53-4355-a29c-88ce4b2c076a_807x417.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4ad4056-1a53-4355-a29c-88ce4b2c076a_807x417.png"
+  src="img/e4ad4056-1a53-4355-a29c-88ce4b2c076a_807x417.jpg"
+  link="img/e4ad4056-1a53-4355-a29c-88ce4b2c076a_807x417.jpg"
 >}}
 
 With sound loans, a single character can convey a variety of similar-sounding words; for example, the character for {⁠錡⁠} ‘spiked axe’ can mean {⁠我⁠} ‘I’, {⁠義⁠} ‘morality’, {⁠儀⁠} ‘etiquette’, {⁠宜⁠} ‘should’, etc. Which particular word is written using the character must be determined by the context. This can easily lead to a problem where it is not clear exactly what meaning of what word is used, because due to semantic shifts and extensions, the same word can have a huge range of very different meanings.
@@ -277,36 +277,36 @@ Phonograms help us deal with this problem. By adding different semantics to a si
 For the same reason, there are composite characters where a semantic has been appended to an already existing character. The characters for the word {⁠道⁠} ‘road’ have already been shown above, but they also contain the additional element 止 ‘foot’.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F512699dc-e680-44a7-9353-17185115c0eb_272x317.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F512699dc-e680-44a7-9353-17185115c0eb_272x317.png"
+  src="img/512699dc-e680-44a7-9353-17185115c0eb_272x317.jpg"
+  link="img/512699dc-e680-44a7-9353-17185115c0eb_272x317.jpg"
 >}}
 
 Actually, the semantics 行 (referring to the road) and 止 (referring to movement) were used together very frequently. This is why they ended up becoming the element 辵(辶) in the modern system.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a3469db-92a9-4946-98af-9a26026b2fb7_650x386.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9a3469db-92a9-4946-98af-9a26026b2fb7_650x386.png"
+  src="img/9a3469db-92a9-4946-98af-9a26026b2fb7_650x386.jpg"
+  link="img/9a3469db-92a9-4946-98af-9a26026b2fb7_650x386.jpg"
 >}}
 
 To write the word {⁠來⁠} ‘to come’ a depiction of ears of wheat was used because the words {⁠來⁠} ‘to come’ and {⁠麥⁠} ’wheat’ sounded similar. To specify the meaning ‘to come’ a semantic 夊 (‘foot’, 止 flipped upside down) could be used. At first, these characters were used interchangeably but later split in their usage. 來 remained the usual way to write {⁠來⁠} ‘to come’, while the character with the additional 夊 started being used to write the word {⁠麥⁠} ‘wheat’. Differentiation happened.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3f98b14-7502-49aa-b985-428ee902ccc4_778x372.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3f98b14-7502-49aa-b985-428ee902ccc4_778x372.png"
+  src="img/b3f98b14-7502-49aa-b985-428ee902ccc4_778x372.jpg"
+  link="img/b3f98b14-7502-49aa-b985-428ee902ccc4_778x372.jpg"
 >}}
 
 There exists another type of differentiation, when a semantic is added to the character to delineate a borrowed or extended meaning of the character. For example the word {⁠暮⁠} ‘dawn’ was written down as 莫, i.e. an image of sun between grass. Later on the glyph 莫 was borrowed to write the word {莫⁠} ‘no’. The semantic 日 ‘sun’ was added to specify the original meaning.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5664ccc0-11f0-44cc-9002-4182060f8855_807x312.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5664ccc0-11f0-44cc-9002-4182060f8855_807x312.png"
+  src="img/5664ccc0-11f0-44cc-9002-4182060f8855_807x312.jpg"
+  link="img/5664ccc0-11f0-44cc-9002-4182060f8855_807x312.jpg"
 >}}
 
 There are especially many characters that had a semantic added to denote a borrowed or extended definition. Almost all characters created after block script became widely used belong to this type.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8d13127-7a78-4230-bfd5-e6e962738752_807x322.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd8d13127-7a78-4230-bfd5-e6e962738752_807x322.png"
+  src="img/d8d13127-7a78-4230-bfd5-e6e962738752_807x322.jpg"
+  link="img/d8d13127-7a78-4230-bfd5-e6e962738752_807x322.jpg"
 >}}
 
 This is how phonograms can be formed not just by combining a semantic and a phonetic, but also by appending a semantic or a phonetic to a full-fledged character.
@@ -320,15 +320,15 @@ Ornamental (decorative) elements (including strokes) are the elements of a chara
 Often the ornamental strokes/dots are added either above the character (if it has a horizontal stroke at the top), around vertical characters (kinda like 八), go across straight strokes or fill up empty spaces. Characters with ornamental strokes can be found to this day, for example in some regions they can write 人 ‘person’ or 文 ‘pattern’ with the three strokes 彡 going across the right ‘leg’.<a href="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aef089f-3fb9-4651-9e06-fe30e59093ae_807x288.png" rel="noreferrer noopener" target="_blank"></a>
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aef089f-3fb9-4651-9e06-fe30e59093ae_807x288.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2aef089f-3fb9-4651-9e06-fe30e59093ae_807x288.png"
+  src="img/2aef089f-3fb9-4651-9e06-fe30e59093ae_807x288.jpg"
+  link="img/2aef089f-3fb9-4651-9e06-fe30e59093ae_807x288.jpg"
 >}}
 
 The most common ornamental element is 口, which should not be confused with the semantic 口 ‘mouth’. The decorative 口 is usually placed below or inside the character (in the latter case there can be several of them). Aside from 口 there are also elements like 寸 or 工.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9c29aac-93bc-4482-96e7-85ab9ecacab8_686x349.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9c29aac-93bc-4482-96e7-85ab9ecacab8_686x349.png"
+  src="img/a9c29aac-93bc-4482-96e7-85ab9ecacab8_686x349.jpg"
+  link="img/a9c29aac-93bc-4482-96e7-85ab9ecacab8_686x349.jpg"
 >}}
 
 The characters that contain ornamental elements aren’t classified any differently from the characters that don’t contain them.
@@ -340,22 +340,22 @@ Differentiated forms can emerge not only from added semantics or phonetics, but 
 The former case is pretty simple. The character with the ornamental element denotes the pronunciation of the original word but records a different one. These characters should be considered phonograms.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-11.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-11.png"
+  src="img/image-11.png"
+  link="img/image-11.png"
 >}}
 
 The earliest stages of writing had some characters that were probably ideographs (that is, that recorded several distinct but semantically similar words). This principle was used in some very early characters which used the ornamental elements to indicate that the character denotes a different, semantically related word. These should be considered semantograms.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-12.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2022/11/image-12.png"
+  src="img/image-12.png"
+  link="img/image-12.png"
 >}}
 
 Another important kind of differentiation is the corruption of the character’s graphical form or its simplification. Usually this happens to extremely frequent (particularly grammatical) words. It is based only on the sound similarity of words. Characters like this can be considered both a special class of semantograms and a special class of rebus characters. They can be found at every stage of Chinese writing, including contemporary (see 刁 ‘deceitful’ from 刀 ‘knife’, 乒乓 ‘table tennis’ from 兵 ‘soldier’, 茶 ‘tea’ from 荼 ‘bitter’, 着 ‘to wear’ from 著 ‘book’ from 箸 ‘chopsticks’, etc).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F29f26e6c-ad91-4b65-a35d-50224779f8cf_807x408.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F29f26e6c-ad91-4b65-a35d-50224779f8cf_807x408.png"
+  src="img/29f26e6c-ad91-4b65-a35d-50224779f8cf_807x408.jpg"
+  link="img/29f26e6c-ad91-4b65-a35d-50224779f8cf_807x408.jpg"
 >}}
 
 All of these types of differentiation are well known to scholars and are extraordinarily important.
@@ -365,8 +365,8 @@ All of these types of differentiation are well known to scholars and are extraor
 Early writing frequently utilized ligratures (This is when two or more characters are combined into one). They are supposed to be read as several words, usually numbers, quantities of items, names, toponyms, etc. You can find them even in the earliest texts and starting with the Spring and Autumn period they are usually marked with =. Ever since Western Zhou, that mark has been used to denote the repetition of a character. Modern characters like 浬 ‘nautical mile’ (\< 海里) are also ligatures.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65241c62-d4ff-4ae1-bf51-372272fc44a4_741x362.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F65241c62-d4ff-4ae1-bf51-372272fc44a4_741x362.png"
+  src="img/65241c62-d4ff-4ae1-bf51-372272fc44a4_741x362.jpg"
+  link="img/65241c62-d4ff-4ae1-bf51-372272fc44a4_741x362.jpg"
 >}}
 
 ### Rare Categories of Characters
@@ -386,8 +386,8 @@ Some characters are stylized borrowings from other writing systems. For example 
 Japan has been using characters that contain elements taken from the Japanese syllabaries for quite a long time now. These can either be entirely composed of kana or use them as phonetics. Similarly, you can find characters containing symbols from the Korean writing systems (either Hangul or Gugyeol) as additional elements. In recent centuries characters containing Latin letters have emerged in various regions. There are examples from even more writing systems but they will be covered in a different article.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F328255d4-63a1-41f6-a5b3-a08c93a499b7_681x671.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F328255d4-63a1-41f6-a5b3-a08c93a499b7_681x671.jpeg"
+  src="img/328255d4-63a1-41f6-a5b3-a08c93a499b7_681x671.jpg"
+  link="img/328255d4-63a1-41f6-a5b3-a08c93a499b7_681x671.jpg"
 >}}
 
 ### Allographs
@@ -433,8 +433,8 @@ Due to a lack of materials regarding proto-writing it’s not possible to recons
 However, we have quite many Neolithic finds that are possibly somehow connected with Chinese writing.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36a49ee6-d9c6-44ae-b72f-b0ff23f4ccae_807x480.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F36a49ee6-d9c6-44ae-b72f-b0ff23f4ccae_807x480.jpeg"
+  src="img/36a49ee6-d9c6-44ae-b72f-b0ff23f4ccae_807x480.jpg"
+  link="img/36a49ee6-d9c6-44ae-b72f-b0ff23f4ccae_807x480.jpg"
 >}}
 
 The precise relationship between these symbols and Chinese is unknown, so we won’t discuss it here. It’s not even clear if they’re proto-writing, they could be something akin to the modern huaya (花押) monographic signatures.
@@ -450,8 +450,8 @@ The main writing surfaces at the time were bamboo slips, but all of them were de
 Most of the texts from that period that we have access to are inscriptions on plastrons and bones. Even though these weren’t the main materials at the time and were only used for very specialised purposes (usually divination) they give us a good idea of what writing during that era was like.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff308fbf-cbe9-4fd9-bb7a-7925e6796760_751x633.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fff308fbf-cbe9-4fd9-bb7a-7925e6796760_751x633.jpeg"
+  src="img/ff308fbf-cbe9-4fd9-bb7a-7925e6796760_751x633.jpg"
+  link="img/ff308fbf-cbe9-4fd9-bb7a-7925e6796760_751x633.jpg"
 >}}
 
 The divinatory records are typically divided into ‘royal’ and ‘non-royal’. The royal inscriptions are further divided into northern and southern.
@@ -483,8 +483,8 @@ The primary non-royal groups are:
 Something to note is that each of these groups have many subgroups and these subgroups in turn have subcategories of their own. I won’t be listing them because there’s still no complete consensus and they aren’t compiled anywhere yet. Below is a periodisation of the groups and the main subgroups based on rulers. The northern branch is in blue, the southern branch is in orange and the green is non-royal inscriptions.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecc67a06-5a15-4906-9437-f8926526f8e2_807x380.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fecc67a06-5a15-4906-9437-f8926526f8e2_807x380.png"
+  src="img/ecc67a06-5a15-4906-9437-f8926526f8e2_807x380.jpg"
+  link="img/ecc67a06-5a15-4906-9437-f8926526f8e2_807x380.jpg"
 >}}
 
 The division is based on the contents of the inscriptions, the use of specific characters, style, etc. I won’t muse on that here.
@@ -497,8 +497,8 @@ Bronze artefacts rank second in terms of quantity of inscriptions. They can be g
 - Di Yi ~ Di Xin
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F031e887e-d412-4df0-b7a3-3b6dce578670_563x601.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F031e887e-d412-4df0-b7a3-3b6dce578670_563x601.jpeg"
+  src="img/031e887e-d412-4df0-b7a3-3b6dce578670_563x601.jpg"
+  link="img/031e887e-d412-4df0-b7a3-3b6dce578670_563x601.jpg"
 >}}
 
 Among the bronzes of the first period are around 20 texts that are older than the first oracle bone records we have. Usually they just have clan emblems on them.
@@ -508,8 +508,8 @@ The second period sees the character 亞 get added to the clan names. There are 
 During the third period the names of clans started being written inside of the 亞 (it became a simple frame). First sentences started to appear.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c8934d8-a4e0-4eb8-b029-5e75f67c1aa8_281x231.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5c8934d8-a4e0-4eb8-b029-5e75f67c1aa8_281x231.jpeg"
+  src="img/5c8934d8-a4e0-4eb8-b029-5e75f67c1aa8_281x231.jpg"
+  link="img/5c8934d8-a4e0-4eb8-b029-5e75f67c1aa8_281x231.jpg"
 >}}
 
 Artefacts from the fourth period contain long texts up to 40 characters on all kinds of topics: the creation of the item, royal provenance, etc.
@@ -517,15 +517,15 @@ Artefacts from the fourth period contain long texts up to 40 characters on all k
 Aside from these two writing surfaces there are also some rarer ones, like writing on clay pots (sometimes even with a brush) as well as inscriptions on gemstones. According to some, even some seals have been discovered.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbffaa42e-62f5-4746-bc2b-bc1ecdfa8d44_759x807.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbffaa42e-62f5-4746-bc2b-bc1ecdfa8d44_759x807.jpeg"
+  src="img/bffaa42e-62f5-4746-bc2b-bc1ecdfa8d44_759x807.jpg"
+  link="img/bffaa42e-62f5-4746-bc2b-bc1ecdfa8d44_759x807.jpg"
 >}}
 
 Something to keep in mind is that the characters inscribed on bones and turtle shells are simplified compared to the ‘official’ forms used at that time that were probably used on the bamboo slips and that can be found on the bronze items. In the more official texts the characters preserved the corresponding shape.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38e2dca-3e6e-4b4d-94b5-b68a9a690c92_382x807.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb38e2dca-3e6e-4b4d-94b5-b68a9a690c92_382x807.jpeg"
+  src="img/b38e2dca-3e6e-4b4d-94b5-b68a9a690c92_382x807.jpg"
+  link="img/b38e2dca-3e6e-4b4d-94b5-b68a9a690c92_382x807.jpg"
 >}}
 
 Nevertheless, a more ‘pictographic’ appearance (like on the early bronzes) doesn’t necessarily indicate an earlier form of the character. This is something that has to be taken into consideration when researching etymology.
@@ -533,8 +533,8 @@ Nevertheless, a more ‘pictographic’ appearance (like on the early bronzes) d
 ---
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e11d8a-e687-448e-976a-f848dbdbf046_779x553.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2e11d8a-e687-448e-976a-f848dbdbf046_779x553.png"
+  src="img/f2e11d8a-e687-448e-976a-f848dbdbf046_779x553.jpg"
+  link="img/f2e11d8a-e687-448e-976a-f848dbdbf046_779x553.jpg"
 >}}
 
 ### Western Zhou Era
@@ -542,29 +542,29 @@ Nevertheless, a more ‘pictographic’ appearance (like on the early bronzes) d
 Here bronze takes centre stage. Many inscriptions started being produced, recording various state affairs of the time.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd8d5f8-eb30-4914-a2ad-b4e6593d9e90_584x647.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1bd8d5f8-eb30-4914-a2ad-b4e6593d9e90_584x647.jpeg"
+  src="img/1bd8d5f8-eb30-4914-a2ad-b4e6593d9e90_584x647.jpg"
+  link="img/1bd8d5f8-eb30-4914-a2ad-b4e6593d9e90_584x647.jpg"
 >}}
 
 There are still some bone records from the divinations by the various Zhou rulers. They are mostly concentrated in the early Western Zhou period, some are from before the Shang conquest.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6a6c74ed-9c4a-4c7a-8b6f-e3ea138db2c3_683x661.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6a6c74ed-9c4a-4c7a-8b6f-e3ea138db2c3_683x661.jpeg"
+  src="img/6a6c74ed-9c4a-4c7a-8b6f-e3ea138db2c3_683x661.jpg"
+  link="img/6a6c74ed-9c4a-4c7a-8b6f-e3ea138db2c3_683x661.jpg"
 >}}
 
 Aside from that, there are also clay pot inscriptions.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3640310a-6534-4658-9478-7a1b947827a0_230x291.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3640310a-6534-4658-9478-7a1b947827a0_230x291.jpeg"
+  src="img/3640310a-6534-4658-9478-7a1b947827a0_230x291.jpg"
+  link="img/3640310a-6534-4658-9478-7a1b947827a0_230x291.jpg"
 >}}
 
 This period also sees the emergence of the ‘Zhou forms’ that can be found in the ‘Shuowen Jiezi’. Since the forms in the dictionary are transmitted, they are considerably distorted.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd8f1f9b-cec9-4638-8124-b6bb460a513e_479x387.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd8f1f9b-cec9-4638-8124-b6bb460a513e_479x387.jpeg"
+  src="img/cd8f1f9b-cec9-4638-8124-b6bb460a513e_479x387.jpg"
+  link="img/cd8f1f9b-cec9-4638-8124-b6bb460a513e_479x387.jpg"
 >}}
 
 Because the state was involved in the production of most vessels during Western Zhou the variation of the characters here is comparatively minimal. Nevertheless, the simplifications by the end of the Western Zhou period become obvious: the straightening of lines, loss of dots, loss of variation in line thickness, etc.
@@ -572,8 +572,8 @@ Because the state was involved in the production of most vessels during Western 
 ---
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f33ece9-4261-4ce0-a039-11bc4df0f9f6_807x220.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f33ece9-4261-4ce0-a039-11bc4df0f9f6_807x220.png"
+  src="img/6f33ece9-4261-4ce0-a039-11bc4df0f9f6_807x220.jpg"
+  link="img/6f33ece9-4261-4ce0-a039-11bc4df0f9f6_807x220.jpg"
 >}}
 
 ### Eastern Zhou (Spring and Autumn and Warring States Periods)
@@ -583,22 +583,22 @@ These periods are combined here for one simple reason: China was divided into a 
 From the Warring States period onwards, texts on a huge variety of different materials become available to us. First of all, the bronzes become much more diverse. Items that hardly ever appeared in the Shang and Western Zhou periods (musical instruments, weapons, measuring tools, accessories for horse carts, etc) are found in huge quantities from now on.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5381d729-f7d4-42dc-9727-f4b186544f91_807x577.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F5381d729-f7d4-42dc-9727-f4b186544f91_807x577.jpeg"
+  src="img/5381d729-f7d4-42dc-9727-f4b186544f91_807x577.jpg"
+  link="img/5381d729-f7d4-42dc-9727-f4b186544f91_807x577.jpg"
 >}}
 
 Inscriptions on jade also become common. For example we could mention the Houma covenant texts (侯馬盟書) from the Zhao kingdom (趙), as well as the Wenxian covenant texts (溫縣盟書) from the Han kingdom (韓), both from around the end of the Spring and Autumn period. They’re written with a brush, but there are also plenty of carved texts, like the Xingqi Yuming (行氣玉銘), a meditative text found on the twelve-sided jade knob of a magic wand or shaman’s staff from around the beginning of the Warring States era.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c20d089-be64-4b8f-a11a-ab91725aa78e_807x420.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1c20d089-be64-4b8f-a11a-ab91725aa78e_807x420.jpeg"
+  src="img/1c20d089-be64-4b8f-a11a-ab91725aa78e_807x420.jpg"
+  link="img/1c20d089-be64-4b8f-a11a-ab91725aa78e_807x420.jpg"
 >}}
 
 Inscriptions on regular stone also emerged, such as the stone-drum inscriptions (石鼓文) from the Qin kingdom (秦) around the end of the Spring and Autumn, the Qin Gong lithophones (景公石磬) from the Qin kingdom from around the middle of the Spring and Autumn as well as the ‘Curses against the State of Chu’ (詛楚文) also from the Qin kingdom from the middle of the Warring States period (unfortunately we don’t have the original text, only later copies).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F918ee374-ccf5-4e09-b370-dac1e349259d_807x546.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F918ee374-ccf5-4e09-b370-dac1e349259d_807x546.jpeg"
+  src="img/918ee374-ccf5-4e09-b370-dac1e349259d_807x546.jpg"
+  link="img/918ee374-ccf5-4e09-b370-dac1e349259d_807x546.jpg"
 >}}
 
 There is also quite a lot of writing on coinage. Coinage can be found since Spring and Autumn, but during the Warring States period most kingdoms started producing them in large quantities. The coins themselves come in four shapes:
@@ -609,43 +609,43 @@ There is also quite a lot of writing on coinage. Coinage can be found since Spri
 - Round (generally Qin but also Jin, Chu and Yan)
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2ff8440-2601-4c13-80a7-1e4e68b7697d_766x807.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff2ff8440-2601-4c13-80a7-1e4e68b7697d_766x807.jpeg"
+  src="img/f2ff8440-2601-4c13-80a7-1e4e68b7697d_766x807.jpg"
+  link="img/f2ff8440-2601-4c13-80a7-1e4e68b7697d_766x807.jpg"
 >}}
 
 Seals are extraordinarily rare in the earlier periods but became widespread during the Warring States. By their contents they can be divided into official, personal and letter seals, which were used to stamp a phrase with good wishes at the end of a letter.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43c19989-a6f6-4ae9-b262-e5a6ba23623d_585x361.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F43c19989-a6f6-4ae9-b262-e5a6ba23623d_585x361.jpeg"
+  src="img/43c19989-a6f6-4ae9-b262-e5a6ba23623d_585x361.jpg"
+  link="img/43c19989-a6f6-4ae9-b262-e5a6ba23623d_585x361.jpg"
 >}}
 
 Writing on ceramics can be found during Warring States too. Usually it’s just seal imprints, but from time to time something gets carved. These usually come from Qi or Yan right next to Qi.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d7a2b9f-3808-4eb6-a70b-8972a1b2d3e4_681x417.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0d7a2b9f-3808-4eb6-a70b-8972a1b2d3e4_681x417.jpeg"
+  src="img/0d7a2b9f-3808-4eb6-a70b-8972a1b2d3e4_681x417.jpg"
+  link="img/0d7a2b9f-3808-4eb6-a70b-8972a1b2d3e4_681x417.jpg"
 >}}
 
 During the Warring States era many items of lacquerware were produced too and in very few cases they had characters etched into them as well.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4811fd3d-86b4-4f23-8853-9745d4ea498d_316x352.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4811fd3d-86b4-4f23-8853-9745d4ea498d_316x352.jpeg"
+  src="img/4811fd3d-86b4-4f23-8853-9745d4ea498d_316x352.jpg"
+  link="img/4811fd3d-86b4-4f23-8853-9745d4ea498d_316x352.jpg"
 >}}
 
 The earliest known silk manuscript also belongs to the Warring States era. It was made in the Chu kingdom and contains a creation myth, reports of extraordinary natural phenomena and disasters and what one should be cautious of during each of the 12 months.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7aa20ee9-ab24-4e35-9592-3e7610936ad0_807x724.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7aa20ee9-ab24-4e35-9592-3e7610936ad0_807x724.jpeg"
+  src="img/7aa20ee9-ab24-4e35-9592-3e7610936ad0_807x724.jpg"
+  link="img/7aa20ee9-ab24-4e35-9592-3e7610936ad0_807x724.jpg"
 >}}
 
 Prior to the invention of paper, people in China mainly wrote on bamboo or wood. Bamboo slips were already widely used during the Shang and Western Zhou periods, but everything before the Warring States rotted away, as the material was not durable. All inscriptions from this period can be divided into Chu and Qin inscriptions (however, Chu inscriptions also contain characters from other kingdoms, see below). Mostly they contained literature, learning materials, documents, lists of funerary objects, divinations, etc. We have access to a huge number of different texts recorded on this material, almost all of them come from the kingdom of Chu.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F904cd20e-70af-4bce-b347-a4b83ae1d71d_493x749.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F904cd20e-70af-4bce-b347-a4b83ae1d71d_493x749.jpeg"
+  src="img/904cd20e-70af-4bce-b347-a4b83ae1d71d_493x749.jpg"
+  link="img/904cd20e-70af-4bce-b347-a4b83ae1d71d_493x749.jpg"
 >}}
 
 ---
@@ -661,92 +661,92 @@ Literacy in China grew starting with the Spring and Autumn. Consequently, this m
 The characters of the different kingdoms were quite divergent. Just compare the variants of 者:
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F420c75c5-3291-4262-83bd-4b1b37f7c6a2_785x191.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F420c75c5-3291-4262-83bd-4b1b37f7c6a2_785x191.png"
+  src="img/420c75c5-3291-4262-83bd-4b1b37f7c6a2_785x191.jpg"
+  link="img/420c75c5-3291-4262-83bd-4b1b37f7c6a2_785x191.jpg"
 >}}
 
 They could also construct the characters in completely different ways. For example Chu wrote the word {⁠來⁠} ‘to come’ with an additional 辶, Yan added a 彳 instead, while Jin added a 止.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb95588fa-e441-464c-bac0-3b76518980bc_771x187.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb95588fa-e441-464c-bac0-3b76518980bc_771x187.png"
+  src="img/b95588fa-e441-464c-bac0-3b76518980bc_771x187.jpg"
+  link="img/b95588fa-e441-464c-bac0-3b76518980bc_771x187.jpg"
 >}}
 
 Which characters were used for which words also varied a lot. For example, Chu tended to use 砫 or sometimes 䝬 or 鉒 to write {⁠重⁠} ‘heavy’, Qi and Jin used 冢 and 塚, while Qin and Yan used 重. Chu and Yan wrote the word {⁠縣⁠} ‘prefecture’ as 睘 (in Yan sometimes also 還), Jin as 𬪗 and Qin and Qi used 縣.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1972f39-0464-433b-b25c-d859d2c0b9b1_789x347.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1972f39-0464-433b-b25c-d859d2c0b9b1_789x347.png"
+  src="img/f1972f39-0464-433b-b25c-d859d2c0b9b1_789x347.jpg"
+  link="img/f1972f39-0464-433b-b25c-d859d2c0b9b1_789x347.jpg"
 >}}
 
 Let’s have a closer look at how the branches are divided. Aside from the Chu kingdom, the Chu branch also includes the characters from the states of Zeng (曾), Xu (徐), Cai (蔡), Song (宋), Wu (吳), Yue (越) and some others. The main defining trait of the bronze inscriptions from these kingdoms are the vertically elongated characters with thin, smooth lines. (These forms have also found their way to some eastern kingdoms like Qi and Lu (魯)). They started being widespread around the middle or the end of the Spring and Autumn period. By the end of the Warring States they start looking closer to regular brushwork.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F74e38e41-c17e-41db-bb21-b938b02d6296_807x766.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F74e38e41-c17e-41db-bb21-b938b02d6296_807x766.jpeg"
+  src="img/74e38e41-c17e-41db-bb21-b938b02d6296_807x766.jpg"
+  link="img/74e38e41-c17e-41db-bb21-b938b02d6296_807x766.jpg"
 >}}
 
 This style also serves as the origin of a decorative style that uses bird-like shapes in its characters. It’s often called by the generic term ‘bird-worm script’ (鳥蟲書) and was mostly popular in Wu and Yue around the end of the Spring and Autumn era.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13573bec-9048-4cd5-9bb8-89134c0fc0af_723x787.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F13573bec-9048-4cd5-9bb8-89134c0fc0af_723x787.jpeg"
+  src="img/13573bec-9048-4cd5-9bb8-89134c0fc0af_723x787.jpg"
+  link="img/13573bec-9048-4cd5-9bb8-89134c0fc0af_723x787.jpg"
 >}}
 
 Also relevant here is the text ‘Goulou-bei’ (岣嶁碑) that contains characters of unknown origin. As the legend goes, they were created by Yu (禹) the founder of the Xia dynasty (夏). We don’t have any original inscriptions, but it’s generally believed that they are related to distorted inscriptions written in the Yue decorative script from the Warring States period.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f62696c-05ca-47f3-b784-ad4d940aecfc_682x1023.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6f62696c-05ca-47f3-b784-ad4d940aecfc_682x1023.jpeg"
+  src="img/6f62696c-05ca-47f3-b784-ad4d940aecfc_682x1023.jpg"
+  link="img/6f62696c-05ca-47f3-b784-ad4d940aecfc_682x1023.jpg"
 >}}
 
 The Qi branch can be divided into two sub-branches: a northern one (the states of Qi (齊), Ju (莒), Zhu (鑄), Feng (夆), Qi (杞), etc) and a southern one (Lu (魯), Zhu (邾), Teng (滕), Xue (薛), Cao (曹), etc).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2073c8a7-2e71-4c30-adb6-1ea7cd54f9a1_561x331.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2073c8a7-2e71-4c30-adb6-1ea7cd54f9a1_561x331.png"
+  src="img/2073c8a7-2e71-4c30-adb6-1ea7cd54f9a1_561x331.jpg"
+  link="img/2073c8a7-2e71-4c30-adb6-1ea7cd54f9a1_561x331.jpg"
 >}}
 
 Lu was Confucius’ homeland. Even though we don’t have any bamboo slips from these kingdoms, it’s generally believed that books were written in large quantities there, hence some forms that preserve the features peculiar to the Qi branch that can be found in Shuowen Jiezi among the ‘ancient script’ forms, as well as in the Hanjian. The bamboo books found in the walls of Confucius’ house were also written with the characters of this branch.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b064411-0bce-41e9-a4c0-3c224d8f57db_654x367.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4b064411-0bce-41e9-a4c0-3c224d8f57db_654x367.png"
+  src="img/4b064411-0bce-41e9-a4c0-3c224d8f57db_654x367.jpg"
+  link="img/4b064411-0bce-41e9-a4c0-3c224d8f57db_654x367.jpg"
 >}}
 
 You can also find characters characteristic of the Qi branch in some Chu writings. It is believed that this is because the people from Chu were copying some things written in Qi. Generally these can be found in the texts 郭店簡《唐虞之道》《忠信之道》《語叢一～三》、上博簡《緇衣》、清華簡《保訓》.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1f7eca-c78a-4bf5-80fb-f47a3a4dd33a_675x358.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3a1f7eca-c78a-4bf5-80fb-f47a3a4dd33a_675x358.png"
+  src="img/3a1f7eca-c78a-4bf5-80fb-f47a3a4dd33a_675x358.jpg"
+  link="img/3a1f7eca-c78a-4bf5-80fb-f47a3a4dd33a_675x358.jpg"
 >}}
 
 The Jin branch contains the characters from Zhao (趙), Wei (魏) and Han (韓) (and Jin (晉) of course), as well as the nearby Wey (衛), Zheng (鄭), Zhongshan (中山) and some others. The strokes in the characters of this branch are thin and straight, while the characters themselves are relatively simple.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a187c6-e30e-4f22-9ec3-e8a992c42a6f_807x444.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F72a187c6-e30e-4f22-9ec3-e8a992c42a6f_807x444.jpeg"
+  src="img/72a187c6-e30e-4f22-9ec3-e8a992c42a6f_807x444.jpg"
+  link="img/72a187c6-e30e-4f22-9ec3-e8a992c42a6f_807x444.jpg"
 >}}
 
 Even though we don’t have any bamboo writing from this period it’s generally accepted that the texts found by the grave robbers were written by people from Zheng who moved to Chu. Some characters have forms characteristic of the Jin branch. Generally you can find them in the texts 清華簡《繫年》《良臣》《祝辭》《筮法》《鄭武夫人規孺子》《鄭文公問太伯》《子産》etc.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fb09cc4-b8b4-4e36-81a1-2138ef8281a2_595x345.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4fb09cc4-b8b4-4e36-81a1-2138ef8281a2_595x345.png"
+  src="img/4fb09cc4-b8b4-4e36-81a1-2138ef8281a2_595x345.jpg"
+  link="img/4fb09cc4-b8b4-4e36-81a1-2138ef8281a2_595x345.jpg"
 >}}
 
 The kingdoms of Zhao, Wei and Han could be said to be sub-branches of their own. For example the bottom part of the character 襄 got corrupted into 羊, a phonetic, in Zhao. In Wei and Han this character has forms that are completely different. Wei used a character with the phonetic 庚 to write the word {⁠容⁠}, while Han used a character with the phonetic 凶.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b044b48-31b2-416d-bc09-f819f936d44d_649x381.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9b044b48-31b2-416d-bc09-f819f936d44d_649x381.png"
+  src="img/9b044b48-31b2-416d-bc09-f819f936d44d_649x381.jpg"
+  link="img/9b044b48-31b2-416d-bc09-f819f936d44d_649x381.jpg"
 >}}
 
 ---
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f1361ed-0088-4694-a6cb-10d20c23ebbf_807x534.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9f1361ed-0088-4694-a6cb-10d20c23ebbf_807x534.png"
+  src="img/9f1361ed-0088-4694-a6cb-10d20c23ebbf_807x534.jpg"
+  link="img/9f1361ed-0088-4694-a6cb-10d20c23ebbf_807x534.jpg"
 >}}
 
 ### Transition to Modern Writing
@@ -754,50 +754,50 @@ The kingdoms of Zhao, Wei and Han could be said to be sub-branches of their own.
 It’s often believed that during Qin a writing reform was conducted that led to the emergence of modern writing, but the transition was actually quite gradual. One of the people supporting the idea of a reform was the author of Shuowen Jiezi, but the forms presented in that dictionary as the ‘standard Qin seal forms’ are often quite divergent from the real forms of the period that were in official use. In this picture you can see a character from Shuowen Jiezi next to some real forms from the official Qin writings, which, as you can tell, are quite variable.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7715cffc-5777-4211-8c8d-0a528057a2dc_671x495.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7715cffc-5777-4211-8c8d-0a528057a2dc_671x495.jpeg"
+  src="img/7715cffc-5777-4211-8c8d-0a528057a2dc_671x495.jpg"
+  link="img/7715cffc-5777-4211-8c8d-0a528057a2dc_671x495.jpg"
 >}}
 
 The clerical script was formed around the end of the Warring States period. Its origin lies in the character forms used by the Qin commoners. Of course, the style found on the Qin bamboo slips still hadn’t reached its final form and was still constantly changing.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a47447e-bc17-43ce-a7b5-fdb7dedf8e6a_477x1080.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a47447e-bc17-43ce-a7b5-fdb7dedf8e6a_477x1080.jpeg"
+  src="img/8a47447e-bc17-43ce-a7b5-fdb7dedf8e6a_477x1080.jpg"
+  link="img/8a47447e-bc17-43ce-a7b5-fdb7dedf8e6a_477x1080.jpg"
 >}}
 
 During the Han dynasty the clerical script reached its final form and became the main style of writing.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd06ad059-5325-4814-af36-c6ec8875fbe7_807x697.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd06ad059-5325-4814-af36-c6ec8875fbe7_807x697.jpeg"
+  src="img/d06ad059-5325-4814-af36-c6ec8875fbe7_807x697.jpg"
+  link="img/d06ad059-5325-4814-af36-c6ec8875fbe7_807x697.jpg"
 >}}
 
 While cursive served as the auxiliary style.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45a5bf7e-2e2e-4365-8898-b766695d8ebb_480x459.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F45a5bf7e-2e2e-4365-8898-b766695d8ebb_480x459.jpeg"
+  src="img/45a5bf7e-2e2e-4365-8898-b766695d8ebb_480x459.jpg"
+  link="img/45a5bf7e-2e2e-4365-8898-b766695d8ebb_480x459.jpg"
 >}}
 
 Around the middle of the Eastern Han era the so-called neo-clerical script emerged from the clerical script. It was simpler and more convenient for everyday use.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba61b20e-4fb7-4954-95d1-7fa8f446470e_586x482.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba61b20e-4fb7-4954-95d1-7fa8f446470e_586x482.jpeg"
+  src="img/ba61b20e-4fb7-4954-95d1-7fa8f446470e_586x482.jpg"
+  link="img/ba61b20e-4fb7-4954-95d1-7fa8f446470e_586x482.jpg"
 >}}
 
 Around the end of the Eastern Han period the semi-cursive emerged, combining the neo-clerical and cursive forms.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c72611d-1442-42ab-82bf-c6f2151d1873_303x622.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0c72611d-1442-42ab-82bf-c6f2151d1873_303x622.jpeg"
+  src="img/0c72611d-1442-42ab-82bf-c6f2151d1873_303x622.jpg"
+  link="img/0c72611d-1442-42ab-82bf-c6f2151d1873_303x622.jpg"
 >}}
 
 Between the Han and the Wei periods ‘regular script’ emerged, basing its forms on the semi-cursive.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f284d8f-5b53-4402-9bc5-ec14b6fa16c3_807x545.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2f284d8f-5b53-4402-9bc5-ec14b6fa16c3_807x545.jpeg"
+  src="img/2f284d8f-5b53-4402-9bc5-ec14b6fa16c3_807x545.jpg"
+  link="img/2f284d8f-5b53-4402-9bc5-ec14b6fa16c3_807x545.jpg"
 >}}
 
 Of course, it didn’t kill off the clerical and the neo-clerical scripts overnight. They coexisted until around the Wei-Jin period when regular script became dominant.
@@ -805,22 +805,22 @@ Of course, it didn’t kill off the clerical and the neo-clerical scripts overni
 At the same time, under the influence from the semi-cursive and the regular script, the Han era cursive gradually transitioned to its modern form.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffce044e0-08b8-45a7-9aa0-d12c23e3f472_481x721.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ffce044e0-08b8-45a7-9aa0-d12c23e3f472_481x721.jpeg"
+  src="img/fce044e0-08b8-45a7-9aa0-d12c23e3f472_481x721.jpg"
+  link="img/fce044e0-08b8-45a7-9aa0-d12c23e3f472_481x721.jpg"
 >}}
 
 From that point on, Chinese writing had become more or less how we know it today. Of course, some characters still kept changing throughout the modern period.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a7a5e4-3385-4262-87d2-51b45d265023_807x678.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F50a7a5e4-3385-4262-87d2-51b45d265023_807x678.png"
+  src="img/50a7a5e4-3385-4262-87d2-51b45d265023_807x678.jpg"
+  link="img/50a7a5e4-3385-4262-87d2-51b45d265023_807x678.jpg"
 >}}
 
 ---
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F359adc78-2621-43c4-a63c-9db22c68e0cb_807x677.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F359adc78-2621-43c4-a63c-9db22c68e0cb_807x677.png"
+  src="img/359adc78-2621-43c4-a63c-9db22c68e0cb_807x677.jpg"
+  link="img/359adc78-2621-43c4-a63c-9db22c68e0cb_807x677.jpg"
 >}}
 
 # How Character Etymology Should be Done
@@ -846,15 +846,15 @@ Only if you couldn’t find the phonetic should you start trying to divide the c
 The importance of phonetic writing in the ancient Chinese script can’t be stressed enough. Always remember that it was the cornerstone of the entire system. You can see this on the example of the variants of the word {⁠腹⁠} ’abdomen’ that you can find in the Houma covenant texts. Again, these are all from the same location and general era, so all of them were clear to the intended readers.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89f5ffc1-88de-4e16-aa66-e6badebad82c_807x629.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F89f5ffc1-88de-4e16-aa66-e6badebad82c_807x629.jpeg"
+  src="img/89f5ffc1-88de-4e16-aa66-e6badebad82c_807x629.jpg"
+  link="img/89f5ffc1-88de-4e16-aa66-e6badebad82c_807x629.jpg"
 >}}
 
 This is 22 variants total. In the image they’re arranged by frequency, the numbers in brackets are how many instances of this form can be found in the corpus. Under the forms you see the elements that make them up. Something to keep in mind though is that even these forms are generalized and can be divided into subforms, different only graphically. For example, here are some subforms derived from the form number 1:
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9024cfd-3d4d-4b45-845a-a739fd50f508_787x187.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9024cfd-3d4d-4b45-845a-a739fd50f508_787x187.jpeg"
+  src="img/a9024cfd-3d4d-4b45-845a-a739fd50f508_787x187.jpg"
+  link="img/a9024cfd-3d4d-4b45-845a-a739fd50f508_787x187.jpg"
 >}}
 
 But let’s talk about the regular forms. The core element in every single one of them is the phonetic 复, the rest are semantic elements. By frequency: 肉 ‘flesh’, 彳 ‘road’, 止 (a depiction of a foot), 夊 (an upside-down depiction of a foot), 口 ‘mouth’, 冖 (a depiction of a building or a room), 心 ‘heart’. Looking at these, you might have noticed that most of them aren’t obviously connected with ‘abdomen’ in any way. The most obvious is the element 肉 which is used as a semantic in a myriad of characters used for body part words. 心 could probably also refer to the body, or perhaps it appears under the influence from {⁠腹心⁠} ‘heart and body’ that appears quite often in these texts. Perhaps 冖 also conveys the idea of ‘tranquillity’ like in some other characters. The other elements are influence from the identical-sounding word {⁠復⁠}, ‘to return/to be restored’ that can also frequently be found in this text. 彳, 止 and 夊 are pretty obvious, but 口 might seem a bit out of place. A possible explanation for the presence of this component is that the restoration of Zhao Ni’s clan was viewed as a political act which involved the notion of ‘declaring’. Another possibility is that 口 was added to {⁠復⁠} not as a separate component but as a component linked to the 止, together forming the component 足. In the forms, which do not include the component 止, the component 口 could simply be the abbreviation of 足.
@@ -892,15 +892,15 @@ Another case when the phonetics can be considered to bear semantic load is when 
 Since the characters have been distorted many times throughout their history (even in the earliest monuments), it is the earliest forms that need to be looked at in order to find out the true etymology. Even though they are not always known, scholarship is still being actively done, so to find the earliest forms it is necessary to use cutting-edge knowledge (see below). Consider, for instance, the characters 丁, 家 and 安.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b46535c-2f3e-42a0-b98d-525f869ff35c_100x100.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8b46535c-2f3e-42a0-b98d-525f869ff35c_100x100.jpeg"
+  src="img/8b46535c-2f3e-42a0-b98d-525f869ff35c_100x100.jpg"
+  link="img/8b46535c-2f3e-42a0-b98d-525f869ff35c_100x100.jpg"
 >}}
 
 The scholars of the 19th-20th centuries tended to explain the character 丁 as a depiction of a nail, with the original sense being {⁠釘⁠} ‘nail’. This was based on its form from Shuowen Jiezi. But when the writings from the Shang era were discovered, it became strikingly obvious that this isn’t the case. 丁 used to be written as a simple circle or a square. Nowadays, scholars tend to say that it was a depiction of a head, with the original sense {⁠頂⁠} ‘head’. Compare the development of 丁 and 天 (depiction of a person with the focus on the head):
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe5e5466-18ca-4001-af51-8ce38d7f2d89_807x479.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe5e5466-18ca-4001-af51-8ce38d7f2d89_807x479.png"
+  src="img/be5e5466-18ca-4001-af51-8ce38d7f2d89_807x479.jpg"
+  link="img/be5e5466-18ca-4001-af51-8ce38d7f2d89_807x479.jpg"
 >}}
 
 ---
@@ -910,8 +910,8 @@ The character 家 ‘house’ is made up of 宀 ‘house’ and 豕 ‘pig’ be
 The earliest texts draw a clear distinction between a female pig (豕) and a male pig (𢑓 = {⁠豭⁠}). The latter is always drawn with a penis. Look at the picture and compare the forms 豕, 𢑓 and 家. 家 clearly has 𢑓 aside from the later forms, where 𢑓 got contaminated with 豕.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3db145e0-d77f-4a50-9cdc-d6dcbc046626_659x412.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3db145e0-d77f-4a50-9cdc-d6dcbc046626_659x412.jpeg"
+  src="img/3db145e0-d77f-4a50-9cdc-d6dcbc046626_659x412.jpg"
+  link="img/3db145e0-d77f-4a50-9cdc-d6dcbc046626_659x412.jpg"
 >}}
 
 Consequently, 家 is a phonogram with the semantic 宀 ‘house’ and the phonetic 𢑓.
@@ -923,15 +923,15 @@ The character 安 ‘calm’ is made up of 宀 ‘house’ and 女 ‘woman’. 
 Shang era texts have two kinds of characters with a woman inside a house: one with a stroke inside and one without.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca01be25-3af6-4388-9ebd-af193857bb74_391x239.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fca01be25-3af6-4388-9ebd-af193857bb74_391x239.jpeg"
+  src="img/ca01be25-3af6-4388-9ebd-af193857bb74_391x239.jpg"
+  link="img/ca01be25-3af6-4388-9ebd-af193857bb74_391x239.jpg"
 >}}
 
 Many dictionaries list these as the ancient forms of 安, although we now know that the characters from the top row actually have nothing to do with 安 and instead record the word {⁠賓⁠} ‘guest’.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9eaf094-6ab6-4635-a8e9-cde6308e7933_205x100.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9eaf094-6ab6-4635-a8e9-cde6308e7933_205x100.jpeg"
+  src="img/c9eaf094-6ab6-4635-a8e9-cde6308e7933_205x100.jpg"
+  link="img/c9eaf094-6ab6-4635-a8e9-cde6308e7933_205x100.jpg"
 >}}
 
 You can find a different form of 安 in the bone inscriptions excavated in 2003 in the village Daxin (Shandong). They show us a pictographic form of 安, one that didn’t acquire the ‘roof’ yet. If you look closely, there’s still a stroke under the woman’s arse. This stroke is preserved up until the Han period.
@@ -943,8 +943,8 @@ From that we can deduce that the original meaning of 安 was probably ‘to sit�
 Sometimes the differences between the characters are so insignificant that they’re practically impossible to notice. A non-specialist can easily confuse several different characters. A good example is on the table below, which compares the characters 人 ‘person’, 匕 ‘spoon’, 从 ‘to follow’ and 比 ‘to compare’ during the different periods in the Shang era.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c87951d-e2bb-4539-bc80-d2d370499258_807x247.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3c87951d-e2bb-4539-bc80-d2d370499258_807x247.jpeg"
+  src="img/3c87951d-e2bb-4539-bc80-d2d370499258_807x247.jpg"
+  link="img/3c87951d-e2bb-4539-bc80-d2d370499258_807x247.jpg"
 >}}
 
 It really is difficult to find any difference between these, but the differences are there and they’re positively crucial.
@@ -952,22 +952,22 @@ It really is difficult to find any difference between these, but the differences
 As an additional example let’s take the character 般 bān ‘kind, class’. Nowadays it’s composed of 舟 zhōu ‘boat’ and 殳 shū ‘bamboo pike’. Neither have much at all to contribute semantically nor phonetically (even if you look at Old Chinese, just compare 般 \*p(r)ˤan with 舟 \*tu and 殳 \*do) (for convenience the rest of the article will use only Old Chinese readings). If we take a look at the earliest texts then we’ll see that 般 is actually constructed out of elements that have nothing to do with 舟 or 殳.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cd11fd5-9415-4dfc-a88c-f1ef68dcb00b_491x165.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F9cd11fd5-9415-4dfc-a88c-f1ef68dcb00b_491x165.jpeg"
+  src="img/9cd11fd5-9415-4dfc-a88c-f1ef68dcb00b_491x165.jpg"
+  link="img/9cd11fd5-9415-4dfc-a88c-f1ef68dcb00b_491x165.jpg"
 >}}
 
 One of the elements of this character is 皿 ‘plate’ (usually turned by 90°) which, when turned, does bear resemblance to 舟. You can find examples of rotated 皿 in other characters too. For example the early character for the word {⁠溫⁠} ‘warm’, which depicts a person pouring warm water onto themselves out of a big plate (they were used for washing).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc14e6f-cf86-4ca4-9e06-f42f70ffeaf9_735x308.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3fc14e6f-cf86-4ca4-9e06-f42f70ffeaf9_735x308.jpeg"
+  src="img/3fc14e6f-cf86-4ca4-9e06-f42f70ffeaf9_735x308.jpg"
+  link="img/3fc14e6f-cf86-4ca4-9e06-f42f70ffeaf9_735x308.jpg"
 >}}
 
 The other element didn’t survive to our days but probably depicts a {⁠鞭⁠} \*pen ‘whip’. It can also be found in the character 更 (更 \*ben, not to be confused with the homographic 更 \*kˤraŋ ‘to change’), composed of the semantic {⁠鞭⁠} ‘whip’ and the phonetic 丙, that is, it’s one of the times when a phonetic is added to an already existing character.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1c876e-caab-4c04-b549-299fd3fdfca4_413x298.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fba1c876e-caab-4c04-b549-299fd3fdfca4_413x298.jpeg"
+  src="img/ba1c876e-caab-4c04-b549-299fd3fdfca4_413x298.jpg"
+  link="img/ba1c876e-caab-4c04-b549-299fd3fdfca4_413x298.jpg"
 >}}
 
 Since it makes the most sense to assume that 般 \*p(r)ˤan is made up of the semantic 皿 ‘plate’ and the phonetic {⁠鞭⁠} \*pen, it most likely originally denoted {⁠盤⁠} \*bˤan ‘plate’ (the plate 盤 was used for washing too). 般 is also used in the name of the Shang ruler Pan Geng (later on his name would be spelled as 盤庚). The modern sense ‘kind, class’ is just a rebus.
@@ -996,8 +996,8 @@ Let’s see some examples based on the etymologies of some characters.
 Let’s start with the character 年 ‘year’. It contains the elements 禾 ‘grain’ and 人 ‘person’, the original meaning was ‘harvest’. It is often explained as ‘a man is carrying his harvest’, but there is no evidence in favour of this etymology. Every single character where a man is carrying something is constructed horizontally, not vertically.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4b656b5-68b7-4790-97c3-19670a189df8_557x307.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4b656b5-68b7-4790-97c3-19670a189df8_557x307.png"
+  src="img/d4b656b5-68b7-4790-97c3-19670a189df8_557x307.jpg"
+  link="img/d4b656b5-68b7-4790-97c3-19670a189df8_557x307.jpg"
 >}}
 
 There are two things to note here. In some of the forms the elements aren’t connected. Almost all characters where the elements aren’t connected are phonograms. The second thing is that 人 \*niŋ and 年 \*nˤiŋ sound similar. Naturally, this implies that 人 is a phonetic here. This is how you can use general tendencies of early writing as evidence.
@@ -1011,8 +1011,8 @@ At first, the word {⁠母⁠} was written using the character 女 ‘woman’ (
 These kinds of dots filling up empty space can be found in many characters. The ones with dots and the ones without them mean exactly the same thing. This is no different from what we see in 母.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaeb562c-8fa4-4c25-a848-b2a7236481aa_593x779.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbaeb562c-8fa4-4c25-a848-b2a7236481aa_593x779.png"
+  src="img/baeb562c-8fa4-4c25-a848-b2a7236481aa_593x779.jpg"
+  link="img/baeb562c-8fa4-4c25-a848-b2a7236481aa_593x779.jpg"
 >}}
 
 Based on this the most sensible conclusion is that the dots inside 母 are a simple ornament to differentiate it from 女, rather than a depiction of breasts.
@@ -1024,15 +1024,15 @@ Let’s move on to more complicated cases. The character 明 ‘bright’ is oft
 During the Shang period, the character 朙 always contained the element 月 ‘moon’, albeit the second element varied: 囧, 日, 田, 口.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ef63628-13fc-433a-b23e-54afd3760ffa_513x293.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F2ef63628-13fc-433a-b23e-54afd3760ffa_513x293.jpeg"
+  src="img/2ef63628-13fc-433a-b23e-54afd3760ffa_513x293.jpg"
+  link="img/2ef63628-13fc-433a-b23e-54afd3760ffa_513x293.jpg"
 >}}
 
 Can we consider them corrupted forms of 囧? Sure, but more evidence for that is in order. For that let’s look at the character 𥁰.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a4dd166-c480-4928-aec1-ccca10b29d01_468x125.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F8a4dd166-c480-4928-aec1-ccca10b29d01_468x125.jpeg"
+  src="img/8a4dd166-c480-4928-aec1-ccca10b29d01_468x125.jpg"
+  link="img/8a4dd166-c480-4928-aec1-ccca10b29d01_468x125.jpg"
 >}}
 
 As you can see, the pattern repeats, so at this point there’s no reason not to consider the different forms in the variants of 朙 simplified forms of 囧.
@@ -1046,8 +1046,8 @@ Shujing has the section 囧命, written as 伯囧 (both of these words can be sp
 Among the many Warring States period copies of the Shuowen one can find a character corresponding with the 臩 from the 伯臩. It looks very similar to 臩 and is composed of 聑 and 大 (𫯺). This character can also be found in the Book of Rites compiled around the same time. In the transmitted versions this character is written as 攝.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9593cc-e073-47b1-9acd-b5e214dfec90_260x102.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F0f9593cc-e073-47b1-9acd-b5e214dfec90_260x102.jpeg"
+  src="img/0f9593cc-e073-47b1-9acd-b5e214dfec90_260x102.jpg"
+  link="img/0f9593cc-e073-47b1-9acd-b5e214dfec90_260x102.jpg"
 >}}
 
 All of this is to say that 臦/臩 phonetically corresponds not with 獷/誑/攫, but rather 聶/攝 and 𫯺. But we still need more evidence to connect 囧 and 臦/臩.
@@ -1055,8 +1055,8 @@ All of this is to say that 臦/臩 phonetically corresponds not with 獷/誑/攫
 Thankfully, we have it. Among the (other) excavated copies of the Book of Rites, the same word in the same part of the text is written as 㘝, quite similarly to 囧.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe957901-efbf-4f63-998c-331a23b7c960_182x95.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe957901-efbf-4f63-998c-331a23b7c960_182x95.jpeg"
+  src="img/be957901-efbf-4f63-998c-331a23b7c960_182x95.jpg"
+  link="img/be957901-efbf-4f63-998c-331a23b7c960_182x95.jpg"
 >}}
 
 Shuowen Jiezi has a comment next to it that states 讀若聶 ‘pronounced like 聶’. To conclude, that implies that the 囧 from 伯囧 is a variant of 㘝 and has nothing to do with the element from 朙.
@@ -1070,15 +1070,15 @@ Here we’ve used linguistic data, ancient dictionaries, ancient and received te
 The character 開 ‘to open’ is frequently interpreted as ‘a depiction of hands removing a latch from the gates’ based on the ‘ancient form’ from the Shuowen Jiezi.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F612c77be-11c3-404e-a7cf-e97e2671de5e_306x281.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F612c77be-11c3-404e-a7cf-e97e2671de5e_306x281.png"
+  src="img/612c77be-11c3-404e-a7cf-e97e2671de5e_306x281.jpg"
+  link="img/612c77be-11c3-404e-a7cf-e97e2671de5e_306x281.jpg"
 >}}
 
 Since the ‘ancient forms’ from this dictionary tend to be copies of the forms of the ‘six states’, we should expect to find such a form there. And it is there, one can find it on a Qi seal from the Warring States. A similar form can also be found among the forms of the Zhongshan kingdom (中山).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49e4cd7f-a8ee-42d7-af3c-9ca7dc6055ef_467x297.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F49e4cd7f-a8ee-42d7-af3c-9ca7dc6055ef_467x297.jpeg"
+  src="img/49e4cd7f-a8ee-42d7-af3c-9ca7dc6055ef_467x297.jpg"
+  link="img/49e4cd7f-a8ee-42d7-af3c-9ca7dc6055ef_467x297.jpg"
 >}}
 
 I won’t bore you with the details, but it most likely descends from 𨴔 (the proto-form of 闢 ‘to open the door’), its interpretation as 開 is a mistake of the ancient scholars.
@@ -1086,8 +1086,8 @@ I won’t bore you with the details, but it most likely descends from 𨴔 (the 
 Our modern form 開 \*kʰˤəiʔ however consists of just 門 ‘gates’ and 幵 (a depiction of two hairpins, transcribes the word {⁠笄⁠}).
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F794d4076-f6f1-457d-b0cf-ca846c0bace7_743x449.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F794d4076-f6f1-457d-b0cf-ca846c0bace7_743x449.png"
+  src="img/794d4076-f6f1-457d-b0cf-ca846c0bace7_743x449.jpg"
+  link="img/794d4076-f6f1-457d-b0cf-ca846c0bace7_743x449.jpg"
 >}}
 
 The element 幵 \*kˤen is a phonetic here, but just like in the previous example, the readings don’t align. Yet again, there is textual evidence that 幵 is a phonetic after all.
@@ -1095,8 +1095,8 @@ The element 幵 \*kˤen is a phonetic here, but just like in the previous exampl
 First of all, in Huangmen (皇門) we can find the word ‘to open’ being written using the character \[⿱幵見\], so, again, with the phonetic 幵 (\[⿱幵見\] itself was probably originally used to transcribe the word {⁠䀘⁠} ‘to obstruct the line of sight’). Here it is most likely being used as a sound loan.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafbea73a-dd66-4653-b200-10200cd95f8f_239x259.jpeg"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fafbea73a-dd66-4653-b200-10200cd95f8f_239x259.jpeg"
+  src="img/afbea73a-dd66-4653-b200-10200cd95f8f_239x259.jpg"
+  link="img/afbea73a-dd66-4653-b200-10200cd95f8f_239x259.jpg"
 >}}
 
 Secondly, the book Xinian (繫年) has the same word written using the character 建 \*kans. This is also a sound loan.
@@ -1128,15 +1128,15 @@ This is certainly an interesting theory, but since the scholars at the time had 
 The earliest known versions of 鳥 ‘bird’ and 烏 ‘raven’ are quite distinct from each other. This former was a depiction of a normal bird looking straight, while the latter had the bird looking upwards with an open beak. Either character could be drawn either with or without eyes, which is the moment when Lin Han’s theory crumbles.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9e95f42-c84a-4c62-9a7a-168f00da9641_807x249.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9e95f42-c84a-4c62-9a7a-168f00da9641_807x249.png"
+  src="img/f9e95f42-c84a-4c62-9a7a-168f00da9641_807x249.jpg"
+  link="img/f9e95f42-c84a-4c62-9a7a-168f00da9641_807x249.jpg"
 >}}
 
 Later on they converged, but 烏 was kept distinct from 鳥 for quite a long time, even during the modern period. It only reached its current appearance during the Tang dynasty.
 
 {{< figure 
-  src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ddb331-f9d2-4c27-98a1-055f3fd10246_659x223.png"
-  link="https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9ddb331-f9d2-4c27-98a1-055f3fd10246_659x223.png"
+  src="img/c9ddb331-f9d2-4c27-98a1-055f3fd10246_659x223.jpg"
+  link="img/c9ddb331-f9d2-4c27-98a1-055f3fd10246_659x223.jpg"
 >}}
 
 ---

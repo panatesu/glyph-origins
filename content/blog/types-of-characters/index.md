@@ -5,8 +5,8 @@ date = 2024-06-12
 tags = ["IntroToPaleography"]
 +++
 {{< figure
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/d091d0b5d0b7d18bd0bcd18fd0bdd0bdd18bd0b9.jpg"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/d091d0b5d0b7d18bd0bcd18fd0bdd0bdd18bd0b9.jpg"
+  src="img/d091d0b5d0b7d18bd0bcd18fd0bdd0bdd18bd0b9.jpg"
+  link="img/d091d0b5d0b7d18bd0bcd18fd0bdd0bdd18bd0b9.jpg"
 >}}
 
 #### Introduction
@@ -24,8 +24,8 @@ This article will present a modern system that divides all written characters ac
 First, let’s consider this common system using examples of symbols from some early writing systems. It is based on two criteria:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image.png"
+  src="img/image.png"
+  link="img/image.png"
 >}}
 
 **Logograms:** The Egyptian hieroglyph ⟨𓉐⟩ represents the Egyptian word {pr “house”}; the cuneiform sign ⟨𒆳⟩ represents the Sumerian word {kur “mountain”} or the Akkadian word {šadûm “mountain”}.
@@ -37,8 +37,8 @@ First, let’s consider this common system using examples of symbols from some e
 It is worth noting that these types are not fixed for specific symbols but can easily change depending on the context. For example, compare the use of the Egyptian hieroglyph ⟨𓆱⟩:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-1.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-1.png"
+  src="img/image-1.png"
+  link="img/image-1.png"
 >}}
 
 #### Groups of symbols
@@ -46,15 +46,15 @@ It is worth noting that these types are not fixed for specific symbols but can e
 Before moving on to the main part, it is necessary to talk about an important thing – groups of symbols. In ancient writing systems, several symbols could be combined into groups.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-2.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-2.png"
+  src="img/image-2.png"
+  link="img/image-2.png"
 >}}
 
 The picture above shows an example of the grouping of Egyptian hieroglyphs – the hieroglyph ⟨𓆑⟩ is located under the hieroglyph ⟨𓌬⟩, and “inside” the hieroglyph ⟨𓆓⟩ are ⟨𓏏⟩ and ⟨𓇿⟩. In Egyptian script, grouping is done only for the visual beauty of the text, but in the following example, it is meaningful.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-3.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-3.png"
+  src="img/image-3.png"
+  link="img/image-3.png"
 >}}
 
 In Mayan script, grouping plays a very important role – the word often acts as the “basis” of a block, and various auxiliary phonetic or semantic symbols are added at the edges. In the example above, the bases are the logogram {CHUM} “to sit”, to which the phonograms \[la\] and \[ja\] are added; {AJAW} “king”, to which \[ti\], \[wa\] and \[le\] are added; and {K’UK’} (name), to which the logogram {AJAW} “king” is added. The whole sentence will look like this (the sentence is glossed quite differently from how it is written, but I will not give the glosses here):
@@ -65,15 +65,15 @@ CHUM-la-ja ti-AJAW-wa-le K’UK’-AJAW*
 Let’s look at an example from another writing system.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-4.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-4.png"
+  src="img/image-4.png"
+  link="img/image-4.png"
 >}}
 
 The image above shows an inscription in the Anatolian script from one stele. Written in the Luwian language, it says the following:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-5.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-5.png"
+  src="img/image-5.png"
+  link="img/image-5.png"
 >}}
 
 \| wa/i-mu \| á-mi-zi-i \| tá-ti-zi DEUS-ni-zi-i \| (LITUUS)á-za-ta*  
@@ -88,15 +88,15 @@ Thus, any word written, say, in English, Russian, and other languages with alpha
 Let’s also look at the familiar division of Chinese characters, where each character = one logogram representing one word.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-6.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-6.png"
+  src="img/image-6.png"
+  link="img/image-6.png"
 >}}
 
 Although parts of Chinese characters are usually considered “elements”, they should rather be regarded as independent symbols, and therefore, in fact, compound Chinese characters are nothing more than groups of symbols.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-7.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-7.png"
+  src="img/image-7.png"
+  link="img/image-7.png"
 >}}
 
 For convenience, characters consisting of one symbol should also be understood as groups, since in the context of Chinese script, a group = a character, and it consists of graphemes, i.e., in groups consisting of a single grapheme: grapheme = character = group.
@@ -106,15 +106,15 @@ Unlike Egyptian or Sumerian, the words of the Old Chinese language were mostly m
 There are also different layers of character grouping. Take, for example, Japanese script.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-8.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-8.png"
+  src="img/image-8.png"
+  link="img/image-8.png"
 >}}
 
 Here the word {kanji “Chinese character”} is written using the symbols ⟨漢字⟩, the reading of which is written above in phonetic symbols as ⟨かんじ⟩. This entire combination can be considered one large group representing one word. In this group, however, it is possible to distinguish subgroups, and in them even smaller elements can be distinguished (how small – is decided by whether we want to give a synchronic or diachronic description). Below is a hierarchy of groups (highlighted in red) with a description according to the modern systematics (see below):
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-9.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-9.png"
+  src="img/image-9.png"
+  link="img/image-9.png"
 >}}
 
 #### Ligatures
@@ -126,8 +126,8 @@ Ligatures are essentially established groups of symbols that can be considered i
 Now let’s move on to modern theory. It was developed by Egyptologists, but surprisingly enough, it is suitable for describing any writing system in general. It is based not on two, but on three criteria:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-10.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-10.png"
+  src="img/image-10.png"
+  link="img/image-10.png"
 >}}
 
 The main source for this classification is ***Stéphane Polis, Serge Rosmorduc, 2015. The Hieroglyphic Sign Functions: Suggestions for a Revised Taxonomy.***
@@ -137,15 +137,15 @@ The main source for this classification is ***Stéphane Polis, Serge Rosmorduc, 
 **Ideograms** are symbols that do not carry any sound and are not tied to any words; their purpose is to convey only meaning. Usually ideograms are pictograms – symbols that directly depict an object or a certain plot. For example, a machine operating manual consists entirely of ideograms.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-11.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-11.png"
+  src="img/image-11.png"
+  link="img/image-11.png"
 >}}
 
 Let’s also look at one example from Egyptian script:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-12.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-12.png"
+  src="img/image-12.png"
+  link="img/image-12.png"
 >}}
 
 mḥ.j pr-Rꜥ m špsw-ꜥnḫ qn.w m tw.wt ḥr X ḥr Y  
@@ -156,8 +156,8 @@ Here, images of statues are used simply as a demonstration of what kind of statu
 Another good example is the Dongba proto-writing, which itself is largely composed of ideograms.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-13.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-13.png"
+  src="img/image-13.png"
+  link="img/image-13.png"
 >}}
 
 *The egg was thrown into the lake. A white wind blew from the left, and a black wind blew from the right. Because of the winds, ripples appeared on the lake. The waters of the lake threw up the egg, it collided with a cliff, and a radiant creature was born from it.*
@@ -169,15 +169,15 @@ Actually, the language is not fully transmitted here, thus it is still a proto-w
 **Logograms** are symbols that directly convey words, with their sound and meaning. Some of them represent a specific object:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-14.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-14.png"
+  src="img/image-14.png"
+  link="img/image-14.png"
 >}}
 
 They can also convey a word through an object associated with it:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-15.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-15.png"
+  src="img/image-15.png"
+  link="img/image-15.png"
 >}}
 
 In Egyptian, the word {nḏm “sweet”} is conveyed by the image of carob beans, the word {ṯꜣw “wind”} by the image of a sail, and {jrṯ.t “milk”} by a bottle of milk.
@@ -189,8 +189,8 @@ In Chinese, the word {ɢʷaŋ “king”} is conveyed by the image of an axe (sy
 Logograms can also be polyvalent, i.e., they can convey several different words at once.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-16.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-16.png"
+  src="img/image-16.png"
+  link="img/image-16.png"
 >}}
 
 #### Phonograms
@@ -220,8 +220,8 @@ The boundaries between radicograms and phonetics are even more blurred than betw
 **Semantics** or **determinatives** are auxiliary symbols designed to hint at the meaning of a particular word written by a group of characters. Compare the Egyptian words in the picture:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-17.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-17.png"
+  src="img/image-17.png"
+  link="img/image-17.png"
 >}}
 
 In all cases, the same groups are used, conveying the reading \[wn\], but the semantics are different in all cases: ⟨𓉿⟩ “DOOR”, ⟨𓂻⟩ “MOVEMENT” and ⟨𓅪⟩ “BAD”.
@@ -229,15 +229,15 @@ In all cases, the same groups are used, conveying the reading \[wn\], but the se
 Semantics can also be added to logograms (especially polyvalent ones), specifying their meaning:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-19.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-19.png"
+  src="img/image-19.png"
+  link="img/image-19.png"
 >}}
 
 Chinese script is no exception. For example, the character ⟨叚⟩ had a phonetic value of \[KA\] and as a phonogram originally recorded words such as {krˤaʔ “to borrow”}, {krˤa “intestinal obstruction”}, {ɡrˤas “free time”}. Later, semantics were added to it:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-20.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-20.png"
+  src="img/image-20.png"
+  link="img/image-20.png"
 >}}
 
 #### Phonetics
@@ -245,13 +245,13 @@ Chinese script is no exception. For example, the character ⟨叚⟩ had a phone
 **Phonetics** are auxiliary symbols designed to hint at the reading of a word written by a group of characters. They can be added to both logograms and phonograms.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-21.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-21.png"
+  src="img/image-21.png"
+  link="img/image-21.png"
 >}}
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-22.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-22.png"
+  src="img/image-22.png"
+  link="img/image-22.png"
 >}}
 
 In the case of Chinese script, it is not always easy to say which character is dependent and which is independent and the original one. It is also not always possible to say whether the dependent character was added to the original at all, or whether the group of characters was assembled from scratch from two separate characters.
@@ -259,8 +259,8 @@ In the case of Chinese script, it is not always easy to say which character is d
 Phonetics can also form ligatures with a character, sometimes replacing an existing element in it.
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-23.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-23.png"
+  src="img/image-23.png"
+  link="img/image-23.png"
 >}}
 
 #### Diacritics
@@ -272,29 +272,29 @@ In modern scripts, diacritics are quite common – compare, for example, the let
 In Chinese script, decorations can be used for simple graphic complication of characters:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-24.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-24.png"
+  src="img/image-24.png"
+  link="img/image-24.png"
 >}}
 
 They were also used for semantic differentiation of polyvalent logograms:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-25.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-25.png"
+  src="img/image-25.png"
+  link="img/image-25.png"
 >}}
 
 Another use is to indicate the phonetic usage of a particular logogram:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-26.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-26.png"
+  src="img/image-26.png"
+  link="img/image-26.png"
 >}}
 
 In Egyptian, diacritics can be used in the same way as in Chinese – to differentiate polyvalent logograms:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-27.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-27.png"
+  src="img/image-27.png"
+  link="img/image-27.png"
 >}}
 
 Also in Egyptian, small dashes can be added to simply distinguish between different but graphically similar hieroglyphs. For example, one of the forms of the hieroglyph ⟨𓏒⟩ is ⟨𓏔⟩, but since there is a completely different homographic hieroglyph ⟨𓏔⟩, dashes ⟨𓏕⟩ can be added to that form to clearly indicate that this is the form ⟨𓏒⟩, and not ⟨𓏔⟩.
@@ -306,6 +306,6 @@ Also in Egyptian, small dashes can be added to simply distinguish between differ
 Egyptian script also has special cartouches that work roughly like parentheses, and which enclose various important names:
 
 {{< figure 
-  src="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-28.png"
-  link="https://blog333610347.wordpress.com/wp-content/uploads/2024/06/image-28.png"
+  src="img/image-28.png"
+  link="img/image-28.png"
 >}}
