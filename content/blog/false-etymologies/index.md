@@ -18,8 +18,6 @@ This article will be useful to the people who are interested in learning the rea
 
 I decided to write this article as a comprehensive and succinct piece of reference material that can be easily shared with other people. Considering the academic study of etymology cannot be introduced without any background, a large portion of this article will be dedicated to just that. I’ll introduce the history of the study of Chinese writing, the characters themselves, and important theory that is relevant to contemporary scholarship. Only after these basics are laid down will I answer the question from the title: what you should look for when studying the etymology of specific characters and how to prove etymologies.
 
-Huge thanks to [LangCat](https://langcat.substack.com/p/how-to-expose-false-etymologies-of) for translating this article for me. You can find the Russian original [here](https://vk.com/@randomkj-etymol). The idea of this article was mostly inspired by [great Japanese scholar](https://twitter.com/kanji_jigen).
-
 # An Introduction to the Study of Early Chinese Writing
 
 ### What is the Study of Early Chinese Writing?
