@@ -1197,7 +1197,7 @@ Crispin L. Williams, ‘Interpreting the Wenxian Covenant Texts. Methodological 
 
 ### An Introduction to the Study of Ancient Characters
 
-復旦大學出土文獻與古文字研究中心編《出土文獻與古文字教程》(2024) (the most up-to-date and comprehensive introduction into Chinese palaography and ancient Chinese characters)
+復旦大學出土文獻與古文字研究中心編《出土文獻與古文字教程》(2024) (the most up-to-date and comprehensive introduction to Chinese palaeography and ancient Chinese characters)
 
 李學勤《古文字學初階》(2013) (first edition is from 1985, new ones don’t get updated)
 
