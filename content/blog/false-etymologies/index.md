@@ -180,8 +180,8 @@ There are also abstract pictograms, this is when a character depicts some abstra
 Emphasizing pictograms, well, emphasize something to denote a different meaning. This category mostly contains body parts and actions connected with them. They are very old too, and pretty much no new ones have been coined since the times of early writing.
 
 {{< figure 
-  src="img/image.png"
-  link="img/image.png"
+  src="img/image(1).png"
+  link="img/image(1).png"
 >}}
 
 The types that we’ve described so far contain characters that are considered basic. This means that they cannot be broken down into smaller parts. But there are also complex characters.
@@ -203,8 +203,8 @@ But it still cannot be broken down into two elements because it depicts the act 
 From pictograms we move on to a different type of semantograms. Indicators contain highlighting elements like circles, dots or lines that point to some specific part denoting what the character means. These are also pretty old.
 
 {{< figure 
-  src="img/image.png"
-  link="img/image.png"
+  src="img/image(2).png"
+  link="img/image(2).png"
 >}}
 
 Finally we move on to compound semantograms. These contain two or more semantic elements (two or more semantics) that mean something by themselves, with the compound characters combining their meanings. These are quite rare in early writing but become more and more frequent later on (especially in Japan and Korea).
@@ -250,8 +250,8 @@ Many words have synonyms with similar meanings that are nevertheless minutely di
 Phonograms solve this problem, letting us easily transcribe all of these words by adding a phonetic element to the semantic one.
 
 {{< figure 
-  src="img/image.png"
-  link="img/image.png"
+  src="img/image(3).png"
+  link="img/image(3).png"
 >}}
 
 An additional phonetic is often added to a semantogram to make the pronunciation clearer. For example, the word {⁠鷄⁠} ‘rooster’ started out simply as a picture of a rooster. Later on it acquired the phonetic 奚 that sounded like the word {⁠鷄⁠}. Even later, the picture of a rooster was replaced with a generic bird 鳥 because the phonetic made it redundant.
