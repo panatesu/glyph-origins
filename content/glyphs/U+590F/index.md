@@ -14,6 +14,6 @@ weight = 1
 
 {夏} \*\[g\]ˤraʔ "summer"
 
-Depiction of the sun ([日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5)) shining above a person. Later decorative 𦥑 and 夊 were added, and then [日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5) and 𦥑 were shortened.
+Depiction of the sun ([日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5)) shining above a person ([頁](https://panatesu.github.io/glyph-origins/radicals/35/#U%2b9801)). Later decorative 𦥑 and 夊 were added, and then [日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5) and 𦥑 were shortened.
 
 - 劉釗 2011 - 古文字構形學 [2nd ed.] (283-285)
