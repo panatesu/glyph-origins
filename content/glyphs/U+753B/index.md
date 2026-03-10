@@ -12,6 +12,6 @@ weight = 1
 
 </div>
 
-Shortened form of [畫](https://panatesu.github.io/glyph-origins/radicals/102/#U%2b756B) to the lower part. Modern simplified form in China and Japan.
+Shortened form of [畫](https://panatesu.github.io/glyph-origins/radicals/102/#U%2b756B) to the lower part based on the idealized form from *Shuowen Jiezi*. Modern simplified form in China and Japan.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (137)

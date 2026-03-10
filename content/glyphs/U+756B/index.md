@@ -23,4 +23,4 @@ weight = 1
 
 **Forms:**
 
-[画](https://panatesu.github.io/glyph-origins/radicals/102/#U%2b753B) - Shortening to the lower part. Modern simplified form in China and Japan.
+[画](https://panatesu.github.io/glyph-origins/radicals/102/#U%2b753B) - Shortening to the lower part based on the idealized form from *Shuowen Jiezi*. Modern simplified form in China and Japan.
