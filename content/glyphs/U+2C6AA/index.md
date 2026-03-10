@@ -14,7 +14,7 @@ weight = 6
 
 {畫} \*ɡʷˤrek "to draw"
 
-[聿](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b807F) *BRUSH* + ♪[乂](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b4E42)² \*KᵂE(K).
+[聿](https://panatesu.github.io/glyph-origins/radicals/129/#U%2b807F) *BRUSH* + ♪[乂](https://panatesu.github.io/glyph-origins/radicals/4/#U%2b4E42)² \*KᵂE(K).
 
 - 金祥恒 1971 - 說卜辭中之子畫
 - 孫常敘 1982 - 則、灋度量則、則誓三事試解》

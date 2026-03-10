@@ -14,7 +14,7 @@ weight = 1
 
 {畫} \*ɡʷˤrek "to draw"
 
-[周](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5468) *ENGRAVE*(?) + ♪[𬚪](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b2C6AA) \*GᵂEK ([聿](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b807F) *BRUSH* + ♪[乂](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b4E42)² \*KᵂE(K) for {畫}).
+[周](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5468) *ENGRAVE*(?) + ♪[𬚪](https://panatesu.github.io/glyph-origins/radicals/129/#U%2b2C6AA) \*GᵂEK ([聿](https://panatesu.github.io/glyph-origins/radicals/129/#U%2b807F) *BRUSH* + ♪[乂](https://panatesu.github.io/glyph-origins/radicals/4/#U%2b4E42)² \*KᵂE(K) for {畫}).
 
 - 金祥恒 1971 - 說卜辭中之子畫
 - 孫常敘 1982 - 則、灋度量則、則誓三事試解》
@@ -23,4 +23,4 @@ weight = 1
 
 **Forms:**
 
-[画](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b753B) - Shortening to the lower part. Modern simplified form in China and Japan.
+[画](https://panatesu.github.io/glyph-origins/radicals/102/#U%2b753B) - Shortening to the lower part. Modern simplified form in China and Japan.
