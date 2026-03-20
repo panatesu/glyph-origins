@@ -187,3 +187,58 @@ div.glyph-table>img {
 #radical-list>span {
     font-size: 1.5em;
 }
+
+/* Title bar and index */
+.title-bar {
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: var(--background-color);
+    border-bottom: 1px dashed gray;
+    padding: .5rem 0;
+}
+
+.title-bar>h1 {
+    margin: 0;
+}
+
+#index-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 2em;
+    height: 2em;
+    padding: 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background: var(--background-color);
+    color: var(--text-color);
+    cursor: pointer;
+    flex-shrink: 0;
+}
+
+#index {
+    /* Position */
+    inset: unset;
+    margin: 0;
+    position: absolute;
+    top: anchor(bottom);
+    left: anchor(left);
+    padding: 8px;
+    max-width: calc(var(--width) - 20px);
+    width: calc(100% - 55px);
+    /* Style */
+    background: #fff;
+    border: none;
+    box-shadow: 1px 1px 5px gray;
+}
+
+:target::before {
+    content: '';
+    display: block;
+    height: 3em;
+    margin-top: -3em;
+}

@@ -4,13 +4,29 @@
 
 {{ define "main" }}
 <content>
-    <h1>Radical {{ .Title }} ({{ .Weight }})</h1>
-
-    {{ .Content }}
-
     {{ $radId := .File.BaseFileName }}
     {{ $glyphs := where site.Pages "Type" "glyphs" }}
     {{ $childPages := where $glyphs "Params.radical" $radId }}
+
+    <div class="title-bar">
+        <button id="index-toggle" popovertarget="index" popovertargetaction="toggle" aria-label="Toggle index">
+            <img src="{{ .Site.BaseURL }}images/menu.svg" alt="" width="24" height="24">
+        </button>
+        <h1>Radical {{ .Title }} ({{ .Weight }})</h1>
+    </div>
+    <div id="index" popover="auto">
+        {{ range $childPages.ByWeight }}
+        {{ $id := path.Base .File.Dir }}
+        {{ $title := printf "[%s]" .Title }}
+        {{ if not .Params.title }}
+        {{ $base := path.Base .File.Dir }}
+        {{ if eq $base "." }}{{ $base = path.Base (path.Dir .File.Dir) }}{{ end }}
+        {{ $matches := findRE `^U\+([0-9A-Fa-f]{4,6})$` $base }}
+        {{ if gt (len $matches) 0 }} {{ $hex := substr $base 2 }}{{ $title = printf "&#x%s;" $hex }}{{ end }}
+        {{ end }}
+        <a href="#{{ $id }}">{{ $title | safeHTML }}</a>
+        {{ end }}
+    </div>
 
     {{ range $childPages.ByWeight }}
     <article class="glyph-entry">
@@ -26,5 +42,7 @@
     </article>
     <hr>
     {{ end }}
+    {{ $js := resources.Get "glyph-index-in-radical.js" | resources.Minify }}
+    <script src="{{ $js.RelPermalink }}" defer></script>
 </content>
 {{ end }}
