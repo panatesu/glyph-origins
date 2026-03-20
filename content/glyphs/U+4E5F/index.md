@@ -14,7 +14,7 @@ weight = 1
 
 {也} \*lajʔ "to be"
 
-Shortened form of [号](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53F7) \*LE.
+Shortened form of {{<ref "号">}} \*LE.
 
 - 黃德寬 1997 - 說“也”
 - 李家浩 2008 - 釋老簋銘文中的“⿰氵⿸虍也”字——兼談“只”字的來源

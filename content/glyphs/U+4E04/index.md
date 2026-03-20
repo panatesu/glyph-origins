@@ -5,7 +5,7 @@ radical = "1"
 
 #### 丄¹
 
-Copy of the small seal script form of [上](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E0A) from *Shuowen Jiezi*.
+Copy of the small seal script form of {{<ref "上">}} from *Shuowen Jiezi*.
 
 #### 丄²
 

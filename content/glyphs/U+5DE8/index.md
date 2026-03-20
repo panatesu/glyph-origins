@@ -14,6 +14,6 @@ radical = "48"
 
 {矩} \*kʷ(r)aʔ "carpenter's square" ♪→ {巨} \*ɡ(r)aʔ "gigantic"
 
-Depiction of a person ([大](https://panatesu.github.io/glyph-origins/radicals/37/#U%2b5927)/[夫](https://panatesu.github.io/glyph-origins/radicals/37/#U%2b592B)) holding a carpenter's square. Later shortens to a form without the person.
+Depiction of a person ({{<ref "大">}}/{{<ref "夫">}}) holding a carpenter's square. Later shortens to a form without the person.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (382-383)

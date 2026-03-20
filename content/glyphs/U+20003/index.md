@@ -5,11 +5,11 @@ radical = "1"
 
 #### 𠀃¹
 
-Transmitted ancient form of [且](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E14). Also, shortening of [且](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E14).
+Transmitted ancient form of {{<ref "且">}}. Also, shortening of {{<ref "且">}}.
 
 #### 𠀃²
 
-Shortening of [皿](https://panatesu.github.io/glyph-origins/radicals/108/#U%2b76BF) with deleting the middle vertical lines. Was included in the second round of simplification for [皿](https://panatesu.github.io/glyph-origins/radicals/108/#U%2b76BF).
+Shortening of {{<ref "皿">}} with deleting the middle vertical lines. Was included in the second round of simplification for {{<ref "皿">}}.
 
 #### 𠀃³
 

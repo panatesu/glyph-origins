@@ -14,7 +14,7 @@ weight = 1
 
 {由} \*l\[u\] "from"
 
-Shortened form of [柚](https://panatesu.github.io/glyph-origins/radicals/75/#U%2b67DA) (depiction of a pomelo tree with fruits).
+Shortened form of {{<ref "柚">}} (depiction of a pomelo tree with fruits).
 
 - 王子楊 2013 - 釋甲骨文中的“柚”
 - 鄔可晶 & 施瑞峰 2022 - 說“朕”“灷”

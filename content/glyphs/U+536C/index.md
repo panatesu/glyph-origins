@@ -14,7 +14,7 @@ weight = 1
 
 {仰} \*CV.ŋaŋʔ "to raise the head" ♪→ {卬} \*ŋˤaŋ "I, me"
 
-Depiction of a kneeling person ([卩](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5369)) whose head is being lifted up by a
+Depiction of a kneeling person ({{<ref "卩">}}) whose head is being lifted up by a
 hand.
 
 - 紀師 2021 - 釋三晋古璽中的“卬”字

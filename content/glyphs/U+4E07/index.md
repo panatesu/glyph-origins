@@ -12,6 +12,6 @@ radical = "1"
 
 </div>
 
-Shortening of [萬](https://panatesu.github.io/glyph-origins/radicals/114/#U%2b842C) based on the early cursive form. Modern simplified form of [萬](https://panatesu.github.io/glyph-origins/radicals/114/#U%2b842C) in China and Japan.
+Shortening of {{<ref "萬">}} based on the early cursive form. Modern simplified form of {{<ref "萬">}} in China and Japan.
 
 - 李洪財 2021 - 俗字演變與探源舉例二則

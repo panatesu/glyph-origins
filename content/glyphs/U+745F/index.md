@@ -14,7 +14,7 @@ weight = 1
 
 {瑟} \*\[sV.m\]ri\[t\] "*se* (musical instrument)"
 
-Initially the word {瑟} was written as a shortened form of [麗](https://panatesu.github.io/glyph-origins/radicals/198/#U%2b9E97) \*RE. Later ♪[必](https://panatesu.github.io/glyph-origins/radicals/61/#U%2b5FC5) \*MIT was added.
+Initially the word {瑟} was written as a shortened form of {{<ref "麗">}} \*RE. Later ♪{{<ref "必">}} \*MIT was added.
 
 - 郭永秉 2012 - 補說“麗”、“瑟”的會通——從《君人者何必安哉》的“⿰元元”字說起
 - 陳劍 2015 - 說“規”等字並論一些特別的形聲字意符

@@ -14,7 +14,7 @@ weight = 1
 
 {固} \*\[k\]ˤas "solid" ♪→ {古} \*kˤaʔ "old"
 
-[干](https://panatesu.github.io/glyph-origins/radicals/51/#U%2b5E72) *SHIELD* + differentiative 口.
+{{<ref "干">}} *SHIELD* + differentiative 口.
 
 - 裘錫圭 1982 - 甲骨文字考釋(續)・三、釋“弘”“強”
 - 季旭昇 2014 - 說文新證 [2nd ed.] (154-155)

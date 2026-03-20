@@ -14,6 +14,6 @@ weight = 1
 
 {㝅} \*\[k\]ˤoks "to breastfeed" ♪→ {孔} \*\[k\]ʰˤoŋʔ "hole"
 
-Depiction of a baby ([子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50)) with an open mouth turned diagonally.
+Depiction of a baby ({{<ref "子">}}) with an open mouth turned diagonally.
 
 - 張富海 2017 - 說字二則

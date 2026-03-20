@@ -14,6 +14,6 @@ weight = 1
 
 ?{鞮} \*tˤe "leather shoes" ♪→ {是} \*\[d\]eʔ "this"
 
-[止](https://panatesu.github.io/glyph-origins/radicals/77/#U%2b6B62) *FOOT* + shortened ♪[智](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b667A) \*TE.
+{{<ref "止">}} *FOOT* + shortened ♪{{<ref "智">}} \*TE.
 
 - 范天培 2020 - 清華大學藏戰國竹簡(肆)～(柒)字根研究

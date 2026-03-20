@@ -16,7 +16,7 @@ weight = 1
 
 {告} \*kˤuks "to report"
 
-Shortened [壴](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58F4) *DRUM* + differentiative 口.
+Shortened {{<ref "壴">}} *DRUM* + differentiative 口.
 
 - 陳美蘭 2013 - 說“告”
 
@@ -24,6 +24,6 @@ Shortened [壴](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58F4) 
 
 ?{造} \*(mə.)tsʰˤus "to go to"
 
-♪[屮](https://panatesu.github.io/glyph-origins/radicals/45/#U%2b5C6E) \*TSU + differentiative 口.
+♪{{<ref "屮">}} \*TSU + differentiative 口.
 
 - 陳劍 2006 - 釋造

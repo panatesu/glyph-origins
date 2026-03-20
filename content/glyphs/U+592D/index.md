@@ -14,7 +14,7 @@ weight = 1
 
 {腰} \*ʔew "waist" ♪→ {夭} \*ʔ(r)auʔ "to die young"
 
-Depiction of a person ([大](https://panatesu.github.io/glyph-origins/radicals/37/#U%2b5927)) with a pointing line on his waist.
+Depiction of a person ({{<ref "大">}}) with a pointing line on his waist.
 
 - 謝明文 2013 - 釋金文中的“鋈”字
 

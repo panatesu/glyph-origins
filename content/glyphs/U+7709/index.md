@@ -14,6 +14,6 @@ weight = 1
 
 {眉} \*rməj "eyebrow"
 
-Depiction of an eye ([目](https://panatesu.github.io/glyph-origins/radicals/109/#U%2b76EE)) with the eyebrows.
+Depiction of an eye ({{<ref "目">}}) with the eyebrows.
 
 - 季旭昇 2014 - 說文新證 [2nd ed.] (270-271)

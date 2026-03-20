@@ -14,6 +14,6 @@ weight = 1
 
 {鴇} \*pˤuʔ "bustard"
 
-[鳥](https://panatesu.github.io/glyph-origins/radicals/196/#U%2b9CE5) *BIRD* + ♪[瓜](https://panatesu.github.io/glyph-origins/radicals/97/#U%2b74DC) \*PU.
+{{<ref "鳥">}} *BIRD* + ♪{{<ref "瓜">}} \*PU.
 
 - 陳劍 2020 - 釋“瓜”

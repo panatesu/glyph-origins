@@ -14,6 +14,6 @@ weight = 1
 
 {圓} \*\[w\]ran "round" ♪→ {員} \*\[w\]ran "member"
 
-[鼎](https://panatesu.github.io/glyph-origins/radicals/206/#U%2b9F0E) *CAULDRON* (because of its roundness) (\> 貝) + ♪[〇](https://panatesu.github.io/glyph-origins/radicals/215/#U%2b3007)² \*\[W\]AN.
+{{<ref "鼎">}} *CAULDRON* (because of its roundness) (\> 貝) + ♪{{<ref "〇">}}² \*\[W\]AN.
 
 - 裘錫圭 2013 - 文字學概要 \[2nd ed.\] \[2021 form.\] (157)

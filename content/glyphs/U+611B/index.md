@@ -14,11 +14,11 @@ weight = 1
 
 {愛} \*qˤə[p]s "to love"
 
-[心](https://panatesu.github.io/glyph-origins/radicals/61/#U%2b5FC3) *HEART* + ♪[旡](https://panatesu.github.io/glyph-origins/radicals/71/#U%2b65E1). Later decorative 夂 was added to [旡](https://panatesu.github.io/glyph-origins/radicals/71/#U%2b65E1).
+{{<ref "心">}} *HEART* + ♪{{<ref "旡">}}. Later decorative 夂 was added to {{<ref "旡">}}.
 
 - 陳劍 2011 - 孔家坡漢簡的“祟”字
 - 禤健聰 2016 - 楚簡文字與《說文》互證舉例
 
 **Forms:**
 
-[爱](https://panatesu.github.io/glyph-origins/radicals/87/#U%2b7231) - Shortening based on the cursive form. Modern simplified form in China.
+{{<ref "爱">}} - Shortening based on the cursive form. Modern simplified form in China.

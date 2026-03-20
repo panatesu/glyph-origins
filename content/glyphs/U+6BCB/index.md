@@ -14,6 +14,6 @@ weight = 1
 
 {毋} \*m\[o\] "do not"
 
-Differentiated form of [母](https://panatesu.github.io/glyph-origins/radicals/80/#U%2b6BCD) \*MƏ.
+Differentiated form of {{<ref "母">}} \*MƏ.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (854)

@@ -12,6 +12,6 @@ weight = 1
 
 </div>
 
-Shortening of [愛](https://panatesu.github.io/glyph-origins/radicals/61/#U%2b611B) based on the cursive form. Modern simplified form of [愛](https://panatesu.github.io/glyph-origins/radicals/61/#U%2b611B) in China.
+Shortening of {{<ref "愛">}} based on the cursive form. Modern simplified form of {{<ref "愛">}} in China.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (36)

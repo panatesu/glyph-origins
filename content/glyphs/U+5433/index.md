@@ -20,6 +20,6 @@ Uncertain. Probably depiction of a person with an indicative circle on his jaw/n
 
 **Forms:**
 
-[吴](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5434) - Alternative form. Standard form in PRC.
+{{<ref "吴">}} - Alternative form. Standard form in PRC.
 
-[呉](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5449) - Alternative form. Standard form in Japan.
+{{<ref "呉">}} - Alternative form. Standard form in Japan.

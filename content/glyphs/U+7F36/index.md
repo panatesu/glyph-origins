@@ -14,6 +14,6 @@ weight = 1
 
 {缶} \*p(r)uʔ "*fou* vessel"
 
-♪[午](https://panatesu.github.io/glyph-origins/radicals/24/#U%2b5348)² \*PU (depiction of a drumstick for {枹/桴} \*\[b\](r)u "drumstick") + differentiative 口.
+♪{{<ref "午">}}² \*PU (depiction of a drumstick for {枹/桴} \*\[b\](r)u "drumstick") + differentiative 口.
 
 - 復旦大學出土文獻與古文字研究中心 (ed.) 2024 - 出土文獻與古文字教程 (11-12)

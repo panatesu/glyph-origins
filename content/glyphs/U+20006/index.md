@@ -5,8 +5,8 @@ radical = "1"
 
 #### 𠀆¹
 
-Shortening of [串](https://panatesu.github.io/glyph-origins/radicals/2/#U%2b4E32).
+Shortening of {{<ref "串">}}.
 
 #### 𠀆²
 
-Alternative form of [𬌩](https://panatesu.github.io/glyph-origins/radicals/94/#U%2b2C329).
+Alternative form of {{<ref "𬌩">}}.

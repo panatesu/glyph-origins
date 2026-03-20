@@ -14,7 +14,7 @@ weight = 1
 
 {保} \*pˤuʔ "to protect"
 
-Depiction of a person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)) holding a child ([子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50)) behing his back.
+Depiction of a person ({{<ref "人">}}) holding a child ({{<ref "子">}}) behing his back.
 
 - 唐蘭 1935 - 殷虛文字記・釋保
 - 謝明文 2015 - 釋甲骨文中的“抱”——兼論“包”字

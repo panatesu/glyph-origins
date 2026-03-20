@@ -14,6 +14,6 @@ weight = 1
 
 {延} \*la\[n\] "to extend"
 
-Depiction of a foot ([止](https://panatesu.github.io/glyph-origins/radicals/77/#U%2b6B62)) on a road ([行](https://panatesu.github.io/glyph-origins/radicals/144/#U%2b884C)/[彳](https://panatesu.github.io/glyph-origins/radicals/60/#U%2b5F73)).
+Depiction of a foot ({{<ref "止">}}) on a road ({{<ref "行">}}/{{<ref "彳">}}).
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (136-138)

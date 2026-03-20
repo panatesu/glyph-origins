@@ -14,6 +14,6 @@ weight = 1
 
 {於} \*[ʔ]a "in; at; on"
 
-Differentiated form of [烏](https://panatesu.github.io/glyph-origins/radicals/86/#U%2b70CF) \*ɁA.
+Differentiated form of {{<ref "烏">}} \*ɁA.
 
 - 季旭昇 2014 - 說文新證 [2nd ed.] (309-310)

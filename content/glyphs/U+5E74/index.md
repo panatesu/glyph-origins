@@ -14,7 +14,7 @@ weight = 1
 
 {年} \*CV.nˤiŋ "harvest"
 
-[禾](https://panatesu.github.io/glyph-origins/radicals/115/#U%2b79BE) *GRAIN* + ♪[人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) \*NIŊ (\> 千).
+{{<ref "禾">}} *GRAIN* + ♪{{<ref "人">}} \*NIŊ (\> 千).
 
 - 李孝定 1982 - 金文詁林讀後記
 - 張世超 & al. 1996 - 金文形義通解 (1786-1787)

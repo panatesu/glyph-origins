@@ -14,12 +14,12 @@ weight = 1
 
 {噎} \*qˤi\[k\] "to choke" ♪→ {一/壹} \*ʔit "one"
 
-Shortened form of [㱅](https://panatesu.github.io/glyph-origins/radicals/76/#U%2b3C45) (depiction of a person with something stuck in his mouth for {噎}). Later ♪[吉](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5409) \*KIT was added.
+Shortened form of {{<ref "㱅">}} (depiction of a person with something stuck in his mouth for {噎}). Later ♪{{<ref "吉">}} \*KIT was added.
 
 - 蔣玉斌 2013 - 甲骨綴合所得新字新形研究
 
 **Forms:**
 
-[壱](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58F1) - Shortening based on the cursive form. Modern simplified form in Japan.
+{{<ref "壱">}} - Shortening based on the cursive form. Modern simplified form in Japan.
 
   

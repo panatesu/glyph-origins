@@ -14,6 +14,6 @@ weight = 1
 
 {孕} \*l\[i\]ŋs "to be pregnant"
 
-Depiction of a person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)/[女](https://panatesu.github.io/glyph-origins/radicals/38/#U%2b5973)) with a child ([子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50)) in his belly.
+Depiction of a person ({{<ref "人">}}/{{<ref "女">}}) with a child ({{<ref "子">}}) in his belly.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (971)

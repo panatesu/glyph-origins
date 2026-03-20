@@ -14,6 +14,6 @@ weight = 1
 
 {戍} \*\[C̥.n\]os "to guard the border"
 
-A person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)) with a glaive ([戈](https://panatesu.github.io/glyph-origins/radicals/62/#U%2b6208)) on his back.
+A person ({{<ref "人">}}) with a glaive ({{<ref "戈">}}) on his back.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (863-864)

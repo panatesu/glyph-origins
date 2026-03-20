@@ -5,7 +5,7 @@ weight = 1
 
 #### 歹¹
 
-Shortening of [死](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B7B) used in compound glyphs as a semantic *DIE*.
+Shortening of {{<ref "死">}} used in compound glyphs as a semantic *DIE*.
 
 #### 歹²
 

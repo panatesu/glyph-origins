@@ -14,7 +14,7 @@ weight = 1
 
 {(菩)薩} *(bu)sat* "bodhisattva"
 
-Assimilated form of [薛](https://panatesu.github.io/glyph-origins/radicals/140/#U%2b859B) from 薛埵 \*siat.tuɑjᴮ "sattva" via adding [土](https://panatesu.github.io/glyph-origins/radicals/32/#U%2b571F) from [埵](https://panatesu.github.io/glyph-origins/radicals/32/#U%2b57F5) to the bottom right. The appearence of [生](https://panatesu.github.io/glyph-origins/radicals/100/#U%2b751F) "to live" (\> 產) in the bottom right part is probably influenced by Sanskrit *sat* "existing; living".
+Assimilated form of {{<ref "薛">}} from 薛埵 \*siat.tuɑjᴮ "sattva" via adding {{<ref "土">}} from {{<ref "埵">}} to the bottom right. The appearence of {{<ref "生">}} "to live" (\> 產) in the bottom right part is probably influenced by Sanskrit *sat* "existing; living".
 
 - 岩松浅夫 1991 - 「薩」字の成立とその變遷
 - 張涌泉 2010 - 漢語俗字研究 \[2nd ed.\] (180)

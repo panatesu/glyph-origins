@@ -14,7 +14,7 @@ weight = 1
 
 ?{㘈} \*\[ŋ\](r)ək "smart child" ♪→ {疑} \*\[ŋ\](r)ə "to doubt"
 
-Initally the word {疑} was written as [𠤗](https://panatesu.github.io/glyph-origins/radicals/21/#U%2b20917) (depiction of a person with a cane (\> 止) looking around); sometimes [彳](https://panatesu.github.io/glyph-origins/radicals/60/#U%2b5F73) *ROAD* and ♪[牛](https://panatesu.github.io/glyph-origins/radicals/93/#U%2b725B) \*ŊᵂƏ were added. The modern glyph comes either from [子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50) *CHILD* + ♪[𠤗](https://panatesu.github.io/glyph-origins/radicals/21/#U%2b20917) \*ŊƏ for the word {㘈} or from the distortion [牛](https://panatesu.github.io/glyph-origins/radicals/93/#U%2b725B) \> 子.
+Initally the word {疑} was written as {{<ref "𠤗">}} (depiction of a person with a cane (\> 止) looking around); sometimes {{<ref "彳">}} *ROAD* and ♪{{<ref "牛">}} \*ŊᵂƏ were added. The modern glyph comes either from {{<ref "子">}} *CHILD* + ♪{{<ref "𠤗">}} \*ŊƏ for the word {㘈} or from the distortion {{<ref "牛">}} \> 子.
 
 - 陳志向 2017 - 利用古文字資料研究《說文》諧聲及相關問題
 - 顧王樂 2020 - 清末民國時期利用古文字資料校證《說文》之研究

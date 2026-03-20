@@ -14,6 +14,6 @@ weight = 1
 
 {尾} \*\[m\]әjʔ "tail"
 
-Depiction of a person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) \> 尸) with a tail-like accessory (symbol of a low class).
+Depiction of a person ({{<ref "人">}} \> 尸) with a tail-like accessory (symbol of a low class).
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (679-680)

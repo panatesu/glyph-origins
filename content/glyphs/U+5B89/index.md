@@ -16,7 +16,7 @@ weight = 1
 
 {安} \*ʔˤan "to sit"
 
-Initially the word {安} was written as [𱙁](https://panatesu.github.io/glyph-origins/radicals/38/#U%2b31641) or [⿱卩一](https://panatesu.github.io/glyph-origins/radicals/215/#%E2%BF%B1%E5%8D%A9%E4%B8%80) (depiction of a kneeling person ([女](https://panatesu.github.io/glyph-origins/radicals/38/#U%2b5973)/[卩](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5369)) with a line under his buttocks, either conveying the idea of sitting or representing a mat). Later [宀](https://panatesu.github.io/glyph-origins/radicals/40/#U%2b5B80) *ROOM* was added.
+Initially the word {安} was written as {{<ref "𱙁">}} or {{<ref "⿱卩一">}} (depiction of a kneeling person ({{<ref "女">}}/{{<ref "卩">}}) with a line under his buttocks, either conveying the idea of sitting or representing a mat). Later {{<ref "宀">}} *ROOM* was added.
 
 - 陳劍 2005 - 說“安”字
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (592-593)
@@ -25,6 +25,6 @@ Initially the word {安} was written as [𱙁](https://panatesu.github.io/glyph-
 
 {賓} \*pin "guest"
 
-Depiction of a kneeling person ([女](https://panatesu.github.io/glyph-origins/radicals/38/#U%2b5973)) inside a room ([宀](https://panatesu.github.io/glyph-origins/radicals/40/#U%2b5B80)).
+Depiction of a kneeling person ({{<ref "女">}}) inside a room ({{<ref "宀">}}).
 
 - 陳劍 2005 - 說“安”字

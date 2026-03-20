@@ -7,7 +7,7 @@ weight = 1
 
 Uncertain. Either an abstract depiction of wind/air or a shortened form of ⿰奚戌 \*KƏT (depiction of a slave being decapitated for {刏} \*\[C.q\]ˤə\[t\]s "to cut off").
 
-Modern simplified form of [氣](https://panatesu.github.io/glyph-origins/radicals/84/#U%2b6C23) in China.
+Modern simplified form of {{<ref "氣">}} in China.
 
 - 季旭昇 2014 - 說文新證 [2nd ed.] (58-59)
 - 林澐 2022 - 甲骨文“气”字補說

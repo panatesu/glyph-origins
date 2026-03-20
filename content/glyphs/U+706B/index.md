@@ -14,6 +14,6 @@ weight = 1
 
 {火} \*s.mˤəjʔ "fire"
 
-Depiction of a flame. Later decorative dots were added (probably to differentiate it from [山](https://panatesu.github.io/glyph-origins/radicals/46/#U%2b5C71)).
+Depiction of a flame. Later decorative dots were added (probably to differentiate it from {{<ref "山">}}).
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (753)

@@ -14,7 +14,7 @@ weight = 1
 
 ?{如} \*na "to obey" ♪→ {女} \*nraʔ "woman" & {母} \*mˤəʔ "mother"
 
-Depiction of a kneeling person with crossed arms. Later a decorative line was added. Initially it was used for both words {女} and {母}. Later after the glyph [母](https://panatesu.github.io/glyph-origins/radicals/80/#U%2b6BCD) was created, 女 began to be used only for {女}.
+Depiction of a kneeling person with crossed arms. Later a decorative line was added. Initially it was used for both words {女} and {母}. Later after the glyph {{<ref "母">}} was created, 女 began to be used only for {女}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (848)
 - 姚孝遂 1989 - 再論古漢字的性質

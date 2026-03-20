@@ -14,9 +14,8 @@ weight = 1
 
 {旬} \*\[sN.qʷ\]i\[n\] "ten days"
 
-[日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5) *DAY* + ♪[〾勹](https://panatesu.github.io/glyph-origins/radicals/215/#%E3%80%BE%E5%8B%B9) \*QʷIN  (\> 勹) (depiction of an eye with a spiral for {眴} \*N.qʷˤi\[n\]s "eyesight dimmed").
+{{<ref "日">}} *DAY* + ♪{{<ref "〾勹">}} \*QʷIN  (\> 勹) (depiction of an eye with a spiral for {眴} \*N.qʷˤi\[n\]s "eyesight dimmed").
 
 - 裘錫圭 1990 - 殷墟甲骨文字考釋(七篇)・五、釋勻
 - 鄔可晶 2019 - 說“回”
 - 張卉、呉毅強 2024 - 甲骨文舊釋“蜀”字平議兼論“旬”字構形
-

@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-Shortening of [馬](https://panatesu.github.io/glyph-origins/radicals/187/#U%2b99AC) based on the cursive form. Modern simplified form of [馬](https://panatesu.github.io/glyph-origins/radicals/187/#U%2b99AC) in China.
+Shortening of {{<ref "馬">}} based on the cursive form. Modern simplified form of {{<ref "馬">}} in China.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (212)
 

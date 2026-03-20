@@ -11,5 +11,5 @@ Depiction of a chariot.
 
 **Forms:**
 
-[车](https://panatesu.github.io/glyph-origins/radicals/159/#U%2b8F66) - Shortening based on the cursive form. Modern simplified form in
+{{<ref "车">}} - Shortening based on the cursive form. Modern simplified form in
 China.

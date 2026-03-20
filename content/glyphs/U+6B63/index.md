@@ -14,6 +14,6 @@ weight = 1
 
 {征} \*teŋ "to go on a punitive expedition" ♪→ {正} \*teŋs "correct"
 
-[止](https://panatesu.github.io/glyph-origins/radicals/77/#U%2b6B62) *FOOT* + ♪[丁](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E01) \*TEŊ.
+{{<ref "止">}} *FOOT* + ♪{{<ref "丁">}} \*TEŊ.
 
 - 劉釗 2011 - 古文字構形學 \[2nd ed.\] (93)

@@ -14,6 +14,6 @@ weight = 1
 
 {屈} \*Nə.\[kʰ\]ut "short (tail)" ♪→ {屈} \*\[kʰ\]ut "to bend"
 
-[尾](https://panatesu.github.io/glyph-origins/radicals/44/#U%2b5C3E) *TAIL* + ♪[出](https://panatesu.github.io/glyph-origins/radicals/17/#U%2b51FA) \*KUT.
+{{<ref "尾">}} *TAIL* + ♪{{<ref "出">}} \*KUT.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (680-681)

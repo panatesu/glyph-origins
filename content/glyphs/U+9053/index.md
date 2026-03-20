@@ -14,6 +14,6 @@ weight = 1
 
 {道} \*\[kə.l\]ˤuʔ "way"
 
-[辵](https://panatesu.github.io/glyph-origins/radicals/162/#U%2b8FB5) *MOVE* + ♪[首](https://panatesu.github.io/glyph-origins/radicals/185/#U%2b9996) \*LU.
+{{<ref "辵">}} *MOVE* + ♪{{<ref "首">}} \*LU.
 
 - 黃德寬 (ed.) 2007 - 古文字譜系疏證 (535-536)

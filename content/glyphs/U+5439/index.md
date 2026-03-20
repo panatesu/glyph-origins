@@ -7,7 +7,7 @@ weight = 1
 
 {吹} \*\[tʰ\]o\[r\] "to blow"
 
-Initially the word {吹} was written as [炊](https://panatesu.github.io/glyph-origins/radicals/86/#U%2b708A). Later the left element was replaced with [口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3) *MOUTH*.
+Initially the word {吹} was written as {{<ref "炊">}}. Later the left element was replaced with {{<ref "口">}} *MOUTH*.
 
 - 陳聞達 2024 - 說“足”字的形體來源兼論相關問題
 
@@ -15,7 +15,7 @@ Initially the word {吹} was written as [炊](https://panatesu.github.io/glyph-o
 
 {欠} \*kʰams "to yawn"
 
-Either [口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3) *MOUTH* + shortened ♪[坎](https://panatesu.github.io/glyph-origins/radicals/32/#U%2b574E) \*KƏM or shortened form of [𲊩](https://panatesu.github.io/glyph-origins/radicals/180/#U%2b322A9) ([口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3) *MOUTH* + [𮲾](https://panatesu.github.io/glyph-origins/radicals/76/#U%2b2ECBE) (distorted form of [𬔧](https://panatesu.github.io/glyph-origins/radicals/117/#U%2b2C527) created for {贛} \*kʰˤəmʔ "to bestow")).
+Either {{<ref "口">}} *MOUTH* + shortened ♪{{<ref "坎">}} \*KƏM or shortened form of {{<ref "𲊩">}} ({{<ref "口">}} *MOUTH* + {{<ref "𮲾">}} (distorted form of {{<ref "𬔧">}} created for {贛} \*kʰˤəmʔ "to bestow")).
 
 - 布之道 2025 - 說字小記(一)
 
@@ -32,6 +32,6 @@ Either [口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3) *MO
 
 {足} \*\[ts\]ok "to fulfill"
 
-Unclear. A person with an open mouth ([欠](https://panatesu.github.io/glyph-origins/radicals/76/#U%2b6B20)) facing mouth ([口](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b53E3)), sometimes with some particles. The modern form is a *liding*.
+Unclear. A person with an open mouth ({{<ref "欠">}}) facing mouth ({{<ref "口">}}), sometimes with some particles. The modern form is a *liding*.
 
 - 陳聞達 2024 - 說“足”字的形體來源兼論相關問題

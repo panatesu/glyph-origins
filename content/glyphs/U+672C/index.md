@@ -14,6 +14,6 @@ weight = 1
 
 {本} \*C.pˤə\[n\]ʔ "root"
 
-Depiction of a tree ([木](https://panatesu.github.io/glyph-origins/radicals/75/#U%2b6728)) with an indicative dot on its roots.
+Depiction of a tree ({{<ref "木">}}) with an indicative dot on its roots.
 
 - 季旭昇 2014 - 說文新證 [2nd ed.] (484-485)

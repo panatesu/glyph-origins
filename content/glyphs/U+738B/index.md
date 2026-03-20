@@ -14,7 +14,7 @@ weight = 1
 
 {王} \*\[w\]aŋ "king" & {士} \*\[dz\]rəʔ "knight"
 
-[士](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58EB) + differentiative dot. Initially it was used for both words {王} and {士}. Later it began to be used only for {王}.
+{{<ref "士">}} + differentiative dot. Initially it was used for both words {王} and {士}. Later it began to be used only for {王}.
 
 - 林澐 1965 - 說王
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (51-53)

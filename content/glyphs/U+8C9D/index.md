@@ -11,4 +11,4 @@ Depiction of a cowrie shell.
 
 **Forms:**
 
-[贝](https://panatesu.github.io/glyph-origins/radicals/154/#U%2b8D1D) - Shortening based on the cursive form. Modern simplified form in China.
+{{<ref "贝">}} - Shortening based on the cursive form. Modern simplified form in China.

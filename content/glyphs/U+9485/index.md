@@ -12,6 +12,6 @@ weight = 1
 
 </div>
 
-Shortening of [金](https://panatesu.github.io/glyph-origins/radicals/167/#U%2b91D1) based on the cursive form in the left part of compound glyphs. Modern simplified form of [金](https://panatesu.github.io/glyph-origins/radicals/167/#U%2b91D1) in China.
+Shortening of {{<ref "金">}} based on the cursive form in the left part of compound glyphs. Modern simplified form of {{<ref "金">}} in China.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (163-164)

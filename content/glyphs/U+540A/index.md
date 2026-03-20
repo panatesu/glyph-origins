@@ -14,6 +14,6 @@ weight = 1
 
 {吊/弔} \*tˤ\[e\]wks "to hang"
 
-Differentiated form of [弔](https://panatesu.github.io/glyph-origins/radicals/57/#U%2b5F14).
+Differentiated form of {{<ref "弔">}}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (638-640)

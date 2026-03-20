@@ -14,4 +14,4 @@ weight = 1
 
 {腦} \*nˤ\[u\]ʔ "brain"
 
-[肉](https://panatesu.github.io/glyph-origins/radicals/130/#U%2b8089) *FLESH* + ♪[𡿺](https://panatesu.github.io/glyph-origins/radicals/47/#U%2b21FFA) \*NU.
+{{<ref "肉">}} *FLESH* + ♪{{<ref "𡿺">}} \*NU.

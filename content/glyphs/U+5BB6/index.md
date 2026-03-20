@@ -14,7 +14,7 @@ weight = 1
 
 {家} \*kˤra "home"
 
-[宀](https://panatesu.github.io/glyph-origins/radicals/40/#U%2b5B80) *ROOM* + ♪[𢑓](https://panatesu.github.io/glyph-origins/radicals/58/#U%2b22453) \*KA (\> 豕).
+{{<ref "宀">}} *ROOM* + ♪{{<ref "𢑓">}} \*KA (\> 豕).
 
 - 唐蘭 1935 - 天壌閣甲骨文存考釋 (35)
 - 黃德寬 (ed.) 2007 - 古文字譜系疏證 (1358-1360)

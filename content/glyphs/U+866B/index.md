@@ -13,6 +13,6 @@ Depiction of a small snake.
 
 #### 虫²
 
-Shortening of [蟲](https://panatesu.github.io/glyph-origins/radicals/142/#U%2b87F2) to the upper part. Modern simplified form of [蟲](https://panatesu.github.io/glyph-origins/radicals/142/#U%2b87F2) in China and Japan.
+Shortening of {{<ref "蟲">}} to the upper part. Modern simplified form of {{<ref "蟲">}} in China and Japan.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (73)

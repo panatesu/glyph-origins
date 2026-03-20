@@ -1,0 +1,11 @@
+{{- $id := .Get 0 -}}
+{{- $glyph := .Site.GetPage (printf "glyphs/%s" $id) -}}
+{{- if not $glyph -}}
+{{- $id = strings.ReplaceRE `^"\\U0*([1-9A-F][0-9A-F]+)"$` `U+$1` (upper (printf "%+q" $id)) -}}
+{{- $glyph = .Site.GetPage (printf "glyphs/%s" $id) -}}
+{{- end -}}
+{{- if $glyph -}}
+<a href="{{.Site.BaseURL}}radicals/{{ $glyph.Params.radical }}/#{{ $id }}">{{ .Get 0 }}</a>
+{{- else -}}
+<a class="missing-reference">{{ .Get 0 }}</a>
+{{- end -}}

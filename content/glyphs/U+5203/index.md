@@ -14,6 +14,6 @@ weight = 1
 
 {刃} \*nə[n]s "blade"
 
-Depiction of a knife ([刀](https://panatesu.github.io/glyph-origins/radicals/18/#U%2b5200)) with an indicative line over its blade.
+Depiction of a knife ({{<ref "刀">}}) with an indicative line over its blade.
 
 - 季旭昇 2014 - 說文新證 [2nd ed.] (360)

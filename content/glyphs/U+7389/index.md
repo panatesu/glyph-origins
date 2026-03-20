@@ -14,10 +14,10 @@ weight = 1
 
 {玉} \*ŋ(r)ok "jade"
 
-Depiction of a bundle of jades. Later a differentiative dot was added to differentiate it from [王](https://panatesu.github.io/glyph-origins/radicals/96/#U%2b738B).
+Depiction of a bundle of jades. Later a differentiative dot was added to differentiate it from {{<ref "王">}}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (54-55)
 
 **Forms:**
 
-[𠀛](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b2001B) - Copy of a transmitted ancient form.
+{{<ref "𠀛">}} - Copy of a transmitted ancient form.

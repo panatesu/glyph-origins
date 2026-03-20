@@ -14,7 +14,7 @@ weight = 1
 
 {庥} \*\[C̥.n\]u "tree shade" / (♪→) {休} \*\[C̥.n\]u "to rest"
 
-Depiction of a person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)) in a tree shade ([𥝌](https://panatesu.github.io/glyph-origins/radicals/115/#U%2b2574C) \> 木).
+Depiction of a person ({{<ref "人">}}) in a tree shade ({{<ref "𥝌">}} \> 木).
 
 - 裘錫圭 2013 - 文字學概要 \[2nd ed.\] \[2021 form.\] (193-195)
 - 王子楊 2016 - 釋花東甲骨卜辭中的“𥝌”

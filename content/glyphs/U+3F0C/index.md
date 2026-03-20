@@ -14,6 +14,6 @@ weight = 2
 
 {卣} \*lu(ʔ) “*you* vessel” ♪→ {㼌} \*loʔ "weak"
 
-Two [瓜](https://panatesu.github.io/glyph-origins/radicals/97/#U%2b74DC) \*LU.
+Two {{<ref "瓜">}} \*LU.
 
 - 陳劍 2020 - 釋“瓜”

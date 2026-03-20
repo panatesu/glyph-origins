@@ -14,6 +14,6 @@ weight = 1
 
 {足} \*\[ts\]ok "to fulfill" / {足} \*\[ts\]ok "foot"
 
-Shortened form of [𧿞](https://panatesu.github.io/glyph-origins/radicals/157/#U%2b27FDE) ([吹](https://panatesu.github.io/glyph-origins/radicals/30/#U%2b5439)³ + decorative [止](https://panatesu.github.io/glyph-origins/radicals/77/#U%2b6B62)).
+Shortened form of {{<ref "𧿞">}} ({{<ref "吹">}}³ + decorative {{<ref "止">}}).
 
 - 陳聞達 2024 - 說“足”字的形體來源兼論相關問題

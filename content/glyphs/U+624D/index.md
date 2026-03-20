@@ -14,7 +14,7 @@ weight = 1
 
 {才} \*\[dz\]ˁə "talent"
 
-Differentiated form of [弋](https://panatesu.github.io/glyph-origins/radicals/56/#U%2b5F0B) \*LƏK. The phonetic relationship is unknown.
+Differentiated form of {{<ref "弋">}} \*LƏK. The phonetic relationship is unknown.
 
 - 陳劍 2006 - 釋造
 - 季旭昇 2017 - 從出土材料談「才」字——兼談《易經》「三才」

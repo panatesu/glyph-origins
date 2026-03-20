@@ -14,18 +14,18 @@ Depiction of a bundle of threads (without the upper knot). Initially it was used
 
 **Forms:**
 
-[纟](https://panatesu.github.io/glyph-origins/radicals/120/#U%2b7E9F) - Shortening based on the cursive form in the left part of compound glyphs. Modern simplified form in China.
+{{<ref "纟">}} - Shortening based on the cursive form in the left part of compound glyphs. Modern simplified form in China.
 
 #### 糸²
 
 \*{糸} \*mˤek "silk thread"
 
-Shortening of [絲](https://panatesu.github.io/glyph-origins/radicals/120/#U%2b7D72). Created for *Shuowen Jiezi* to differentiate 糸 from [絲](https://panatesu.github.io/glyph-origins/radicals/120/#U%2b7D72).
+Shortening of {{<ref "絲">}}. Created for *Shuowen Jiezi* to differentiate 糸 from {{<ref "絲">}}.
 
 - 田煒 2016 - 西周金文字詞關係研究 (35-43)
 
 #### 糸³
 
-Shortening of [絲](https://panatesu.github.io/glyph-origins/radicals/120/#U%2b7D72). Modern simplified form in Japan.
+Shortening of {{<ref "絲">}}. Modern simplified form in Japan.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (278)

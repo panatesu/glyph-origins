@@ -14,6 +14,6 @@ weight = 1
 
 {昔} \*\[s\]ak "the past"
 
-[日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5) *DAY* + ♪[𠈌](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b2020C)² \*(T)SAK (depiction of cracks for {皵} \*tsʰak "to crack").
+{{<ref "日">}} *DAY* + ♪{{<ref "𠈌">}}² \*(T)SAK (depiction of cracks for {皵} \*tsʰak "to crack").
 
 - 陳劍 2021 - 說「昔」字並論「𡿧」形的真正來源

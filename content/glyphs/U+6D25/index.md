@@ -14,7 +14,7 @@ weight = 1
 
 {津} \*\[ts\]i\[n\] "ford"
 
-[水](https://panatesu.github.io/glyph-origins/radicals/85/#U%2b6C34) *WATER* + ♪[𦘔](https://panatesu.github.io/glyph-origins/radicals/129/#U%2b26614) \*TSIN (\> 聿).
+{{<ref "水">}} *WATER* + ♪{{<ref "𦘔">}} \*TSIN (\> 聿).
 
 - 林志強 & al. (ed.) 2017 - 《文源》評注 (607)
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (218-219)

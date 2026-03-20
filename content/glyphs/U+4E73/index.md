@@ -14,7 +14,7 @@ weight = 1
 
 {乳} \*noʔ "to breastfeed"
 
-Depiction of a woman ([女](https://panatesu.github.io/glyph-origins/radicals/38/#U%2b5973)) breastfeeding a child ([子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50)).
+Depiction of a woman ({{<ref "女">}}) breastfeeding a child ({{<ref "子">}}).
 
 - 趙平安 2011 - 釋戰國文字中的“乳”字
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (827-828)

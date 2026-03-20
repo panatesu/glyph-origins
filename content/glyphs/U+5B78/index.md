@@ -14,10 +14,10 @@ weight = 1
 
 {學} \*m.kˤruk "to study" & {教} \*s.\[k\]ˤraw "to teach"
 
-Initially the word {學} was written as [⿱𦥑宀](https://panatesu.github.io/glyph-origins/radicals/215/#%E2%BF%B1%F0%A6%A5%91%E5%AE%80) or [⿱宀𠬞](https://panatesu.github.io/glyph-origins/radicals/215/#%E2%BF%B1%E5%AE%80%F0%A0%AC%9E) ([宀](https://panatesu.github.io/glyph-origins/radicals/40/#U%2b5B80) *ROOM* + [𦥑](https://panatesu.github.io/glyph-origins/radicals/134/#U%2b26951)/[𠬞](https://panatesu.github.io/glyph-origins/radicals/29/#U%2b20B1E) ♪\*KUK (depiction of both hands holding something for {掬} \*kuk "to hold with both hands")). Later ♪[爻](https://panatesu.github.io/glyph-origins/radicals/89/#U%2b723B)/[㐅](https://panatesu.github.io/glyph-origins/radicals/4/#U%2b3405)² \*KAW used for {教} was added, fusing the glyphs so it could be used for both words {學} and {教}. Later [子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50) *CHILD* was added. After the glyph [教](https://panatesu.github.io/glyph-origins/radicals/66/#U%2b6559) was created, 學 began to be used only for {學}.
+Initially the word {學} was written as {{<ref "⿱𦥑宀">}} or {{<ref "⿱宀𠬞">}} ({{<ref "宀">}} *ROOM* + {{<ref "𦥑">}}/{{<ref "𠬞">}} ♪\*KUK (depiction of both hands holding something for {掬} \*kuk "to hold with both hands")). Later ♪{{<ref "爻">}}/{{<ref "㐅">}}² \*KAW used for {教} was added, fusing the glyphs so it could be used for both words {學} and {教}. Later {{<ref "子">}} *CHILD* was added. After the glyph {{<ref "教">}} was created, 學 began to be used only for {學}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (247-248)
 
 **Forms:**
 
-[学](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B66) - Shortening based on the cursive form. Modern simplified form in China and Japan.
+{{<ref "学">}} - Shortening based on the cursive form. Modern simplified form in China and Japan.

@@ -14,7 +14,7 @@ weight = 1
 
 {在} \*\[dz\]ˤəʔ "to exist"
 
-♪[才](https://panatesu.github.io/glyph-origins/radicals/64/#U%2b624D) \*TSƏ + ♪[士](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58EB) \*TSƏ.
+♪{{<ref "才">}} \*TSƏ + ♪{{<ref "士">}} \*TSƏ.
 
 - 劉釗 2011 - 古文字構形學 \[2nd ed.\] (83-84)
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (908)

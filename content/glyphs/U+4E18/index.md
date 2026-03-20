@@ -11,8 +11,8 @@ Depiction of two mountain peaks.
 
 **Forms:**
 
-[丠](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E20) [丛](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E1B) [𠀌](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b2000C) [㐀](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b3400) [业](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E1A) [𠀜](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b2001C) - Copy of the small seal script form from *Shuowen Jiezi*.
+{{<ref "丠">}} {{<ref "丛">}} {{<ref "𠀌">}} {{<ref "㐀">}} {{<ref "业">}} {{<ref "𠀜">}} - Copy of the small seal script form from *Shuowen Jiezi*.
 
-[𠀈](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20008) - Alternative form.
+{{<ref "𠀈">}} - Alternative form.
 
-[𠀉](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b20009) - Shortened (tabooed) form.
+{{<ref "𠀉">}} - Shortened (tabooed) form.

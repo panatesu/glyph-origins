@@ -14,7 +14,7 @@ weight = 4
 
 {強} \*N.kaŋ "strong"
 
-[弓](https://panatesu.github.io/glyph-origins/radicals/57/#U%2b5F13) *BOW* + differentiative 口. The modern form is a *liding*.
+{{<ref "弓">}} *BOW* + differentiative 口. The modern form is a *liding*.
 
 - 裘錫圭 1982 - 甲骨文字考釋(續)・釋“弘”“強”
 - 季旭昇 2014 - 說文新證 [2nd ed.] (880)

@@ -14,7 +14,7 @@ weight = 1
 
 {聰} \*tsʰˤoŋ "clever" ♪→ {悤(悤)} \*tsʰoŋ(tsʰoŋ) "quickly"
 
-[心](https://panatesu.github.io/glyph-origins/radicals/61/#U%2b5FC3) *HEART* + unknown element (probably a shortened form of ♪[舂](https://panatesu.github.io/glyph-origins/radicals/134/#U%2b8202) \*STOŊ).
+{{<ref "心">}} *HEART* + unknown element (probably a shortened form of ♪{{<ref "舂">}} \*STOŊ).
 
 - 裘錫圭 1988 - 說字小記・說“悤”“聡”
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (761-762)

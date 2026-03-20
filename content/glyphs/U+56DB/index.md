@@ -14,7 +14,7 @@ weight = 1
 
 {呬} \*C̥.lri\[j\]s "breath" or {泗} \*sV.li\[j\]s "nasal mucus" ♪→ {四} \*sV.li\[j\]s "four"
 
-Depiction of a nose ([自](https://panatesu.github.io/glyph-origins/radicals/132/#U%2b81EA)) with air or nasal mucus coming out of it.
+Depiction of a nose ({{<ref "自">}}) with air or nasal mucus coming out of it.
 
 - 劉洪濤 2018 - 釋“四”
 - 劉洪濤 2019 - 形體特點對古文字考釋重要性研究 (173-183)

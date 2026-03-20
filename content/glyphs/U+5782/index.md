@@ -14,6 +14,6 @@ weight = 1
 
 {陲} \*\[d\]o\[j\] "frontier" ♪→ {垂} \*\[d\]o\[j\] "to hang down"
 
-♪[𡸁](https://panatesu.github.io/glyph-origins/radicals/46/#U%2b21E01) \*TOJ with the lower part replaced with [土](https://panatesu.github.io/glyph-origins/radicals/32/#U%2b571F) *EARTH*. 
+♪{{<ref "𡸁">}} \*TOJ with the lower part replaced with {{<ref "土">}} *EARTH*. 
 
 - 李學勤 (ed.) 2012 - 字源 (1195)

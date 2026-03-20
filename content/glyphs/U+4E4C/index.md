@@ -12,6 +12,6 @@ weight = 1
 
 </div>
 
-Shortening of [烏](https://panatesu.github.io/glyph-origins/radicals/86/#U%2b70CF) based on the cursive form. Modern simplified form of [烏](https://panatesu.github.io/glyph-origins/radicals/86/#U%2b70CF) in China.
+Shortening of {{<ref "烏">}} based on the cursive form. Modern simplified form of {{<ref "烏">}} in China.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (303)

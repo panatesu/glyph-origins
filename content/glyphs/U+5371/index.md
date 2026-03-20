@@ -14,6 +14,6 @@ weight = 1
 
 {跪} \*\[g\](r)ojʔ "to kneel" ♪→ {危} \*\[ŋ\](r)\[o\]j "dangerous"
 
-[卩](https://panatesu.github.io/glyph-origins/radicals/26/#U%2b5369) *KNEEL* + ♪[厃](https://panatesu.github.io/glyph-origins/radicals/27/#U%2b5383)¹ \*KOJ.
+{{<ref "卩">}} *KNEEL* + ♪{{<ref "厃">}}¹ \*KOJ.
 
 - 大西克也 2003 - 試論上博楚簡《緇衣》中的“厃”字及相關諸字

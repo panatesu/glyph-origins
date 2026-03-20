@@ -20,4 +20,4 @@ Depiction of a bird with its head tilted back and its beak wide open.
 
 **Forms:**
 
-[乌](https://panatesu.github.io/glyph-origins/radicals/4/#U%2b4E4C) - Shortening based on the cursive form. Modern simplified form in China.
+{{<ref "乌">}} - Shortening based on the cursive form. Modern simplified form in China.

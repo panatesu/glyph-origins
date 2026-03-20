@@ -12,6 +12,6 @@ weight = 1
 
 </div>
 
-Shortening of [壹](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58F9) based on the cursive form. Modern simplified form of [壹](https://panatesu.github.io/glyph-origins/radicals/33/#U%2b58F9) in Japan.
+Shortening of {{<ref "壹">}} based on the cursive form. Modern simplified form of {{<ref "壹">}} in Japan.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (339)

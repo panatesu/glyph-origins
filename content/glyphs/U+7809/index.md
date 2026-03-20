@@ -14,6 +14,6 @@ weight = 1
 
 {砉} \*qʷʰˤek "*crackling sound*"
 
-[石](https://panatesu.github.io/glyph-origins/radicals/112/#U%2b77F3) *STONE* + ♪[圭](https://panatesu.github.io/glyph-origins/radicals/32/#U%2b572D) \*KᵂE (\> 丰/丯).
+{{<ref "石">}} *STONE* + ♪{{<ref "圭">}} \*KᵂE (\> 丰/丯).
 
 - 布之道 2022 - 廣韻形聲考

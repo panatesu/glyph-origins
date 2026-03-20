@@ -14,6 +14,6 @@ weight = 1
 
 ?{任} \*nəm "(physical) burden" ♪→ {男} \*nˤəm "baron; man"
 
-Depiction of a plow ([力](https://panatesu.github.io/glyph-origins/radicals/19/#U%2b529B)) on a field ([田](https://panatesu.github.io/glyph-origins/radicals/102/#U%2b7530)).
+Depiction of a plow ({{<ref "力">}}) on a field ({{<ref "田">}}).
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (918-919)

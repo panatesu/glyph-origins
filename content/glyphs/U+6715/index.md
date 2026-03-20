@@ -14,6 +14,6 @@ weight = 1
 
 {䑣} \*C̥.lrəm "to go (about a boat)" ♪→ {朕} \*lrəmʔ "I, me"
 
-Depiction of a person pushing a boat ([舟](https://panatesu.github.io/glyph-origins/radicals/137/#U%2b821F) \> 月) with a pole.
+Depiction of a person pushing a boat ({{<ref "舟">}} \> 月) with a pole.
 
 - 鄔可晶 & 施瑞峰 2022 - 說“朕”“灷”

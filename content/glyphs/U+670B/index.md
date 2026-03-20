@@ -16,7 +16,7 @@ weight = 1
 
 {朋} \*[b]ˤəŋ "friend"
 
-[人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) *PERSON* + ♪朋² \*PƏŊ.
+{{<ref "人">}} *PERSON* + ♪朋² \*PƏŊ.
 
 - 黃文傑 2000 - 說朋
 - 李家浩 2013 - 《說文》篆文有漢代小学家簒改和虛造的字形

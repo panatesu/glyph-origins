@@ -14,6 +14,6 @@ weight = 1
 
 {春} \*tʰu\[r\] "spring"
 
-[日](https://panatesu.github.io/glyph-origins/radicals/72/#U%2b65E5) *SUN* + ♪[芚](https://panatesu.github.io/glyph-origins/radicals/140/#U%2b829A) \*TU\[R\]. Initially the word {春} was written phonetically as [屯](https://panatesu.github.io/glyph-origins/radicals/45/#U%2b5C6F) \*TU\[R\] or [芚](https://panatesu.github.io/glyph-origins/radicals/140/#U%2b829A).
+{{<ref "日">}} *SUN* + ♪{{<ref "芚">}} \*TU\[R\]. Initially the word {春} was written phonetically as {{<ref "屯">}} \*TU\[R\] or {{<ref "芚">}}.
 
 - 蔣玉斌 2018 -釋釈甲骨金文的“蠢”兼論相關問題

@@ -14,7 +14,7 @@ weight = 1
 
 {夫} \*p(r)a "adult man" & {大} \*lˤats "big"
 
-Depiction of an adult human figure. Initially was created for the word {夫}, but was also used for {大}. Later after the glyph [夫](https://panatesu.github.io/glyph-origins/radicals/37/#U%2b592B) was created, 大 began to be used only for {大}.
+Depiction of an adult human figure. Initially was created for the word {夫}, but was also used for {大}. Later after the glyph {{<ref "夫">}} was created, 大 began to be used only for {大}.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (763-764)
 - 姚孝遂 1989 - 再論古漢字的性質

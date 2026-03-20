@@ -14,7 +14,7 @@ weight = 1
 
 {履} \*\[r\]ijʔ "to put on shoes"
 
-Initially the word {履} was written as [⿱企一](https://panatesu.github.io/glyph-origins/radicals/215/#%E2%BF%B1%E4%BC%81%E4%B8%80) (depiction of a person with a covered foot). Later ♪[眉](https://panatesu.github.io/glyph-origins/radicals/109/#U%2b7709) \*R(M)ƏJ was added.
+Initially the word {履} was written as {{<ref "⿱企一">}} (depiction of a person with a covered foot). Later ♪{{<ref "眉">}} \*R(M)ƏJ was added.
 
 - 裘錫圭 1991 - 西周銅器銘文中的“履”
 - 袁倫強 2022 - 甲骨文“履”字補釋

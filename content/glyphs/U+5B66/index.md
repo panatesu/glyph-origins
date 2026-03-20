@@ -12,6 +12,6 @@ weight = 1
 
 </div>
 
-Shortening of [學](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B78) based on the cursive form. Modern simplified form of [學](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B78) in China and Japan.
+Shortening of {{<ref "學">}} based on the cursive form. Modern simplified form of {{<ref "學">}} in China and Japan.
 
 - Bökset R. 2021 - Long Story of Short Forms: Simplified Chinese Characters from A to Z (325)

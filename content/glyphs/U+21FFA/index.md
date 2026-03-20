@@ -14,7 +14,7 @@ weight = 3
 
 ?{腦} \*nˤ\[u\]ʔ "brain"
 
-Shortened form of [匘](https://panatesu.github.io/glyph-origins/radicals/21/#U%2b5318) \*NU.
+Shortened form of {{<ref "匘">}} \*NU.
 
 - 陳劍 2004 - 郭店簡《六德》用爲“柔”之字考釋
 - 鄔可晶 2018 - “夒”及有關諸字綜理

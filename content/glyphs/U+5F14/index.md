@@ -14,6 +14,6 @@ weight = 1
 
 ?{毒} \*\[d\]ˤuk "poison" ♪→ {弔} \*tˤ\[i\]wk "to reach"
 
-Depiction of a snake ([虫](https://panatesu.github.io/glyph-origins/radicals/142/#U%2b866B)) coiling around a person ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)).
+Depiction of a snake ({{<ref "虫">}}) coiling around a person ({{<ref "人">}}).
 
 - 白於藍 & 王錦城 2019 - 釋“弔”

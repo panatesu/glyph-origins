@@ -14,7 +14,7 @@ weight = 1
 
 {一千} \*ʔit (C)Vs.nˤiŋ "one thousand" → {千} \*(C)Vs.nˤiŋ "thousand"
 
-Initially the word {千} was written phonetically as [人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) \*NIŊ. The glyph
-[一](https://panatesu.github.io/glyph-origins/radicals/1/#U%2b4E00) *ONE* was added to represent the compound {一千}, giving the ligature 千. Later this ligature began to be used for the morpheme {千} itself.
+Initially the word {千} was written phonetically as {{<ref "人">}} \*NIŊ. The glyph
+{{<ref "一">}} *ONE* was added to represent the compound {一千}, giving the ligature 千. Later this ligature began to be used for the morpheme {千} itself.
 
 - 張秉權 1975 - 甲骨文中所見的「數」

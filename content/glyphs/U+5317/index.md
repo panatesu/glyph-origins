@@ -14,6 +14,6 @@ weight = 1
 
 {背} \*m.pˤəks "turn the back on" ♪→ {北} \*pˤək "north"
 
-Depiction of two people ([人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA)) turning their backs on each other.
+Depiction of two people ({{<ref "人">}}) turning their backs on each other.
 
 - 季旭昇 2014 - 說文新證 \[2nd ed.\] (651)

@@ -20,4 +20,4 @@ Depiction of a horse.
 
 **Forms:**
 
-[马](https://panatesu.github.io/glyph-origins/radicals/187/#U%2b9A6C) - Shortening based on the cursive form. Modern simplified form in China.
+{{<ref "马">}} - Shortening based on the cursive form. Modern simplified form in China.

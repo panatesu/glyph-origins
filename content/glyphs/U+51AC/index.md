@@ -14,6 +14,6 @@ weight = 1
 
 {冬} \*tˤuŋ "winter"
 
-♪[𠂂](https://panatesu.github.io/glyph-origins/radicals/3/#U%2b20082) \*TUŊ + differentiative lines.
+♪{{<ref "𠂂">}} \*TUŊ + differentiative lines.
 
 - 黃德寬 (ed.) 2007 - 古文字譜系疏證 (1157-1159)

@@ -14,10 +14,10 @@ weight = 1
 
 {死} \*sijʔ "to die" (& {葬} \*tsˤaŋs "to bury")
 
-Either [歺](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B7A) *SHOVEL* + [人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) *PERSON* (created for {死}) or [人](https://panatesu.github.io/glyph-origins/radicals/9/#U%2b4EBA) *PERSON* + ♪[歺](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B7A) \*TSAŊ (created for {葬} and later began to be used for {死}; in early script some glyphs were used for both words {葬} and {死}).
+Either {{<ref "歺">}} *SHOVEL* + {{<ref "人">}} *PERSON* (created for {死}) or {{<ref "人">}} *PERSON* + ♪{{<ref "歺">}} \*TSAŊ (created for {葬} and later began to be used for {死}; in early script some glyphs were used for both words {葬} and {死}).
 
 - 張昂 2024 - 說“死”“葬”
 
 **Forms:**
 
-[歹](https://panatesu.github.io/glyph-origins/radicals/78/#U%2b6B79) - Shortening used in compound glyphs as a semantic.
+{{<ref "歹">}} - Shortening used in compound glyphs as a semantic.

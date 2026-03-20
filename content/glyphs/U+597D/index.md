@@ -16,7 +16,7 @@ weight = 1
 
 ?{抱} \*\[m.p\]ˤuʔ "to embrace" ♪→ {好} \*\[C̥.n\]ˤuʔ "good"
 
-Unknown. Probably differentiated form of [包](https://panatesu.github.io/glyph-origins/radicals/20/#U%2b5305) \*PU (depiction of a person embracing a baby for {抱}).
+Unknown. Probably differentiated form of {{<ref "包">}} \*PU (depiction of a person embracing a baby for {抱}).
 
 - 謝明文 2015 - 釋甲骨文中的“抱”——兼論“包”字
 
@@ -24,7 +24,7 @@ Unknown. Probably differentiated form of [包](https://panatesu.github.io/glyph-
 
 {好} \*\[ts\]əʔ "*Zi* (female surname)"
 
-[女](https://panatesu.github.io/glyph-origins/radicals/38/#U%2b5973) *WOMAN* + ♪[子](https://panatesu.github.io/glyph-origins/radicals/39/#U%2b5B50) \*TSƏ.
+{{<ref "女">}} *WOMAN* + ♪{{<ref "子">}} \*TSƏ.
 
 - 曹定雲 1993 - 殷墟婦好墓銘文研究
 - Childs-Johnson E. 2003 - Fu Zi: The Shang Woman Warrior
