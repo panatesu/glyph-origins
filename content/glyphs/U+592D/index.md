@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{腰} \*ʔew "waist" ♪→ {夭} \*ʔ(r)auʔ "to die young"
+{腰} \*ʔew "waist" ♪→ {夭} \*ʔ(r)awʔ "to die young"
 
 Depiction of a person ({{<ref "大">}}) with a pointing line on his waist.
 
