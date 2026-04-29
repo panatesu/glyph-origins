@@ -20,4 +20,4 @@ Initially the word {萬} was written phonetically with a glyph created for the w
 
 **Forms:**
 
-{{<ref "万">}} - Shortening based on the early cursive form. Modern simplified form　in China and Japan.
+{{<ref "万">}} - Shortening based on the early cursive form. Modern simplified form in China and Japan.
