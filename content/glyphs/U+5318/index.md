@@ -12,10 +12,9 @@ weight = 1
 
 </div>
 
-? ♪→ {腦} \*nˤ\[u\]ʔ "brain"
+?{擾} \*n\[aw\]ʔ "to cause disorder" ♪→ {腦} \*nˤ\[u\]ʔ "brain"
 
-Depiction of a person holding an axe behing his back. The modern form is
-based on a form from *Shuowen Jiezi*.
+♪{{<ref "夒">}} \*NU, holding a battle axe ({{<ref "戌">}}). The modern form is based on a form from *Shuowen Jiezi*.
 
 - 陳劍 2004 - 郭店簡《六德》用爲“柔”之字考釋
 - 鄔可晶 2018 - “夒”及有關諸字綜理
