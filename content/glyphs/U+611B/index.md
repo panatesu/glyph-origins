@@ -14,7 +14,7 @@ weight = 1
 
 {愛} \*qˤə[p]s "to love"
 
-{{<ref "心">}} *HEART* + ♪{{<ref "旡">}}. Later decorative 夂 was added to {{<ref "旡">}}.
+{{<ref "心">}} *HEART* + ♪{{<ref "旡">}} \*KƏ\[P\]. Later decorative 夂 was added to {{<ref "旡">}}.
 
 - 陳劍 2011 - 孔家坡漢簡的“祟”字
 - 禤健聰 2016 - 楚簡文字與《說文》互證舉例
