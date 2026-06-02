@@ -5,7 +5,7 @@ weight = 1
 
 #### 吹¹
 
-{吹} \*\[tʰ\]o\[r\] "to blow"
+{吹} \*\[tʰ\]o\[j\] "to blow"
 
 Initially the word {吹} was written as {{<ref "炊">}}. Later the left element was replaced with {{<ref "口">}} *MOUTH*.
 
