@@ -3,8 +3,8 @@ radical = "57"
 weight = 1
 +++
 
-{引} \*li\[n\]ʔ "to draw (a bow)"
+{𢏮/淵} \*\[ʔ\]ʷˤiŋ "bow limb/curve" ♪→ {引} \*liŋʔ "to draw (a bow)"
 
-Depiction of a bow ({{<ref "弓">}}) with a line representing it being drawn.
+Depiction of a bow ({{<ref "弓">}}) with a pointing line on its limb/curve.
 
-- 季旭昇 2014 - 說文新證 [2nd ed.] (879-880)
+- 孫亞冰 2025 - 「引」字本義考
