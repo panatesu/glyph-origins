@@ -16,4 +16,6 @@ weight = 1
 
 ♪{{<ref "午">}}² \*PU (depiction of a drumstick for {枹/桴} \*\[b\](r)u "drumstick") + differentiative 口.
 
-- 復旦大學出土文獻與古文字研究中心 (ed.) 2024 - 出土文獻與古文字教程 (11-12)
+- 郭小武 2001 - 古文字考釋五題
+- 徐寶貴 & 孫臣 2001 - 古文字考釋四則
+- 謝明文 2022 - 談「寶」論「富」
