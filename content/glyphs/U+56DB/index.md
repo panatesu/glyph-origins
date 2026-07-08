@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{呬} \*C̥.lri\[j\]s "breath" or {泗} \*sV.li\[j\]s "nasal mucus" ♪→ {四} \*sV.li\[j\]s "four"
+{呬} \*C̥.lri\[t\]s "breath" or {泗} \*sV.li\[t\]s "nasal mucus" ♪→ {四} \*sV.li\[t\]s "four"
 
 Depiction of a nose ({{<ref "自">}}) with air or nasal mucus coming out of it.
 

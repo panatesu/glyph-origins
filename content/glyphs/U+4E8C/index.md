@@ -12,7 +12,7 @@ weight = 1
 
 </div>
 
-{二} \*nis "two"
+{二} \*ni\[t\]s "two"
 
 Depiction of two lines.
 
