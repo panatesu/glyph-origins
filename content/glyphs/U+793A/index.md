@@ -7,7 +7,7 @@ weight = 1
 
 {祇} \*ɡe "earth spirit"
 
-A differentiated form of {{<ref "主">}} (depiction of an ancestral tablet).
+Differentiated form of {{<ref "主">}} (depiction of an ancestral tablet).
 
 - 方稚松 2009 - 殷墟甲骨文五種記事刻辭研究
 - 補骨脂 2025 - 重論“示”諧聲域——從清華簡《胥馬》“⿰骨旨”字說起
