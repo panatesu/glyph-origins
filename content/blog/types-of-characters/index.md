@@ -9,7 +9,7 @@ tags = ["IntroToPaleography"]
   link="img/d091d0b5d0b7d18bd0bcd18fd0bdd0bdd18bd0b9.jpg"
 >}}
 
-#### Introduction
+### Introduction
 
 From the 17th to the 18th centuries, Western scholars considered Chinese characters and Egyptian hieroglyphs to be **ideograms** (symbols that convey only meaning), i.e., the opposite of **phonograms** (symbols that convey only sound). This misconception is still quite common among non-specialists.
 
@@ -19,7 +19,7 @@ However, this system has one significant problem – it is designed to describe 
 
 This article will present a modern system that divides all written characters according to clear criteria suitable for any writing system (with an emphasis on Chinese and Egyptian, since these are the early writing systems I am most familiar with).
 
-#### Phonograms – Ideograms – Logograms
+### Phonograms – Ideograms – Logograms
 
 First, let’s consider this common system using examples of symbols from some early writing systems. It is based on two criteria:
 
@@ -41,7 +41,7 @@ It is worth noting that these types are not fixed for specific symbols but can e
   link="img/image-1.png"
 >}}
 
-#### Groups of symbols
+### Groups of symbols
 
 Before moving on to the main part, it is necessary to talk about an important thing – groups of symbols. In ancient writing systems, several symbols could be combined into groups.
 
@@ -117,7 +117,7 @@ Here the word {kanji “Chinese character”} is written using the symbols ⟨�
   link="img/image-9.png"
 >}}
 
-#### Ligatures
+### Ligatures
 
 Ligatures are essentially established groups of symbols that can be considered independent symbols. For example, above was given the Egyptian hieroglyph ⟨𓌬⟩, which is a ligature of ⟨𓌫⟩ and ⟨𓂻⟩. The cuneiform glyph ⟨𒈗⟩ is a ligature of ⟨𒇽⟩ and ⟨𒃲⟩, and the Anatolian glyph ⟨𔑾⟩ consists of ⟨𔑺⟩ and ⟨𔖻⟩. In essence, developed systems, such as Demotic or modern Chinese script, are almost entirely composed of ligatures that are treated as independent symbols rather than groups.
 
@@ -132,7 +132,7 @@ Now let’s move on to modern theory. It was developed by Egyptologists, but sur
 
 The main source for this classification is ***Stéphane Polis, Serge Rosmorduc, 2015. The Hieroglyphic Sign Functions: Suggestions for a Revised Taxonomy.***
 
-#### Ideograms
+### Ideograms
 
 **Ideograms** are symbols that do not carry any sound and are not tied to any words; their purpose is to convey only meaning. Usually ideograms are pictograms – symbols that directly depict an object or a certain plot. For example, a machine operating manual consists entirely of ideograms.
 
@@ -164,7 +164,7 @@ Another good example is the Dongba proto-writing, which itself is largely compos
 
 Actually, the language is not fully transmitted here, thus it is still a proto-writing. The only non-ideographic symbols here are (1) the phonogram for the word “white” (above the “wind on the left”), derived from the logogram for the word “to unite”; (2) the logogram for the word “black” (above the “wind on the right”); (3) the logogram for the word “cliff”, supplemented by (4) a phonetic, derived from the logogram for the word “chicken”, depicting a chicken head.
 
-#### Logograms
+### Logograms
 
 **Logograms** are symbols that directly convey words, with their sound and meaning. Some of them represent a specific object:
 
@@ -193,7 +193,7 @@ Logograms can also be polyvalent, i.e., they can convey several different words 
   link="img/image-16.png"
 >}}
 
-#### Phonograms
+### Phonograms
 
 **Phonograms** are symbols that convey only sound, without regard to the meaning. They usually develop from logograms to write phonologically similar but semantically different words (this method of writing is often called “rebus” or, in the context of Chinese script, “phonetic borrowing”).
 
@@ -207,7 +207,7 @@ Because of the polyvalence of logograms, phonograms can also convey several unre
 
 It is sometimes quite difficult to draw boundaries between logograms and phonograms, because a phonetically borrowed meaning can become the main one, and the character will acquire the reading and meaning of a completely different word, losing the original one. For example, the logogram ⟨𓅭⟩ {zꜣt “duck”} was phonetically borrowed to write the word {zꜣ “son”}, and over time the latter word became the main one for the hieroglyph, i.e. ⟨𓅭⟩ for {zꜣ “son”} moved from phonogram to logogram.
 
-#### Radicograms
+### Radicograms
 
 **Radicograms** are essentially non-independent logograms. They are used as phonetic and semantic complements to etymologically related or semantically similar words. For example, the Egyptian hieroglyphs ⟨𓄚⟩ and ⟨𓂙⟩ can both convey the sound \[ẖn\], but ⟨𓄚⟩ can be used in any word (i.e., as a regular phonogram), for example, to write the words {ẖn.w “inside”} or {ẖn “to approach”}, whereas the use of ⟨𓂙⟩ is mainly limited to the word {ẖnj “to row”} and those etymologically related to it, such as {ẖnw “rower”}, {ẖn.t “to sail in a boat”}, {mẖn.t “transport ship”}, etc. (and even occurs once to write the word {ẖntj “statue”}, which in context was specifically a statue used in water processions) – i.e., it conveys not only sound, but also meaning.
 
@@ -215,7 +215,7 @@ In Chinese, it is also possible to distinguish a certain number of radicograms w
 
 The boundaries between radicograms and phonetics are even more blurred than between logograms and phonograms, so it is quite difficult to distinguish them.
 
-#### Semantics
+### Semantics
 
 **Semantics** or **determinatives** are auxiliary symbols designed to hint at the meaning of a particular word written by a group of characters. Compare the Egyptian words in the picture:
 
@@ -240,7 +240,7 @@ Chinese script is no exception. For example, the character ⟨叚⟩ had a phone
   link="img/image-20.png"
 >}}
 
-#### Phonetics
+### Phonetics
 
 **Phonetics** are auxiliary symbols designed to hint at the reading of a word written by a group of characters. They can be added to both logograms and phonograms.
 
@@ -263,7 +263,7 @@ Phonetics can also form ligatures with a character, sometimes replacing an exist
   link="img/image-23.png"
 >}}
 
-#### Diacritics
+### Diacritics
 
 **Diacritics** or **decorative/differentiative marks** are auxiliary symbols that carry neither semantic nor sound function, but are adopted either to graphically decorate a symbol or to differentiate it by reading or meaning.
 
@@ -299,7 +299,7 @@ In Egyptian, diacritics can be used in the same way as in Chinese – to differe
 
 Also in Egyptian, small dashes can be added to simply distinguish between different but graphically similar hieroglyphs. For example, one of the forms of the hieroglyph ⟨𓏒⟩ is ⟨𓏔⟩, but since there is a completely different homographic hieroglyph ⟨𓏔⟩, dashes ⟨𓏕⟩ can be added to that form to clearly indicate that this is the form ⟨𓏒⟩, and not ⟨𓏔⟩.
 
-#### Punctuation Marks
+### Punctuation Marks
 
 **Punctuation marks** are independent symbols that convey neither sound nor meaning, serving only to separate some elements of the text. This type will not be described here in detail, because, i think, it’s already clear – these are symbols like a period ⟨.⟩, a comma ⟨,⟩, a hyphen ⟨-⟩, brackets ⟨( )⟩, etc.
 
